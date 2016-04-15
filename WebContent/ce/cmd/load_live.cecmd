@@ -48,20 +48,20 @@ perform load sentences from url '/SL_data/ce/facts/paper_files.ce'.
 perform load sentences from url '/SL_data/ce/facts/paper_thumbnails.ce'.
 
 -- Load the computed data
-perform load sentences from url '/SL_data/ce/facts/cached/computed_citations.ce'.
-perform load sentences from url '/SL_data/ce/facts/cached/computed_person_counts.ce'.
-perform load sentences from url '/SL_data/ce/facts/cached/computed_org_counts.ce'.
-perform load sentences from url '/SL_data/ce/facts/cached/computed_coauthor_stats.ce'.
-perform load sentences from url '/SL_data/ce/facts/cached/computed_eventdurations.ce'.
-perform load sentences from url '/SL_data/ce/facts/cached/computed_origauthors.ce'.
-perform load sentences from url '/SL_data/ce/facts/cached/computed_docweights.ce'.
-perform load sentences from url '/SL_data/ce/facts/cached/computed_totals.ce'.
-perform load sentences from url '/SL_data/ce/facts/cached/computed_numauthors.ce'.
+perform load sentences from url '/SL_data/ce/facts/computed/computed_citations.ce'.
+perform load sentences from url '/SL_data/ce/facts/computed/computed_person_counts.ce'.
+perform load sentences from url '/SL_data/ce/facts/computed/computed_org_counts.ce'.
+perform load sentences from url '/SL_data/ce/facts/computed/computed_coauthor_stats.ce'.
+perform load sentences from url '/SL_data/ce/facts/computed/computed_eventdurations.ce'.
+perform load sentences from url '/SL_data/ce/facts/computed/computed_origauthors.ce'.
+perform load sentences from url '/SL_data/ce/facts/computed/computed_docweights.ce'.
+perform load sentences from url '/SL_data/ce/facts/computed/computed_totals.ce'.
+perform load sentences from url '/SL_data/ce/facts/computed/computed_numauthors.ce'.
 
 -- Run the rules
-perform run the rule executor agent named 'rules_orgs_1'.
-perform run the rule executor agent named 'rules_people_1'.
-perform run the rule executor agent named 'rules_projects_1'.
-perform run the rule executor agent named 'rules_authors_1'.
-perform run the rule executor agent named 'rules_dates_1'.
-perform run the rule executor agent named 'rules_documents_1'.
+perform run the rule executor agent named 'rules_for_orgs'.
+perform run the rule executor agent named 'rules_for_people'.
+perform run the rule executor agent named 'rules_for_projects'.
+perform run the rule executor agent named 'rules_for_authors'.
+perform run the rule executor agent named 'rules_for_dates'.
+perform run the rule executor agent named 'rules_for_documents'.

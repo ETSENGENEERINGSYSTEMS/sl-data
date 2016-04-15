@@ -3,10 +3,10 @@
 -- All Rights Reserved
 -- --------------------------------------------------------------------------
 
-there is a rule executor agent named 'rules_orgs_1' that
+there is a rule executor agent named 'rules_for_orgs' that
   has 'com.ibm.ets.ita.ce.agent.general.RuleExecutor' as class name and
   has 'true' as save CE to file and
-  has 'Rules_Orgs_1.ce' as CE filename and
+  has 'Rules_Orgs.ce' as CE filename and
   has 'true' as iterate and
   has '10' as maximum iterations and
   has '1a-org type - academic' as rule name and
@@ -17,10 +17,10 @@ there is a rule executor agent named 'rules_orgs_1' that
   has '1a-organisation employs' as rule name and
   has '1b-published organisation' as rule name.
 
-there is a rule executor agent named 'rules_people_1' that
+there is a rule executor agent named 'rules_for_people' that
   has 'com.ibm.ets.ita.ce.agent.general.RuleExecutor' as class name and
   has 'true' as save CE to file and
-  has 'Rules_People_1.ce' as CE filename and
+  has 'Rules_People.ce' as CE filename and
   has 'true' as iterate and
   has '10' as maximum iterations and
   has '1a-ITA person' as rule name and
@@ -32,37 +32,37 @@ there is a rule executor agent named 'rules_people_1' that
   has '1b-US person' as rule name and
   has '1b-UK person' as rule name.
 
-there is a rule executor agent named 'rules_projects_1' that
+there is a rule executor agent named 'rules_for_projects' that
   has 'com.ibm.ets.ita.ce.agent.general.RuleExecutor' as class name and
   has 'true' as save CE to file and
-  has 'Rules_Projects_1.ce' as CE filename and
+  has 'Rules_Projects.ce' as CE filename and
   has 'true' as iterate and
   has '10' as maximum iterations and
   has '1a-project document' as rule name.
 
-there is a rule executor agent named 'rules_authors_1' that
+there is a rule executor agent named 'rules_for_authors' that
   has 'com.ibm.ets.ita.ce.agent.general.RuleExecutor' as class name and
   has 'true' as save CE to file and
-  has 'Rules_Authors_1.ce' as CE filename and
+  has 'Rules_Authors.ce' as CE filename and
   has 'true' as iterate and
   has '10' as maximum iterations and
   has '1b-person wrote document' as rule name and
   has '1c-co-authors' as rule name and
   has '1d-inv co-author' as rule name.
 
-there is a rule executor agent named 'rules_dates_1' that
+there is a rule executor agent named 'rules_for_dates' that
   has 'com.ibm.ets.ita.ce.agent.general.RuleExecutor' as class name and
   has 'true' as save CE to file and
-  has 'Rules_Dates_1.ce' as CE filename and
+  has 'Rules_Dates.ce' as CE filename and
   has 'true' as iterate and
   has '10' as maximum iterations and
   has '1a-final date from event' as rule name and
   has '1b-final date from publish date' as rule name.
 
-there is a rule executor agent named 'rules_documents_1' that
+there is a rule executor agent named 'rules_for_documents' that
   has 'com.ibm.ets.ita.ce.agent.general.RuleExecutor' as class name and
   has 'true' as save CE to file and
-  has 'Rules_Documents_1.ce' as CE filename and
+  has 'Rules_Documents.ce' as CE filename and
   has 'true' as iterate and
   has '10' as maximum iterations and
   has '1a-document topics' as rule name and
@@ -71,82 +71,3 @@ there is a rule executor agent named 'rules_documents_1' that
   has '1c-UK government document' as rule name and
   has '1c-US government document' as rule name and
   has '1c-US-UK document' as rule name.
-
-
-
-
-
-
-there is a paper fixer agent named 'pf1' that
-  has 'com.ibm.ets.ita.ce.agent.papers.PaperFixer' as class name and
-  has 'true' as check for duplicates and
-  has 'false' as fix authors and
-  has 'false' as generate author names.
-
-there is a paper fixer agent named 'pf2' that
-  has 'com.ibm.ets.ita.ce.agent.papers.PaperFixer' as class name and
-  has 'PaperFixer_thumbnails.ce' as CE filename and
-  has 'true' as save CE to file and
-  has 'true' as generate thumbnails.
-
-there is a paper fixer agent named 'pf3' that
-  has 'com.ibm.ets.ita.ce.agent.papers.PaperFixer' as class name and
-  has 'PaperFixer_paperlinks.ce' as CE filename and
-  has 'true' as save CE to file and
-  has 'true' as generate paper links.
-
-there is a paper fixer agent named 'pf4' that
-  has 'com.ibm.ets.ita.ce.agent.papers.PaperFixer' as class name and
-  has 'PaperFixer_defaultlinks.ce' as CE filename and
-  has 'true' as save CE to file and
-  has 'true' as generate default links.
-
-there is a paper fixer agent named 'pf5' that
-  has 'com.ibm.ets.ita.ce.agent.papers.PaperFixer' as class name and
-  has 'PaperFixer_origauthors.ce' as CE filename and
-  has 'true' as save CE to file and
-  has 'true' as generate original authors.
-
-there is a paper stats agent named 'ps_classify' that
-  has 'com.ibm.ets.ita.ce.agent.papers.PaperStats' as class name and
-  has 'true' as save CE to file and
-  has 'PaperStats_classify.ce' as CE filename and
-  has 'classify' as mode and
-  has '10' as paper title similarity threshold.
-
-there is a paper stats agent named 'ps_count' that
-  has 'com.ibm.ets.ita.ce.agent.papers.PaperStats' as class name and
-  has 'true' as save CE to file and
-  has 'PaperStats_stats.ce' as CE filename and
-  has 'stats' as mode.
-
-there is a paper stats agent named 'ps_newstats' that
-  has 'com.ibm.ets.ita.ce.agent.papers.PaperStats' as class name and
-  has 'true' as save CE to file and
-  has 'PaperStats_newstats.ce' as CE filename and
-  has 'new stats' as mode.
-
-there is a paper stats agent named 'ps_csv_all' that
-  has 'com.ibm.ets.ita.ce.agent.papers.PaperStats' as class name and
-  has 'papers_all.csv' as CE filename and
-  has 'csv' as mode.
-
-there is a paper stats agent named 'ps_csv_external' that
-  has 'com.ibm.ets.ita.ce.agent.papers.PaperStats' as class name and
-  has 'papers_external.csv' as CE filename and
-  has 'csv' as mode.
-
-there is a event stats agent named 'es_years' that
-  has 'com.ibm.ets.ita.ce.agent.events.EventStats' as class name and
-  has 'true' as save CE to file and
-  has 'EventStats_years.ce' as CE filename.
-
-there is a organisation stats agent named 'os_stats' that
-  has 'com.ibm.ets.ita.ce.agent.orgs.OrganisationStats' as class name and
-  has 'true' as save CE to file and
-  has 'OrganisationStats_stats.ce' as CE filename.
-
-there is a person stats agent named 'ps_stats' that
-  has 'com.ibm.ets.ita.ce.agent.people.PersonStats' as class name and
-  has 'true' as save CE to file and
-  has 'PersonStats_stats.ce' as CE filename.

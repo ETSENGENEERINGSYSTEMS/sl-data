@@ -47,14 +47,35 @@ perform load sentences from url '/SL_data/ce/facts/paper_citations.ce'.
 perform load sentences from url '/SL_data/ce/facts/paper_files.ce'.
 perform load sentences from url '/SL_data/ce/facts/paper_thumbnails.ce'.
 
-
 -- Load the computed data
-perform load sentences from url '/SL_data/ce/facts/cached/computed_citations.ce'.
-perform load sentences from url '/SL_data/ce/facts/cached/computed_person_counts.ce'.
-perform load sentences from url '/SL_data/ce/facts/cached/computed_org_counts.ce'.
-perform load sentences from url '/SL_data/ce/facts/cached/computed_coauthor_stats.ce'.
-perform load sentences from url '/SL_data/ce/facts/cached/computed_eventdurations.ce'.
-perform load sentences from url '/SL_data/ce/facts/cached/computed_origauthors.ce'.
-perform load sentences from url '/SL_data/ce/facts/cached/computed_docweights.ce'.
-perform load sentences from url '/SL_data/ce/facts/cached/computed_totals.ce'.
-perform load sentences from url '/SL_data/ce/facts/cached/computed_numauthors.ce'.
+perform load sentences from url '/SL_data/ce/facts/computed/computed_citations.ce'.
+perform load sentences from url '/SL_data/ce/facts/computed/computed_person_counts.ce'.
+perform load sentences from url '/SL_data/ce/facts/computed/computed_org_counts.ce'.
+perform load sentences from url '/SL_data/ce/facts/computed/computed_coauthor_stats.ce'.
+perform load sentences from url '/SL_data/ce/facts/computed/computed_eventdurations.ce'.
+perform load sentences from url '/SL_data/ce/facts/computed/computed_origauthors.ce'.
+perform load sentences from url '/SL_data/ce/facts/computed/computed_docweights.ce'.
+perform load sentences from url '/SL_data/ce/facts/computed/computed_totals.ce'.
+perform load sentences from url '/SL_data/ce/facts/computed/computed_numauthors.ce'.
+
+-- (Run the rules) - Load the cached data
+
+--perform run the rule executor agent named 'rules_for_orgs'.
+perform load sentences from url '/SL_data/ce/facts/cached/Rules_Orgs_flush_1.ce'.
+
+--perform run the rule executor agent named 'rules_for_people'.
+perform load sentences from url '/SL_data/ce/facts/cached/Rules_People_flush_1.ce'.
+
+--perform run the rule executor agent named 'rules_for_projects'.
+perform load sentences from url '/SL_data/ce/facts/cached/Rules_Projects_flush_1.ce'.
+
+--perform run the rule executor agent named 'rules_for_authors'.
+perform load sentences from url '/SL_data/ce/facts/cached/Rules_Authors_flush_1.ce'.
+perform load sentences from url '/SL_data/ce/facts/cached/Rules_Authors_flush_2.ce'.
+perform load sentences from url '/SL_data/ce/facts/cached/Rules_Authors_flush_3.ce'.
+
+--perform run the rule executor agent named 'rules_for_dates'.
+perform load sentences from url '/SL_data/ce/facts/cached/Rules_Dates_flush_1.ce'.
+
+--perform run the rule executor agent named 'rules_for_documents'.
+perform load sentences from url '/SL_data/ce/facts/cached/Rules_Documents_flush_1.ce'.
