@@ -1,0 +1,84 @@
+-- --------------------------------------------------------------------------
+-- (C) Copyright IBM Corporation 2016
+-- All Rights Reserved
+-- --------------------------------------------------------------------------
+
+[ 1a-ITA person ]
+if
+  ( the person P is employed by the ITA organisation O )
+then
+  ( the person P is an ITA person )
+.
+
+[ 1a-published person ]
+if
+  ( the person P wrote the academic document D )
+then
+  ( the person P is a published person )
+.
+
+[ 1a-government person ]
+if
+  ( the person P is employed by the government organisation O ) and
+then
+  ( the person P is a government person )
+.
+
+[ 1a-industry person ]
+if
+  ( the person P is employed by the industrial organisation O ) and
+then
+  ( the person P is an industry person )
+.
+
+[ 1a-academic person ]
+if
+  ( the person P is employed by the academic organisation O ) and
+then
+  ( the person P is an academic person )
+.
+
+[ 1a-person co-author statistics ]
+if
+  ( the co-author statistic CS has the published person P as co-author )
+then
+  ( the published person P has the co-author statistic CS as co-author statistic )
+.
+
+[ 1b-US person ]
+if
+  ( the person P is employed by the US organisation O ) and
+then
+  ( the person P is a US person )
+.
+
+[ 1b-UK person ]
+if
+  ( the person P is employed by the UK organisation O ) and
+then
+  ( the person P is a UK person )
+.
+
+[ 1b-person wrote document ]
+if
+   ( the ordered author V3 has the person V1 as author person ) and
+   ( the academic document V4 has the ordered author V3 as author )
+then
+   ( the person V1 wrote the academic document V4 )
+.
+
+[ 1c-co-authors ]
+if
+  ( the person P1 wrote the academic document A ) and
+  ( the person P2 wrote the academic document A ) and
+  ( the person P1 != the person P2 )
+then
+  ( the person P1 has the person P2 as co-author )
+.
+
+[ 1d-inv co-author ]
+if
+  ( the person P1 has the person P2 as co-author )
+then
+  ( the person P2 has the person P1 as co-author )
+.

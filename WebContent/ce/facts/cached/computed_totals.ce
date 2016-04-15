@@ -1,0 +1,183 @@
+-- --------------------------------------------------------------------------
+-- (C) Copyright IBM Corporation 2016
+-- All Rights Reserved
+-- --------------------------------------------------------------------------
+
+the total 'total_all'
+  has 'all' as scope and
+  has '1590' as total paper count and
+  has '668' as single institute paper count and
+  has '922' as collaborative paper count and
+  has '681' as international paper count and
+  has '237' as government paper count and
+  has '207' as journal paper count and
+  has '799' as external conference paper count and
+  has '55' as patent count and
+  has '663' as active ITA authors and
+  has '225' as active non-ITA authors and
+  has '20062' as total citations.
+
+
+the total 'total_2006'
+  has '2006' as scope and
+  has '5' as total paper count and
+  has '5' as single institute paper count and
+  has '0' as collaborative paper count and
+  has '0' as international paper count and
+  has '0' as government paper count and
+  has '0' as journal paper count and
+  has '3' as external conference paper count and
+  has '0' as patent count and
+  has '11' as active ITA authors and
+  has '2' as active non-ITA authors and
+  has '88' as total citations.
+
+
+the total 'total_2007'
+  has '2007' as scope and
+  has '165' as total paper count and
+  has '92' as single institute paper count and
+  has '73' as collaborative paper count and
+  has '36' as international paper count and
+  has '9' as government paper count and
+  has '22' as journal paper count and
+  has '88' as external conference paper count and
+  has '1' as patent count and
+  has '212' as active ITA authors and
+  has '42' as active non-ITA authors and
+  has '4602' as total citations.
+
+
+the total 'total_2008'
+  has '2008' as scope and
+  has '234' as total paper count and
+  has '96' as single institute paper count and
+  has '138' as collaborative paper count and
+  has '107' as international paper count and
+  has '35' as government paper count and
+  has '29' as journal paper count and
+  has '128' as external conference paper count and
+  has '0' as patent count and
+  has '239' as active ITA authors and
+  has '40' as active non-ITA authors and
+  has '4288' as total citations.
+
+
+the total 'total_2009'
+  has '2009' as scope and
+  has '197' as total paper count and
+  has '94' as single institute paper count and
+  has '103' as collaborative paper count and
+  has '80' as international paper count and
+  has '26' as government paper count and
+  has '23' as journal paper count and
+  has '97' as external conference paper count and
+  has '0' as patent count and
+  has '221' as active ITA authors and
+  has '33' as active non-ITA authors and
+  has '3027' as total citations.
+
+
+the total 'total_2010'
+  has '2010' as scope and
+  has '217' as total paper count and
+  has '107' as single institute paper count and
+  has '110' as collaborative paper count and
+  has '76' as international paper count and
+  has '25' as government paper count and
+  has '21' as journal paper count and
+  has '132' as external conference paper count and
+  has '2' as patent count and
+  has '228' as active ITA authors and
+  has '43' as active non-ITA authors and
+  has '3495' as total citations.
+
+
+the total 'total_2011'
+  has '2011' as scope and
+  has '138' as total paper count and
+  has '49' as single institute paper count and
+  has '89' as collaborative paper count and
+  has '70' as international paper count and
+  has '14' as government paper count and
+  has '22' as journal paper count and
+  has '62' as external conference paper count and
+  has '3' as patent count and
+  has '175' as active ITA authors and
+  has '22' as active non-ITA authors and
+  has '1358' as total citations.
+
+
+the total 'total_2012'
+  has '2012' as scope and
+  has '206' as total paper count and
+  has '79' as single institute paper count and
+  has '127' as collaborative paper count and
+  has '92' as international paper count and
+  has '34' as government paper count and
+  has '31' as journal paper count and
+  has '77' as external conference paper count and
+  has '11' as patent count and
+  has '192' as active ITA authors and
+  has '44' as active non-ITA authors and
+  has '1742' as total citations.
+
+
+the total 'total_2013'
+  has '2013' as scope and
+  has '153' as total paper count and
+  has '51' as single institute paper count and
+  has '102' as collaborative paper count and
+  has '76' as international paper count and
+  has '23' as government paper count and
+  has '24' as journal paper count and
+  has '68' as external conference paper count and
+  has '16' as patent count and
+  has '194' as active ITA authors and
+  has '33' as active non-ITA authors and
+  has '889' as total citations.
+
+
+the total 'total_2014'
+  has '2014' as scope and
+  has '179' as total paper count and
+  has '62' as single institute paper count and
+  has '117' as collaborative paper count and
+  has '93' as international paper count and
+  has '36' as government paper count and
+  has '22' as journal paper count and
+  has '74' as external conference paper count and
+  has '12' as patent count and
+  has '193' as active ITA authors and
+  has '31' as active non-ITA authors and
+  has '508' as total citations.
+
+
+the total 'total_2015'
+  has '2015' as scope and
+  has '81' as total paper count and
+  has '27' as single institute paper count and
+  has '54' as collaborative paper count and
+  has '43' as international paper count and
+  has '29' as government paper count and
+  has '8' as journal paper count and
+  has '62' as external conference paper count and
+  has '10' as patent count and
+  has '138' as active ITA authors and
+  has '24' as active non-ITA authors and
+  has '64' as total citations.
+
+
+the total 'total_2016'
+  has '2016' as scope and
+  has '15' as total paper count and
+  has '6' as single institute paper count and
+  has '9' as collaborative paper count and
+  has '8' as international paper count and
+  has '6' as government paper count and
+  has '5' as journal paper count and
+  has '8' as external conference paper count and
+  has '0' as patent count and
+  has '38' as active ITA authors and
+  has '6' as active non-ITA authors and
+  has '1' as total citations.

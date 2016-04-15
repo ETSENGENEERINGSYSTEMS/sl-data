@@ -1,0 +1,46 @@
+-- --------------------------------------------------------------------------
+-- (C) Copyright IBM Corporation 2016
+-- All Rights Reserved
+-- --------------------------------------------------------------------------
+
+-- Month dates
+
+there is a date named 'Jul-2014' that
+  has '7' as month and
+  has '2014' as year.
+
+
+-- Year dates
+
+there is a date named '2016' that
+  has '2016' as year.
+
+there is a date named '2015' that
+  has '2015' as year.
+
+there is a date named '2014' that
+  has '2014' as year.
+
+there is a date named '2013' that
+  has '2013' as year.
+
+there is a date named '2012' that
+  has '2012' as year.
+
+there is a date named '2011' that
+  has '2011' as year.
+
+there is a date named '2010' that
+  has '2010' as year.
+
+there is a date named '2009' that
+  has '2009' as year.
+
+there is a date named '2008' that
+  has '2008' as year.
+
+there is a date named '2007' that
+  has '2007' as year.
+
+there is a date named '2006' that
+  has '2006' as year.

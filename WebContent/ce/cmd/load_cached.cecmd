@@ -1,0 +1,60 @@
+-- --------------------------------------------------------------------------
+-- (C) Copyright IBM Corporation 2016
+-- All Rights Reserved
+-- --------------------------------------------------------------------------
+
+perform reset store with starting uid '1'.
+
+-- Load the models
+perform load sentences from url '/SL_data/ce/model/agent.ce'.
+perform load sentences from url '/SL_data/ce/model/organisation.ce'.
+perform load sentences from url '/SL_data/ce/model/person.ce'.
+perform load sentences from url '/SL_data/ce/model/document.ce'.
+perform load sentences from url '/SL_data/ce/model/project.ce'.
+perform load sentences from url '/SL_data/ce/model/location.ce'.
+perform load sentences from url '/SL_data/ce/model/event.ce'.
+perform load sentences from url '/SL_data/ce/model/date.ce'.
+perform load sentences from url '/SL_data/ce/model/url.ce'.
+perform load sentences from url '/SL_data/ce/model/citation.ce'.
+perform load sentences from url '/SL_data/ce/model/topic.ce'.
+perform load sentences from url '/SL_data/ce/model/misc.ce'.
+perform load sentences from url '/SL_data/ce/model/queries.ce'.
+
+perform load sentences from url '/SL_data/ce/model/rules/date.ce'.
+perform load sentences from url '/SL_data/ce/model/rules/document.ce'.
+perform load sentences from url '/SL_data/ce/model/rules/organisation.ce'.
+perform load sentences from url '/SL_data/ce/model/rules/person.ce'.
+perform load sentences from url '/SL_data/ce/model/rules/project.ce'.
+
+-- Load the agent definitions
+perform load sentences from url '/SL_data/ce/agents/agents.ce'.
+
+-- Load the facts
+perform load sentences from url '/SL_data/ce/facts/organisations.ce'.
+perform load sentences from url '/SL_data/ce/facts/events.ce'.
+perform load sentences from url '/SL_data/ce/facts/projects.ce'.
+perform load sentences from url '/SL_data/ce/facts/places.ce'.
+perform load sentences from url '/SL_data/ce/facts/countries.ce'.
+perform load sentences from url '/SL_data/ce/facts/dates.ce'.
+
+perform load sentences from url '/SL_data/ce/facts/person_main.ce'.
+perform load sentences from url '/SL_data/ce/facts/person_images.ce'.
+perform load sentences from url '/SL_data/ce/facts/person_citations.ce'.
+
+perform load sentences from url '/SL_data/ce/facts/paper_main.ce'.
+perform load sentences from url '/SL_data/ce/facts/paper_abstracts.ce'.
+perform load sentences from url '/SL_data/ce/facts/paper_citations.ce'.
+perform load sentences from url '/SL_data/ce/facts/paper_files.ce'.
+perform load sentences from url '/SL_data/ce/facts/paper_thumbnails.ce'.
+
+
+-- Load the computed data
+perform load sentences from url '/SL_data/ce/facts/cached/computed_citations.ce'.
+perform load sentences from url '/SL_data/ce/facts/cached/computed_person_counts.ce'.
+perform load sentences from url '/SL_data/ce/facts/cached/computed_org_counts.ce'.
+perform load sentences from url '/SL_data/ce/facts/cached/computed_coauthor_stats.ce'.
+perform load sentences from url '/SL_data/ce/facts/cached/computed_eventdurations.ce'.
+perform load sentences from url '/SL_data/ce/facts/cached/computed_origauthors.ce'.
+perform load sentences from url '/SL_data/ce/facts/cached/computed_docweights.ce'.
+perform load sentences from url '/SL_data/ce/facts/cached/computed_totals.ce'.
+perform load sentences from url '/SL_data/ce/facts/cached/computed_numauthors.ce'.

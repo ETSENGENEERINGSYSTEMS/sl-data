@@ -1,0 +1,9 @@
+-- --------------------------------------------------------------------------
+-- (C) Copyright IBM Corporation 2016
+-- All Rights Reserved
+-- --------------------------------------------------------------------------
+
+the academic document 'doc-2697'
+  has '3404' as weight and
+  has '4404' as alternative weight 1 and
+  has '4404' as alternative weight 2.

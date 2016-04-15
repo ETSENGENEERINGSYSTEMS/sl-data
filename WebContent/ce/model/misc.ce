@@ -1,0 +1,40 @@
+-- --------------------------------------------------------------------------
+-- (C) Copyright IBM Corporation 2016
+-- All Rights Reserved
+-- --------------------------------------------------------------------------
+
+conceptualise a ~ thing ~ T that
+  ~ is also known as ~ the value V.
+
+conceptualise a ~ user ~ U.
+
+conceptualise a ~ noted thing ~ N that
+  has the value T as ~ text ~ and
+  ~ was raised by ~ the user U.
+
+conceptualise a ~ comment ~ C that
+  is a noted thing and
+  has the value U as ~ url ~ and
+  ~ applies to ~ the thing T.
+
+conceptualise an ~ issue ~ I that is a noted thing.
+
+conceptualise a ~ temporal thing ~ T.
+
+conceptualise a ~ total ~ T that
+  has the value S as ~ scope ~ and
+  ~ applies to ~ the year Y and
+  has the value TC as ~ total paper count ~ and
+  has the value SC as ~ single institute paper count ~ and
+  has the value CC as ~ collaborative paper count ~ and
+  has the value IC as ~ international paper count ~ and
+  has the value GC as ~ government paper count ~ and
+  has the value JC as ~ journal paper count ~ and
+  has the value ECC as ~ external conference paper count ~ and
+  has the value PC as ~ patent count ~ and
+  has the value AIA as ~ active ITA authors ~ and
+  has the value ANA as ~ active non-ITA authors ~ and
+  has the value TC as ~ total citations ~.
+
+conceptualise a ~ UI message ~ M that
+  has the value T as ~ message text ~.  

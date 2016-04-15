@@ -1,0 +1,49 @@
+-- --------------------------------------------------------------------------
+-- (C) Copyright IBM Corporation 2016
+-- All Rights Reserved
+-- --------------------------------------------------------------------------
+
+the person 'dave_braines' has '42' as total publication count.
+the person 'dave_braines' has '0' as technical report count.
+the person 'dave_braines' has '0' as internal paper count.
+the person 'dave_braines' has '39' as external paper count.
+the person 'dave_braines' has '0' as patent count.
+the person 'dave_braines' has '3' as journal paper count.
+the person 'dave_braines' has '39' as conference paper count.
+the person 'dave_braines' has '0' as other document count.
+the person 'dave_braines' has '68' as co-author count.
+the person 'dave_braines' has '8' as government co-author count.
+
+the person 'tien_pham' has '42' as total publication count.
+the person 'tien_pham' has '0' as technical report count.
+the person 'tien_pham' has '0' as internal paper count.
+the person 'tien_pham' has '39' as external paper count.
+the person 'tien_pham' has '0' as patent count.
+the person 'tien_pham' has '3' as journal paper count.
+the person 'tien_pham' has '39' as conference paper count.
+the person 'tien_pham' has '0' as other document count.
+the person 'tien_pham' has '71' as co-author count.
+the person 'tien_pham' has '18' as government co-author count.
+
+
+the person 'alun_preece' has '51' as total publication count.
+the person 'alun_preece' has '0' as technical report count.
+the person 'alun_preece' has '0' as internal paper count.
+the person 'alun_preece' has '45' as external paper count.
+the person 'alun_preece' has '0' as patent count.
+the person 'alun_preece' has '6' as journal paper count.
+the person 'alun_preece' has '45' as conference paper count.
+the person 'alun_preece' has '0' as other document count.
+the person 'alun_preece' has '47' as co-author count.
+the person 'alun_preece' has '6' as government co-author count.
+
+the person 'geeth_de_mel' has '35' as total publication count.
+the person 'geeth_de_mel' has '0' as technical report count.
+the person 'geeth_de_mel' has '0' as internal paper count.
+the person 'geeth_de_mel' has '32' as external paper count.
+the person 'geeth_de_mel' has '0' as patent count.
+the person 'geeth_de_mel' has '3' as journal paper count.
+the person 'geeth_de_mel' has '32' as conference paper count.
+the person 'geeth_de_mel' has '0' as other document count.
+the person 'geeth_de_mel' has '60' as co-author count.
+the person 'geeth_de_mel' has '9' as government co-author count.

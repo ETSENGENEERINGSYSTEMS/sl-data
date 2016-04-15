@@ -1,0 +1,38 @@
+-- --------------------------------------------------------------------------
+-- (C) Copyright IBM Corporation 2016
+-- All Rights Reserved
+-- --------------------------------------------------------------------------
+
+-- One of the three main concept types. Not all organisations are
+-- 'sub-organisations' of some other organisation, and not all have 'short name'
+-- values (an example of such a value is 'IBM ETS' which has a corresponding
+-- 'name' value that spells out the abbreviation).
+
+conceptualise an ~ organisation ~ O that
+  has the value NA as ~ name ~ and
+  has the value SN as ~ short name ~ and
+  ~ is located at ~ the place P and
+  ~ employs ~ the person P and
+  has the value PC as ~ paper count ~ and
+  has the value PC as ~ journal paper count ~ and
+  has the value PC as ~ external paper count ~ and
+  has the value PC as ~ patent count ~ and
+  has the value PC as ~ internal paper count ~ and
+  has the value PC as ~ technical report count ~ and
+  has the value PC as ~ other document count ~ and
+  has the organisation SO as ~ sub-organisation ~.
+
+conceptualise an ~ ITA organisation ~ I that is an organisation.
+
+conceptualise an ~ academic organisation ~ A that is an organisation.
+conceptualise an ~ industrial organisation ~ I that is an organisation.
+conceptualise a ~ government organisation ~ G that is an organisation.
+
+conceptualise a ~ US organisation ~ A that is an organisation.
+conceptualise a ~ UK organisation ~ A that is an organisation.
+
+conceptualise an ~ organisation ~ O that
+  has the value T as ~ type ~ and
+  ~ is affiliated to ~ the country C.
+
+conceptualise a ~ published organisation ~ O that is an organisation.

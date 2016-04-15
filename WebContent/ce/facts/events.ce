@@ -1,0 +1,18 @@
+-- --------------------------------------------------------------------------
+-- (C) Copyright IBM Corporation 2016
+-- All Rights Reserved
+-- --------------------------------------------------------------------------
+
+-- FUSION
+there is an event series named 'FUSION' that
+  has 'International Conference on Information Fusion (Fusion)' as full name and
+  is also known as 'ISIF'.
+
+there is an event named 'Fusion 2014' that
+  has '17th International Conference on Information FUSION' as full name and
+  occurs at the place 'Salamanca University, Spain' and
+  has '7th July 2014' as start date and
+  has '14th July 2014' as end date and
+  has 'http://isif.org/events/conference/fusion-2014' as url and
+  is part of the event series 'FUSION' and
+  corresponds to the date 'Jul-2014'.

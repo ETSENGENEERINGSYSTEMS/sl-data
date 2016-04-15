@@ -1,0 +1,34 @@
+-- --------------------------------------------------------------------------
+-- (C) Copyright IBM Corporation 2016
+-- All Rights Reserved
+-- --------------------------------------------------------------------------
+
+the co-author statistic 'co-author-stat:alun_preece-dave_braines'
+  has the published person 'alun_preece' as co-author and
+  has the published person 'dave_braines' as co-author and
+  has '15' as co-author count.
+
+the co-author statistic 'co-author-stat:dave_braines-tien_pham'
+  has the published person 'dave_braines' as co-author and
+  has the published person 'tien_pham' as co-author and
+  has '10' as co-author count.
+
+the co-author statistic 'co-author-stat:dave_braines-geeth_de_mel'
+  has the published person 'dave_braines' as co-author and
+  has the published person 'geeth_de_mel' as co-author and
+  has '10' as co-author count.
+
+the co-author statistic 'co-author-stat:alun_preece-geeth_de_mel'
+  has the published person 'alun_preece' as co-author and
+  has the published person 'geeth_de_mel' as co-author and
+  has '12' as co-author count.
+
+the co-author statistic 'co-author-stat:alun_preece-tien_pham'
+  has the published person 'alun_preece' as co-author and
+  has the published person 'tien_pham' as co-author and
+  has '9' as co-author count.
+
+the co-author statistic 'co-author-stat:geeth_de_mel-tien_pham'
+  has the published person 'geeth_de_mel' as co-author and
+  has the published person 'tien_pham' as co-author and
+  has '19' as co-author count.

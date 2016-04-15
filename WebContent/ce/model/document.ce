@@ -1,0 +1,88 @@
+-- --------------------------------------------------------------------------
+-- (C) Copyright IBM Corporation 2016
+-- All Rights Reserved
+-- --------------------------------------------------------------------------
+
+-- One of the three main concept types. So far, only using the
+-- 'academic document' concept type.
+-- Other sub-types of 'document' could be :
+--  review document, results report, results presentation, publicity document,
+--  administrative document, miscellaneous document.
+-- Other sub-types of 'academic document' could be :
+--  journal paper, conference paper, book, book chapter, technical report.
+-- Could add a 'citation' property for bibtex citation data to 'journal paper'.
+
+-- The 'id' property uniquely identifies the document and is used to derive the
+-- location/url/name of a corresponding web-page. The 'original authors string'
+-- property is set if the authors were generated from an external source (e.g.
+-- spreadsheet data), this is useful to verify correctness.
+ 
+conceptualise a ~ document ~ D that
+  has the value ID as ~ id ~ and
+  has the value TI as ~ title ~ and
+  has the value AS as ~ original authors string ~ and
+  has the ordered author OA as ~ author ~ and
+  has the date DA as ~ publish date ~ and
+  has the date QD as ~ quarter date ~ and
+  has the date ED as ~ estimated date ~ and
+  has the url AL as ~ attachment link ~ and
+  has the value C as ~ comment ~ and
+  has the value W as ~ weight ~ and
+  has the value AW1 as ~ alternative weight 1 ~ and
+  has the value AW2 as ~ alternative weight 2 ~ and
+  ~ is similarly titled to ~ the document D1 and
+  has the date FD as ~ final date ~ and
+  has the year PY as ~ publication year ~.
+
+
+-- Extra properties relevant to an academic document, 'keyword' values are optional.  
+
+conceptualise an ~ academic document ~ D that
+  is a document and
+  has the value AB as ~ abstract ~ and
+  has the value KE as ~ keyword ~ and
+  has the event E as ~ venue ~ and
+  has the value VE as ~ old venue ~ and
+  has the value TY as ~ type ~ and
+  has the value ST as ~ status ~ and
+  has the value CO as ~ collaboration ~ and
+  has the value PU as ~ published on website ~ and
+  has the ITA project PR as ~ project ~ and
+  has the academic document D2 as ~ variant ~ and
+  has the value NA as ~ number of authors ~ and
+  ~ is on ~ the topic T and
+  has the value PAT as ~ paper thumbnail ~ and
+  has the value PAF as ~ paper file ~ and
+  has the value POT as ~ poster thumbnail ~ and
+  has the value POF as ~ poster file ~ and
+  has the value PRF as ~ presentation file ~ and
+  has the value PRT as ~ presentation thumbnail ~ and
+  has the value EF as ~ extra file ~ and
+  has the value C as ~ comment ~ and
+  has the paper citation count C as ~ citation count ~.
+
+conceptualise an ~ internal document ~ I that is an academic document.
+conceptualise an ~ external document ~ E that is an academic document.
+conceptualise a ~ patent ~ P that is an academic document and is an external document.
+conceptualise an ~ journal document ~ J that is an academic document and is an external document.
+conceptualise an ~ conference document ~ C that is an academic document.
+conceptualise an ~ internal conference document ~ C that is a conference document and is an internal document.
+conceptualise an ~ external conference document ~ C that is a conference document and is an external document.
+conceptualise a ~ technical report ~ T that is an internal document.
+conceptualise an ~ other document ~ D that is an academic document and is an internal document.
+conceptualise an ~ invited talk ~ T that is an other document.
+conceptualise a ~ book chapter ~ B that is an other document.
+conceptualise a ~ phd thesis ~ P that is an other document.
+conceptualise a ~ poster ~ P that is an other document.
+conceptualise a ~ workshop ~ W that is an other document.
+conceptualise a ~ software asset ~ S that is an other document.
+conceptualise a ~ demonstration ~ D that is an other document.
+
+conceptualise a ~ US-UK document ~ D that is an academic document.
+conceptualise an ~ industry-academia document ~ D that is an academic document.
+conceptualise a ~ government document ~ D that is an academic document.
+conceptualise a ~ UK government document ~ D that is a government document.
+conceptualise a ~ US government document ~ D that is a government document.
+
+conceptualise a ~ noteworthy document ~ D that
+  has the value R as ~ noteworthy reason ~.

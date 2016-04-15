@@ -1,0 +1,11 @@
+-- --------------------------------------------------------------------------
+-- (C) Copyright IBM Corporation 2016
+-- All Rights Reserved
+-- --------------------------------------------------------------------------
+
+[ 1a-project document ]
+if
+  ( the academic document AD has the ITA project P as project )
+then
+  ( the ITA project P has the academic document AD as paper )
+.

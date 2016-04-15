@@ -1,0 +1,40 @@
+-- --------------------------------------------------------------------------
+-- (C) Copyright IBM Corporation 2016
+-- All Rights Reserved
+-- --------------------------------------------------------------------------
+
+
+--projects
+
+there is an ITA project named 'BPP13P4' that
+  has 'BPP13P4' as code name and
+  has 'P4: Human-Information Interaction' as name and
+  has the ITA project plan 'BPP13' as project plan and
+  has the ITA technical area 'TA6' as technical area.
+
+
+-- technical areas
+
+there is an ITA technical area named 'TA6' that
+  has 'TA6' as code name and
+  has 'Distributed Coalition Information Processing for Decision Making' as name and
+  has the ITA project plan 'BPP11' as project plan and
+  has the ITA project plan 'BPP13' as project plan and
+  has the ITA project plan 'FPP15' as project plan.
+
+
+-- project plans
+
+there is an ITA project plan named 'BPP11' that
+  has 'BPP11' as code name and
+  ran during the year '2011' and
+  ran during the year '2012'.
+
+there is an ITA project plan named 'BPP13' that
+  has 'BPP13' as code name and
+  ran during the year '2013' and
+  ran during the year '2014'.
+
+there is an ITA project plan named 'FPP15' that
+  has 'FPP15' as code name and
+  ran during the year '2015'.

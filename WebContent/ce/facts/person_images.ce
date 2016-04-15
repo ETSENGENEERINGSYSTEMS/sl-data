@@ -1,0 +1,13 @@
+-- --------------------------------------------------------------------------
+-- (C) Copyright IBM Corporation 2016
+-- All Rights Reserved
+-- --------------------------------------------------------------------------
+
+the person 'alun_preece'
+  has 'SL_static/images/people/alun_preece.jpg' as profile picture.
+
+the person 'dave_braines'
+  has 'SL_static/images/people/dave_braines.jpg' as profile picture.
+
+the person 'geeth_de_mel'
+  has 'SL_static/images/people/geeth_de_mel.jpg' as profile picture.

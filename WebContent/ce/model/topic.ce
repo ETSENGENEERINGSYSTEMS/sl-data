@@ -1,0 +1,10 @@
+-- --------------------------------------------------------------------------
+-- (C) Copyright IBM Corporation 2016
+-- All Rights Reserved
+-- --------------------------------------------------------------------------
+
+conceptualise a ~ topic ~ T.
+
+conceptualise a ~ topic term ~ TT that
+  ~ corresponds to ~ the topic T and
+  has the value M as ~ marker ~.

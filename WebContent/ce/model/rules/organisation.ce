@@ -1,0 +1,53 @@
+-- --------------------------------------------------------------------------
+-- (C) Copyright IBM Corporation 2016
+-- All Rights Reserved
+-- --------------------------------------------------------------------------
+
+[ 1a-org type - academic ]
+if
+  ( the organisation O is an academic organisation )
+then
+  ( the organisation O has 'AC' as type )
+.
+
+[ 1a-org type - industry ]
+if
+  ( the organisation O is an industrial organisation )
+then
+  ( the organisation O has 'IND' as type )
+.
+
+[ 1a-org type - government ]
+if
+  ( the organisation O is a government organisation )
+then
+  ( the organisation O has 'GOV' as type )
+.
+
+[ 1a-US organisation ]
+if
+  ( the organisation O is affiliated to the country 'US' )
+then
+  ( the organisation O is a US organisation )
+.
+
+[ 1a-UK organisation ]
+if
+  ( the organisation O is affiliated to the country 'UK' )
+then
+  ( the organisation O is a UK organisation )
+.
+
+[ 1a-organisation employs ]
+if
+  ( the person P is employed by the organisation O )
+then
+  ( the organisation O employs the person P )
+.
+
+[ 1b-published organisation ]
+if
+  ( the published person P is employed by the organisation O )
+then
+  ( the organisation O is a published organisation )
+.

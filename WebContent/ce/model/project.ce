@@ -1,0 +1,29 @@
+-- --------------------------------------------------------------------------
+-- (C) Copyright IBM Corporation 2016
+-- All Rights Reserved
+-- --------------------------------------------------------------------------
+
+-- Paper instances have 'ITA project' properties to note the 
+-- project/technical area/project plan under which each was produced.
+
+conceptualise an ~ ITA project plan ~ I that
+  has the value CN as ~ code name ~ and
+  ~ ran during ~ the year Y.
+
+conceptualise an ~ ITA technical area ~ I that
+  has the value CN as ~ code name ~ and
+  has the value NA as ~ name ~ and
+  has the ITA project plan PP as ~ project plan ~.
+ 
+conceptualise an ~ ITA project ~ I that
+  has the value CN as ~ code name ~ and
+  has the value NA as ~ name ~ and
+  has the academic document AD as ~ paper ~ and
+  has the ITA project plan PP as ~ project plan ~ and
+  has the ITA technical area TA as ~ technical area ~ and
+  ~ is part of ~ the consolidated ITA project P.
+
+conceptualise a ~ consolidated ITA project ~ P that
+  has the value T as ~ title ~ and
+  ~ corresponds to ~ the ITA technical area T and
+  ~ ran during ~ the year Y.

@@ -1,0 +1,69 @@
+-- --------------------------------------------------------------------------
+-- (C) Copyright IBM Corporation 2016
+-- All Rights Reserved
+-- --------------------------------------------------------------------------
+
+conceptualise a ~ co-author statistic ~ C that
+  has the published person CA as ~ co-author ~ and
+  has the value CC as ~ co-author count ~.
+
+conceptualise a ~ person ~ P that
+  has the value SN as ~ surname ~ and
+  has the value FON as ~ forename ~ and
+  has the value FUN as ~ full name ~ and
+  has the person CA as ~ co-author ~ and
+  ~ is employed by ~ the organisation OR and
+  has the person P2 as ~ co-author ~ and
+  has the value V1 as ~ total publication count ~ and
+  has the value V2 as ~ co-author count ~ and
+  has the value V3 as ~ government co-author count ~ and
+  has the value V4 as ~ internal paper count ~ and
+  has the value V5 as ~ external paper count ~ and
+  has the value V6 as ~ patent count ~ and
+  has the value V7 as ~ journal paper count ~ and
+  has the value V8 as ~ conference paper count ~ and
+  has the value V10 as ~ other document count ~ and
+  has the value V11 as ~ technical report count ~ and
+  has the value V12 as ~ other document count ~ and
+  ~ wrote ~ the academic document D and
+  has the value PP as ~ profile picture ~ and
+  has the value C as ~ comment ~ and
+  has the co-author statistic C as ~ co-author statistic ~.
+
+conceptualise a ~ government person ~ P that is a person.
+conceptualise a ~ industry person ~ P that is a person.
+conceptualise a ~ academic person ~ P that is a person.
+conceptualise a ~ US person ~ P that is a person.
+conceptualise a ~ UK person ~ P that is a person.
+
+conceptualise an ~ ITA person ~ P that is a person.
+
+conceptualise a ~ published person ~ P that
+  is a person and
+  has the person citation count C as ~ citation count ~ and
+  has the value ICC as ~ ita citation count ~ and
+  has the value IHI as ~ ita h-index ~.
+
+-- Authors have an order on papers that is important (e.g. the first author is
+-- usually the principal author), so capture the order via the 'author index'
+-- integer. The 'original author string' property is set if the author was
+-- generated from an external source (e.g. spreadsheet data), this is useful to
+-- verify correctness. 
+
+conceptualise an ~ ordered author ~ A that
+  has the value AI as ~ author index ~ and
+  has the value AS as ~ original author string ~ and
+  has the person AP as ~ author person ~.
+
+conceptualise a ~ student ~ S that is a person.
+
+conceptualise a ~ phd student ~ S that
+  is a student and
+  has the phd thesis P as ~ phd thesis ~.
+
+conceptualise a ~ masters student ~ S that is a student.
+
+conceptualise a ~ noteworthy person ~ N that
+  is a person and
+  has the value NP as ~ noteworthy position ~ and
+  has the value NA as ~ noteworthy award ~.
