@@ -3,10 +3,10 @@
 -- All Rights Reserved
 -- --------------------------------------------------------------------------
 
-there is a rule executor agent named 'rules_for_orgs' that
+there is a rule executor agent named 'rules_for_orgs_1' that
   has 'com.ibm.ets.ita.ce.agent.general.RuleExecutor' as class name and
   has 'true' as save CE to file and
-  has 'Rules_Orgs.ce' as CE filename and
+  has 'Rules_Orgs_1.ce' as CE filename and
   has 'true' as iterate and
   has '10' as maximum iterations and
   has '1a-org type - academic' as rule name and
@@ -16,6 +16,21 @@ there is a rule executor agent named 'rules_for_orgs' that
   has '1a-UK organisation' as rule name and
   has '1a-organisation employs' as rule name and
   has '1b-published organisation' as rule name.
+
+there is a rule executor agent named 'rules_for_orgs_2' that
+  has 'com.ibm.ets.ita.ce.agent.general.RuleExecutor' as class name and
+  has 'true' as save CE to file and
+  has 'Rules_Orgs_2.ce' as CE filename and
+  has 'true' as iterate and
+  has '10' as maximum iterations and
+  has '2a-organisation wrote document' as rule name and
+  has '2b-organisation paper count' as rule name and
+  has '2b-organisation external paper count' as rule name and
+  has '2b-organisation internal paper count' as rule name and
+  has '2b-organisation journal paper count' as rule name and
+  has '2b-organisation patent count' as rule name and
+  has '2b-organisation technical report count' as rule name and
+  has '2b-organisation other document count' as rule name.
 
 there is a rule executor agent named 'rules_for_people' that
   has 'com.ibm.ets.ita.ce.agent.general.RuleExecutor' as class name and
@@ -40,6 +55,14 @@ there is a rule executor agent named 'rules_for_projects' that
   has '10' as maximum iterations and
   has '1a-project document' as rule name.
 
+there is a rule executor agent named 'rules_for_events' that
+  has 'com.ibm.ets.ita.ce.agent.general.RuleExecutor' as class name and
+  has 'true' as save CE to file and
+  has 'Rules_Events.ce' as CE filename and
+  has 'true' as iterate and
+  has '10' as maximum iterations and
+  has '1a-event series years ran' as rule name.
+
 there is a rule executor agent named 'rules_for_authors' that
   has 'com.ibm.ets.ita.ce.agent.general.RuleExecutor' as class name and
   has 'true' as save CE to file and
@@ -47,8 +70,18 @@ there is a rule executor agent named 'rules_for_authors' that
   has 'true' as iterate and
   has '10' as maximum iterations and
   has '1b-person wrote document' as rule name and
+  has '1c-person total publication count' as rule name and
+  has '1c-person external paper count' as rule name and
+  has '1c-person internal paper count' as rule name and
+  has '1c-person journal paper count' as rule name and
+  has '1c-person conference paper count' as rule name and
+  has '1c-person patent count' as rule name and
+  has '1c-person technical report count' as rule name and
+  has '1c-person other document count' as rule name and
   has '1c-co-authors' as rule name and
-  has '1d-inv co-author' as rule name.
+  has '1d-inv co-author' as rule name and
+  has '1e-person co-author count' as rule name and
+  has '1e-person government co-author count' as rule name.
 
 there is a rule executor agent named 'rules_for_dates' that
   has 'com.ibm.ets.ita.ce.agent.general.RuleExecutor' as class name and
@@ -70,4 +103,5 @@ there is a rule executor agent named 'rules_for_documents' that
   has '1b-industry-academia document' as rule name and
   has '1c-UK government document' as rule name and
   has '1c-US government document' as rule name and
-  has '1c-US-UK document' as rule name.
+  has '1c-US-UK document' as rule name and
+  has '1c-document author count' as rule name.

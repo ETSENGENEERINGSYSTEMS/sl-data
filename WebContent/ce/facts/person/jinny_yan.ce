@@ -1,0 +1,16 @@
+-- --------------------------------------------------------------------------
+-- (C) Copyright IBM Corporation 2016
+-- All Rights Reserved
+-- --------------------------------------------------------------------------
+
+the person 'jinny_yan'
+  has 'Jinny' as forename and
+  has 'Yan' as surname and
+  has 'Jinny Yan' as full name and
+  is employed by the organisation 'West point'.
+
+the published person 'jinny_yan'
+  has the person citation count 'citation:jinny_yan-01' as citation count.
+
+the person citation count 'citation:jinny_yan-01'
+  has '11/2/2016' as date checked.

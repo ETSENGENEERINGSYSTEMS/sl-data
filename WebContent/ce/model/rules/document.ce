@@ -52,3 +52,10 @@ if
 then
   ( the external document D is a US-UK document )
 .
+
+[ 1c-document author count ]
+if
+  ( the person #P wrote the academic document AD )
+then
+  ( the academic document AD has #P as number of authors )
+.

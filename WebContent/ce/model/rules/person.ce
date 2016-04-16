@@ -67,6 +67,62 @@ then
    ( the person V1 wrote the academic document V4 )
 .
 
+[ 1c-person total publication count ]
+if
+  ( the person P wrote the academic document #AD )
+then
+  ( the person P has #AD as total publication count )
+.
+
+[ 1c-person external paper count ]
+if
+  ( the person P wrote the external document #AD )
+then
+  ( the person P has #AD as external paper count )
+.
+
+[ 1c-person internal paper count ]
+if
+  ( the person P wrote the internal document #AD )
+then
+  ( the person P has #AD as internal paper count )
+.
+
+[ 1c-person journal paper count ]
+if
+  ( the person P wrote the journal document #AD )
+then
+  ( the person P has #AD as journal paper count )
+.
+
+[ 1c-person conference paper count ]
+if
+  ( the person P wrote the conference document #AD )
+then
+  ( the person P has #AD as conference paper count )
+.
+
+[ 1c-person patent count ]
+if
+  ( the person P wrote the patent #AD )
+then
+  ( the person P has #AD as patent count )
+.
+
+[ 1c-person technical report count ]
+if
+  ( the person P wrote the technical report #AD )
+then
+  ( the person P has #AD as technical report count )
+.
+
+[ 1c-person other document count ]
+if
+  ( the person P wrote the other document #AD )
+then
+  ( the person P has #AD as other document count )
+.
+
 [ 1c-co-authors ]
 if
   ( the person P1 wrote the academic document A ) and
@@ -82,3 +138,18 @@ if
 then
   ( the person P2 has the person P1 as co-author )
 .
+
+[ 1e-person co-author count ]
+if
+  ( the person P1 has the person #P2 as co-author )
+then
+  ( the person P1 has #P2 as co-author count )
+.
+
+[ 1e-person government co-author count ]
+if
+  ( the person P1 has the government person #P2 as co-author )
+then
+  ( the person P1 has #P2 as government co-author count )
+.
+

@@ -1,0 +1,23 @@
+-- --------------------------------------------------------------------------
+-- (C) Copyright IBM Corporation 2016
+-- All Rights Reserved
+-- --------------------------------------------------------------------------
+
+
+there is a person named 'david_mott' that
+  has 'David' as forename and
+  has 'Mott' as surname and
+  has 'David Mott' as full name and
+  is employed by the organisation 'IBM UK'.
+
+the person david_mott
+  has '/SL_static/images/people/david_mott.jpg' as profile picture.
+
+the person citation count 'citation:david_mott-01'
+  has 'https://scholar.google.co.uk/citations?user=kmYDWfoAAAAJ&hl=en&oi=sra' as url and
+  has '22/01/2016' as date checked and
+  has '317' as citation count and
+  has '12' as h-index.
+
+the published person 'david_mott'
+  has the person citation count 'citation:david_mott-01' as citation count.

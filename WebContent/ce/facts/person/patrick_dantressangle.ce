@@ -1,0 +1,19 @@
+-- --------------------------------------------------------------------------
+-- (C) Copyright IBM Corporation 2016
+-- All Rights Reserved
+-- --------------------------------------------------------------------------
+
+there is a person named 'patrick_dantressangle' that
+  has 'Patrick' as forename and
+  has 'Dantressangle' as surname and
+  has 'Patrick Dantressangle' as full name and
+  is employed by the organisation 'IBM UK'.
+
+the person patrick_dantressangle
+  has '/SL_static/images/people/patrick_dantressangle.jpg' as profile picture.
+
+the person citation count 'citation:patrick_dantressangle-01'
+  has '28/11/2015' as date checked.
+
+the published person 'patrick_dantressangle'
+  has the person citation count 'citation:patrick_dantressangle-01' as citation count.

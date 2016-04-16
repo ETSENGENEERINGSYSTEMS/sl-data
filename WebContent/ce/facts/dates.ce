@@ -5,9 +5,33 @@
 
 -- Month dates
 
+there is a date named 'Sep-2015' that
+  has '9' as month and
+  has '2015' as year.
+
 there is a date named 'Jul-2014' that
   has '7' as month and
   has '2014' as year.
+
+there is a date named 'Jan-2014' that
+  has '1' as month and
+  has '2014' as year.
+
+there is a date named 'Oct-2013' that
+  has '10' as month and
+  has '2013' as year.
+
+there is a date named 'Sep-2012' that
+  has '9' as month and
+  has '2012' as year.
+
+there is a date named 'Apr-2012' that
+  has '4' as month and
+  has '2012' as year.
+
+there is a date named 'Feb-2009' that
+  has '2' as month and
+  has '2009' as year.
 
 
 -- Year dates

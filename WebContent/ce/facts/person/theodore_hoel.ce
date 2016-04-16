@@ -1,0 +1,16 @@
+-- --------------------------------------------------------------------------
+-- (C) Copyright IBM Corporation 2016
+-- All Rights Reserved
+-- --------------------------------------------------------------------------
+
+the person 'theodore_hoel'
+  has 'Theodore' as forename and
+  has 'Hoel' as surname and
+  has 'Theodore Hoel' as full name and
+  is employed by the organisation 'West point'.
+
+the published person 'theodore_hoel'
+  has the person citation count 'citation:theodore_hoel-01' as citation count.
+
+the person citation count 'citation:theodore_hoel-01'
+  has '11/2/2016' as date checked.

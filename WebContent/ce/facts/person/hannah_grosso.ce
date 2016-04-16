@@ -1,0 +1,16 @@
+-- --------------------------------------------------------------------------
+-- (C) Copyright IBM Corporation 2016
+-- All Rights Reserved
+-- --------------------------------------------------------------------------
+
+the person 'hannah_grosso'
+  has 'Hannah' as forename and
+  has 'Grosso' as surname and
+  has 'Hannah Grosso' as full name and
+  is employed by the organisation 'West point'.
+
+the published person 'hannah_grosso'
+  has the person citation count 'citation:hannah_grosso-01' as citation count.
+
+the person citation count 'citation:hannah_grosso-01'
+  has '11/2/2016' as date checked.

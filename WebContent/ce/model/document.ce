@@ -63,9 +63,9 @@ conceptualise an ~ academic document ~ D that
 
 conceptualise an ~ internal document ~ I that is an academic document.
 conceptualise an ~ external document ~ E that is an academic document.
-conceptualise a ~ patent ~ P that is an academic document and is an external document.
-conceptualise an ~ journal document ~ J that is an academic document and is an external document.
 conceptualise an ~ conference document ~ C that is an academic document.
+conceptualise a ~ patent ~ P that is an external document.
+conceptualise an ~ journal document ~ J that is an external document.
 conceptualise an ~ internal conference document ~ C that is a conference document and is an internal document.
 conceptualise an ~ external conference document ~ C that is a conference document and is an external document.
 conceptualise a ~ technical report ~ T that is an internal document.

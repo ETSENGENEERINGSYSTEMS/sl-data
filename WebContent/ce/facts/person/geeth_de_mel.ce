@@ -1,0 +1,22 @@
+-- --------------------------------------------------------------------------
+-- (C) Copyright IBM Corporation 2016
+-- All Rights Reserved
+-- --------------------------------------------------------------------------
+
+there is a person named 'geeth_de_mel' that
+  has 'Geeth' as forename and
+  has 'de Mel' as surname and
+  has 'Geeth de Mel' as full name and
+  is employed by the organisation 'IBM US'.
+
+the person 'geeth_de_mel'
+  has '/SL_static/images/people/geeth_de_mel.jpg' as profile picture.
+
+the person citation count 'citation:geeth_de_mel-01'
+  has 'https://scholar.google.co.uk/citations?user=R0cCxNkAAAAJ&hl=en' as url and
+  has '24/11/2015' as date checked and
+  has '272' as citation count and
+  has '9' as h-index.
+
+the published person 'geeth_de_mel'
+  has the person citation count 'citation:geeth_de_mel-01' as citation count.

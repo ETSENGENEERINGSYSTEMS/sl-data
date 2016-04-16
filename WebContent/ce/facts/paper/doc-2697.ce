@@ -3,4 +3,43 @@
 -- All Rights Reserved
 -- --------------------------------------------------------------------------
 
+there is a ordered author named 'doc-2697-author-1' that
+  has the person 'dave_braines' as author person and
+  has '1' as author index.
+
+there is a ordered author named 'doc-2697-author-2' that
+  has the person 'alun_preece' as author person and
+  has '2' as author index.
+
+there is a ordered author named 'doc-2697-author-3' that
+  has the person 'geeth_de_mel' as author person and
+  has '3' as author index.
+
+there is a ordered author named 'doc-2697-author-4' that
+  has the person 'tien_pham' as author person and
+  has '4' as author index.
+
+there is an academic document named 'doc-2697' that
+  is an external conference document and
+  has '2697' as id and
+  has 'Enabling CoIST Users: D2D at the Network Edge' as title and
+  has the ITA project 'BPP13P4' as project and
+  has the event 'Fusion 2014' as venue and
+  has the ordered author 'doc-2697-author-1' as author and
+  has the ordered author 'doc-2697-author-2' as author and
+  has the ordered author 'doc-2697-author-3' as author and
+  has the ordered author 'doc-2697-author-4' as author.
+
 the academic document 'doc-2697' has 'Rapid but informed decision-making capabilities at lower echelons are fast becoming a necessity in many coalition operations due to the dynamism associated with such environments. In this paper we investigate technologies to assist CoIST (Company Intelligence Support Team) users operating at the network edge in support of military operations. Through an integration experiment we illustrate the impact of such technologies in rapid decision-making situations. The paper describes the technology integration experiment in the context of a vignette and shows how a natural language conversational interface between human and machine agents in a hybrid team is used. The system can capture local information reporting, infer high value information based on background knowledge, automatically raise intelligence tracking tasks and match, rank and propose appropriate assets to tasks, taking into account contextual factors such as environmental and the distributed network conditions. The approach utilizes ontology-based resource matching capabilities and uses a Controlled Natural Language as a human-friendly – but machine processable – language that is expressive enough to serve as a single common format for both human and machine processing. This capability is designed to operate in a lightweight distributed environment at the edge of the network.' as abstract.
+
+the academic document 'doc-2697' has '/SL_static/attachments/2697/PID3236615.pdf' as paper file.
+the academic document 'doc-2697' has '/SL_static/images/papers/2697_paper.jpg' as paper thumbnail.
+
+the paper citation count 'citation:doc-2697-01'
+  has 'https://scholar.google.co.uk/scholar?q=%22Enabling+CoIST+Users%3A+D2D+at+the+Network+Edge%22&btnG=&hl=en&as_sdt=0%2C5' as url and
+  has '09/02/2016' as date checked and
+  has '4' as citation count.
+
+the academic document 'doc-2697'
+  has the paper citation count 'citation:doc-2697-01' as citation count.
+

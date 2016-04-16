@@ -1,0 +1,48 @@
+-- --------------------------------------------------------------------------
+-- (C) Copyright IBM Corporation 2016
+-- All Rights Reserved
+-- --------------------------------------------------------------------------
+
+there is a ordered author named 'doc-2377-author-1' that
+  has the person 'alun_preece' as author person and
+  has '1' as author index.
+
+there is a ordered author named 'doc-2377-author-2' that
+  has the person 'dave_braines' as author person and
+  has '2' as author index.
+
+there is a ordered author named 'doc-2377-author-3' that
+  has the person 'diego_pizzocaro' as author person and
+  has '3' as author index.
+
+there is a ordered author named 'doc-2377-author-4' that
+  has the person 'christos_parizas' as author person and
+  has '4' as author index.
+
+there is an academic document named 'doc-2377' that
+  is an external conference document and
+  has '2377' as id and
+  has 'Human-Machine Conversations to Support Mission-Oriented Information Provision' as title and
+  has the ITA project 'BPP13P4' as project and
+  has the date 'Oct-2013' as publish date and
+  has 'Proceedings of the 2nd ACM annual international workshop on Mission-oriented wireless sensor networking (pp. 43-50). ACM' as old venue and
+  has the ordered author 'doc-2377-author-1' as author and
+  has the ordered author 'doc-2377-author-2' as author and
+  has the ordered author 'doc-2377-author-3' as author and
+  has the ordered author 'doc-2377-author-4' as author.
+
+the noteworthy document 'doc-2377'
+  has 'Best paper award' as noteworthy reason.
+
+the academic document 'doc-2377' has 'Mission-oriented sensor networks present challenging problems in terms of human-machine collaboration. Human users need to task the network to help them achieve mission objectives, while humans (sometimes the same individuals) are also sources of mission-critical information. We propose a natural language-based conversational approach to supporting human-machine working in mission-oriented sensor networks. We present a model for human-machine and machine-machine interactions in a realistic mission context, and evaluate the model using an existing surveillance mission scenario. The model supports the flow of conversations from full natural language to a form of Controlled Natural Language (CNL) amenable to machine processing and automated reasoning, including high-level information fusion tasks. We introduce a mechanism for presenting the gist of verbose CNL expressions in a more convenient form for human users. We show how the conversational interactions supported by the model include requests for expansions and explanations of machine-processed information.' as abstract.
+
+the academic document 'doc-2377' has '/SL_static/attachments/2377/misenet05-preece.pdf' as paper file.
+the academic document 'doc-2377' has '/SL_static/images/papers/2377_paper.jpg' as paper thumbnail.
+
+the paper citation count 'citation:doc-2377-01'
+  has 'https://scholar.google.co.uk/scholar?q="Human-Machine Conversations to Support Mission-Oriented Information Provision"&btnG=&hl=en&as_sdt=0,5' as url and
+  has '11/1/2016' as date checked and
+  has '1' as citation count.
+
+the academic document 'doc-2377'
+  has the paper citation count 'citation:doc-2377-01' as citation count.

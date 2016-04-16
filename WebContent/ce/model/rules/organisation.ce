@@ -51,3 +51,60 @@ if
 then
   ( the organisation O is a published organisation )
 .
+
+[ 2a-organisation wrote document ]
+if
+  ( the organisation O employs the person P ) and
+  ( the person P wrote the academic document AD )
+then
+  ( the organisation O wrote the academic document AD )
+.
+
+[ 2b-organisation paper count ]
+if
+  ( the organisation O wrote the academic document #AD )
+then
+  ( the organisation O has #AD as paper count )
+.
+
+[ 2b-organisation external paper count ]
+if
+  ( the organisation O wrote the external document #AD )
+then
+  ( the organisation O has #AD as external paper count )
+.
+
+[ 2b-organisation internal paper count ]
+if
+  ( the organisation O wrote the internal document #AD )
+then
+  ( the organisation O has #AD as internal paper count )
+.
+
+[ 2b-organisation journal paper count ]
+if
+  ( the organisation O wrote the journal document #AD )
+then
+  ( the organisation O has #AD as journal paper count )
+.
+
+[ 2b-organisation patent count ]
+if
+  ( the organisation O wrote the patent #AD )
+then
+  ( the organisation O has #AD as patent count )
+.
+
+[ 2b-organisation technical report count ]
+if
+  ( the organisation O wrote the technical report #AD )
+then
+  ( the organisation O has #AD as technical report count )
+.
+
+[ 2b-organisation other document count ]
+if
+  ( the organisation O wrote the other document #AD )
+then
+  ( the organisation O has #AD as other document count )
+.

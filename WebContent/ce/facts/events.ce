@@ -16,3 +16,44 @@ there is an event named 'Fusion 2014' that
   has 'http://isif.org/events/conference/fusion-2014' as url and
   is part of the event series 'FUSION' and
   corresponds to the date 'Jul-2014'.
+
+
+-- SPIE DSS
+there is an event series named 'SPIE DSS' that
+  has 'International Society for Optics and Photonics - Defense, Security and Sensing (SPIE DSS)' as full name and
+  has 'http://spie.org/dss' as url.
+
+there is an event named 'SPIE DSS 2012' that
+  has 'International Society for Optics and Photonics - Defense, Security and Sensing, 2012' as full name and
+  occurs at the place 'Baltimore Convention Center, Maryland' and
+  has '23rd April 2012' as start date and
+  has '27th April 2012' as end date and
+  has 'http://spie.org/conferences-and-exhibitions/past-events/past-conferences-and-exhibitions/past-events/defense-security-and-sensing/defense-security-and-sensing-2012' as url and
+  is part of the event series 'SPIE DSS' and
+  corresponds to the date 'Apr-2012'.
+
+
+-- AFM / ACITA
+there is an event series named 'AFM (or ACITA)' that
+  has 'Annual Fall Meeting of the International Technology Alliance (AFM)' as full name and
+  is also known as 'ACITA' and
+  is also known as 'AFM'.
+
+there is an event named 'ACITA 2012' that
+  has '6th Annual Conference of the International Technology Alliance' as full name and
+  occurs at the place 'Botley Park Hotel, Southampton' and
+  has '17th September 2012' as start date and
+  has '21st September 2012' as end date and
+  has 'https://www.usukitacs.com/acita2012' as url and
+  is part of the event series 'AFM (or ACITA)' and
+  corresponds to the date 'Sep-2012'.
+
+there is an event named 'AFM 2015' that
+  has '9th Annual Fall Meeting of the International Technology Alliance' as full name and
+  occurs at the place 'University of Maryland, US' and
+  has '15th September 2015' as start date and
+  has '17th September 2015' as end date and
+  has 'https://www.usukitacs.com/2015_AFM' as url and
+  is part of the event series 'AFM (or ACITA)' and
+  corresponds to the date 'Sep-2015'.
+
