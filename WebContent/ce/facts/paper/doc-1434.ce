@@ -9,9 +9,7 @@ there is a ordered author named 'doc-1434-author-1' that
 
 there is an academic document named 'doc-1434' that
   is a technical report and
-  has '1434' as id and
   has 'Efficient SME Knowledge capture through CNLs and ontologies' as title and
-  has 'Dave Braines' as original authors string and
   has the date 'Feb-2009' as publish date and
   has the ordered author 'doc-1434-author-1' as author.
 

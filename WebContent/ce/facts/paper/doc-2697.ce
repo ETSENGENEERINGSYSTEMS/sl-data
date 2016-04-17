@@ -21,7 +21,6 @@ there is a ordered author named 'doc-2697-author-4' that
 
 there is an academic document named 'doc-2697' that
   is an external conference document and
-  has '2697' as id and
   has 'Enabling CoIST Users: D2D at the Network Edge' as title and
   has the ITA project 'BPP13P4' as project and
   has the event 'Fusion 2014' as venue and

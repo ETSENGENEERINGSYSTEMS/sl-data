@@ -21,7 +21,6 @@ there is a ordered author named 'doc-1855c-author-4' that
 
 there is an academic document named 'doc-1855c' that
   is a demonstration and
-  has '1855' as id and
   has 'Tasking and Sharing Sensing Assets Using Controlled Natural Language' as title and
   has the ITA project 'BPP11P4' as project and
   has the event 'ACITA 2012' as venue and

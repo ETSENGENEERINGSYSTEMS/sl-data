@@ -18,7 +18,6 @@
 -- spreadsheet data), this is useful to verify correctness.
  
 conceptualise a ~ document ~ D that
-  has the value ID as ~ id ~ and
   has the value TI as ~ title ~ and
   has the value AS as ~ original authors string ~ and
   has the ordered author OA as ~ author ~ and
@@ -69,7 +68,7 @@ conceptualise an ~ journal document ~ J that is an external document.
 conceptualise an ~ internal conference document ~ C that is a conference document and is an internal document.
 conceptualise an ~ external conference document ~ C that is a conference document and is an external document.
 conceptualise a ~ technical report ~ T that is an internal document.
-conceptualise an ~ other document ~ D that is an academic document and is an internal document.
+conceptualise an ~ other document ~ D that is an internal document.
 conceptualise an ~ invited talk ~ T that is an other document.
 conceptualise a ~ book chapter ~ B that is an other document.
 conceptualise a ~ phd thesis ~ P that is an other document.

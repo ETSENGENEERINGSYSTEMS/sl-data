@@ -25,7 +25,6 @@ there is a ordered author named 'doc-2998-author-5' that
 
 there is an academic document named 'doc-2998' that
   is an internal conference document and
-  has '2998' as id and
   has 'Use of Controlled English to Bridge the Gap Between Tactical and Strategic Echelons' as title and
   has the ITA project 'BPP13P4' as project and
   has the event 'AFM 2015' as venue and

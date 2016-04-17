@@ -21,7 +21,6 @@ there is a ordered author named 'doc-2377-author-4' that
 
 there is an academic document named 'doc-2377' that
   is an external conference document and
-  has '2377' as id and
   has 'Human-Machine Conversations to Support Mission-Oriented Information Provision' as title and
   has the ITA project 'BPP13P4' as project and
   has the date 'Oct-2013' as publish date and

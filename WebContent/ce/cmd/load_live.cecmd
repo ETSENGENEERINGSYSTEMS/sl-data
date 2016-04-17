@@ -19,6 +19,7 @@ perform load sentences from url '/SL_data/ce/model/citation.ce'.
 perform load sentences from url '/SL_data/ce/model/topic.ce'.
 perform load sentences from url '/SL_data/ce/model/misc.ce'.
 perform load sentences from url '/SL_data/ce/model/queries.ce'.
+perform load sentences from url '/SL_data/ce/model/queries_for_export.ce'.
 
 perform load sentences from url '/SL_data/ce/model/rules/date.ce'.
 perform load sentences from url '/SL_data/ce/model/rules/document.ce'.

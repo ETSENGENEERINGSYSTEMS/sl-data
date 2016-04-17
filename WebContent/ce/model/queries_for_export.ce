@@ -1,0 +1,78 @@
+-- --------------------------------------------------------------------------
+-- (C) Copyright IBM Corporation 2016
+-- All Rights Reserved
+-- --------------------------------------------------------------------------
+
+[ x2a - people main ]
+for which P, FoN, SN, FuN and O is it true that
+  ( the person P has the value FoN as forename ) and
+  ( the person P has the value SN as surname ) and
+  ( the person P has the value FuN as full name ) and
+  ( the person P is employed by the organisation O )
+order by P ascending.
+
+[ x2b - people profile pics ]
+for which P and PP is it true that
+  ( the person P has the value PP as profile picture )
+order by P ascending.
+
+[ x2c - people citations ]
+for which P, U, DC, CC and H is it true that
+  ( the person P has the person citation count PC as citation count ) and
+  ( the person citation count PC has the value U as url ) and
+  ( the person citation count PC has the value DC as date checked ) and
+  ( the person citation count PC has the value CC as citation count ) and
+  ( the person citation count PC has the value H as h-index )
+order by P ascending.
+
+[ x3 - places ]
+for which P, LA and LO is it true that
+  ( the place P has the value LA as latitude ) and
+  ( the place P has the value LO as longitude )
+order by P ascending.
+
+[ x4 - organisations ]
+for which O, N, SN, C and P is it true that
+  ( the organisation O has the value N as name ) and
+  ( the organisation O has the value SN as short name ) and
+  ( the organisation O is affiliated to the country C ) and
+  ( the organisation O is located at the place P )
+order by O ascending.
+
+[ x5 - event series ]
+for which ES, FN and AKA is it true that
+  ( the event series ES has the value FN as full name ) and
+  ( the event series ES is also known as the value AKA )
+order by ES ascending.
+
+[ x6 - events ]
+for which E, FN, P, SD, ED, U, ES and D is it true that
+  ( the event E has the value FN as full name ) and
+  ( the event E occurs at the place P ) and
+  ( the event E has the value SD as start date ) and
+  ( the event E has the value ED as end date ) and
+  ( the event E has the value U as url ) and
+  ( the event E is part of the event series ES ) and
+  ( the event E corresponds to the date D )
+order by E ascending.
+
+[ x7 - projects ]
+for which P, CN, N, PP and TA is it true that
+  ( the ITA project P has the value CN as code name ) and
+  ( the ITA project P has the value N as name ) and
+  ( the ITA project P has the ITA project plan PP as project plan ) and
+  ( the ITA project P has the ITA technical area TA as technical area ) and
+order by P ascending.
+
+[ x8 - technical areas ]
+for which TA, CN, N and PP is it true that
+  ( the ITA technical area TA has the value CN as code name ) and
+  ( the ITA technical area TA has the value N as name ) and
+  ( the ITA technical area TA has the ITA project plan PP as project plan )
+order by TA ascending.
+
+[ x9 - project plans ]
+for which PP, CN and Y is it true that
+  ( the ITA project plan PP has the value CN as code name ) and
+  ( the ITA project plan PP ran during the year Y )
+order by PP ascending.

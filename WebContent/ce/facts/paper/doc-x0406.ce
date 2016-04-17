@@ -17,7 +17,6 @@ there is an ordered author named 'doc-x0406-author-3' that
 
 there is an academic document named 'doc-x0406' that
   is a patent and
-  has 'x0406' as id and
   has 'Automated propagation of non-conflicting queries in distributed databases' as title and
   has the date '2013' as publish date and
   has 'U.S. Patent No. 8,560,570. Washington, DC: U.S. Patent and Trademark Office.' as old venue and

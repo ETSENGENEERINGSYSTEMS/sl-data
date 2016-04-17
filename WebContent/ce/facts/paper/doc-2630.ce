@@ -21,7 +21,6 @@ there is a ordered author named 'doc-2630-author-4' that
 
 there is an academic document named 'doc-2630' that
   is a journal document and
-  has '2630' as id and
   has 'Human-Machine Conversations to Support Multi-Agency Missions' as title and
   has the ITA project 'BPP13P4' as project and
   has the date 'Jan-2014' as publish date and
