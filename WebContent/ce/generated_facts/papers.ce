@@ -14,7 +14,7 @@ there is an academic document named 'doc-1855a' that
   has '/SL_static/attachments/1855/ita_spie2012_v2a.pdf' as paper file and
   has '/SL_static/attachments/1855/ita_spie2012.ppt' as presentation file and
   has '/SL_static/images/papers/1855_paper.jpg' as paper thumbnail and
-  has the academic document 'doc-1855a' as variant.
+  has the academic document 'doc-1855c' as variant.
 
 there is an academic document named 'doc-1855c' that
   is a demonstration and
@@ -23,7 +23,7 @@ there is an academic document named 'doc-1855c' that
   has the event 'ACITA 2012' as venue and
   has '/SL_static/attachments/1855/ita_spie2012_v2a.pdf' as paper file and
   has '/SL_static/images/papers/1855b_paper.jpg' as paper thumbnail and
-  has the academic document 'doc-1855c' as variant.
+  has the academic document 'doc-1855a' as variant.
 
 there is an academic document named 'doc-2377' that
   is a external conference document and
