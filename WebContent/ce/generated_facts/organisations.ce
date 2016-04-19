@@ -1,0 +1,41 @@
+-- ---------------------------------------------------------------------------- (C) Copyright IBM Corporation 2016-- All Rights Reserved-- --------------------------------------------------------------------------
+there is an organisation named 'ARL' that
+  is a government organisation and
+  is a ITA organisation and
+  has 'Army Research Laboratory' as name and
+  has 'ARL' as short name and
+  is affiliated to the country 'US' and
+  is located at the place 'ARL, Washington DC'.
+
+there is an organisation named 'Cardiff University' that
+  is a academic organisation and
+  is a ITA organisation and
+  has 'Cardiff University' as name and
+  has 'Cardiff' as short name and
+  is affiliated to the country 'UK' and
+  is located at the place 'Cardiff University, UK'.
+
+there is an organisation named 'IBM UK' that
+  is a industrial organisation and
+  is a ITA organisation and
+  has 'IBM UK' as name and
+  has 'IBM UK' as short name and
+  is affiliated to the country 'UK' and
+  is located at the place 'IBM Hursley, UK'.
+
+there is an organisation named 'IBM US' that
+  is a industrial organisation and
+  is a ITA organisation and
+  has 'IBM US' as name and
+  has 'IBM US' as short name and
+  is affiliated to the country 'US' and
+  is located at the place 'IBM Research, Yorktown Heights'.
+
+there is an organisation named 'West point' that
+  is a government organisation and
+  is a ITA organisation and
+  has 'West point' as name and
+  has 'USMA' as short name and
+  is affiliated to the country 'US' and
+  is located at the place 'USMA, West Point'.
+

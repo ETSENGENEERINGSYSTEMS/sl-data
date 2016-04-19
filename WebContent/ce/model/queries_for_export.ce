@@ -18,7 +18,7 @@ order by P ascending.
 
 [ x2c - people citations ]
 for which P, U, DC, CC and H is it true that
-  ( the person P has the person citation count PC as citation count ) and
+  ( the published person P has the person citation count PC as citation count ) and
   ( the person citation count PC has the value U as url ) and
   ( the person citation count PC has the value DC as date checked ) and
   ( the person citation count PC has the value CC as citation count ) and

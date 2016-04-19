@@ -1,0 +1,157 @@
+-- ---------------------------------------------------------------------------- (C) Copyright IBM Corporation 2016-- All Rights Reserved-- --------------------------------------------------------------------------
+there is an academic document named 'doc-1434' that
+  has the ordered author 'doc-1434-author-dave_braines' as author.
+
+there is a ordered author named 'doc-1434-author-dave_braines' that
+  has the person 'dave_braines' as author person and and
+  has '1' as author index.
+
+there is an academic document named 'doc-1855a' that
+  has the ordered author 'doc-1855a-author-alun_preece' as author and
+  has the ordered author 'doc-1855a-author-diego_pizzocaro' as author and
+  has the ordered author 'doc-1855a-author-dave_braines' as author and
+  has the ordered author 'doc-1855a-author-david_mott' as author.
+
+there is a ordered author named 'doc-1855a-author-alun_preece' that
+  has the person 'alun_preece' as author person and and
+  has '1' as author index.
+
+there is a ordered author named 'doc-1855a-author-diego_pizzocaro' that
+  has the person 'diego_pizzocaro' as author person and and
+  has '2' as author index.
+
+there is a ordered author named 'doc-1855a-author-dave_braines' that
+  has the person 'dave_braines' as author person and and
+  has '3' as author index.
+
+there is a ordered author named 'doc-1855a-author-david_mott' that
+  has the person 'david_mott' as author person and and
+  has '4' as author index.
+
+there is an academic document named 'doc-1855c' that
+  has the ordered author 'doc-1855c-author-alun_preece' as author and
+  has the ordered author 'doc-1855c-author-diego_pizzocaro' as author and
+  has the ordered author 'doc-1855c-author-dave_braines' as author and
+  has the ordered author 'doc-1855c-author-david_mott' as author.
+
+there is a ordered author named 'doc-1855c-author-alun_preece' that
+  has the person 'alun_preece' as author person and and
+  has '1' as author index.
+
+there is a ordered author named 'doc-1855c-author-diego_pizzocaro' that
+  has the person 'diego_pizzocaro' as author person and and
+  has '2' as author index.
+
+there is a ordered author named 'doc-1855c-author-dave_braines' that
+  has the person 'dave_braines' as author person and and
+  has '3' as author index.
+
+there is a ordered author named 'doc-1855c-author-david_mott' that
+  has the person 'david_mott' as author person and and
+  has '4' as author index.
+
+there is an academic document named 'doc-2377' that
+  has the ordered author 'doc-2377-author-alun_preece' as author and
+  has the ordered author 'doc-2377-author-dave_braines' as author and
+  has the ordered author 'doc-2377-author-diego_pizzocaro' as author and
+  has the ordered author 'doc-2377-author-christos_parizas' as author.
+
+there is a ordered author named 'doc-2377-author-alun_preece' that
+  has the person 'alun_preece' as author person and and
+  has '1' as author index.
+
+there is a ordered author named 'doc-2377-author-dave_braines' that
+  has the person 'dave_braines' as author person and and
+  has '2' as author index.
+
+there is a ordered author named 'doc-2377-author-diego_pizzocaro' that
+  has the person 'diego_pizzocaro' as author person and and
+  has '3' as author index.
+
+there is a ordered author named 'doc-2377-author-christos_parizas' that
+  has the person 'christos_parizas' as author person and and
+  has '4' as author index.
+
+there is an academic document named 'doc-2630' that
+  has the ordered author 'doc-2630-author-alun_preece' as author and
+  has the ordered author 'doc-2630-author-dave_braines' as author and
+  has the ordered author 'doc-2630-author-diego_pizzocaro' as author.
+
+there is a ordered author named 'doc-2630-author-alun_preece' that
+  has the person 'alun_preece' as author person and and
+  has '1' as author index.
+
+there is a ordered author named 'doc-2630-author-dave_braines' that
+  has the person 'dave_braines' as author person and and
+  has '2' as author index.
+
+there is a ordered author named 'doc-2630-author-diego_pizzocaro' that
+  has the person 'diego_pizzocaro' as author person and and
+  has '3' as author index.
+
+there is an academic document named 'doc-2697' that
+  has the ordered author 'doc-2697-author-dave_braines' as author and
+  has the ordered author 'doc-2697-author-alun_preece' as author and
+  has the ordered author 'doc-2697-author-geeth_de_mel' as author and
+  has the ordered author 'doc-2697-author-tien_pham' as author.
+
+there is a ordered author named 'doc-2697-author-dave_braines' that
+  has the person 'dave_braines' as author person and and
+  has '1' as author index.
+
+there is a ordered author named 'doc-2697-author-alun_preece' that
+  has the person 'alun_preece' as author person and and
+  has '2' as author index.
+
+there is a ordered author named 'doc-2697-author-geeth_de_mel' that
+  has the person 'geeth_de_mel' as author person and and
+  has '3' as author index.
+
+there is a ordered author named 'doc-2697-author-tien_pham' that
+  has the person 'tien_pham' as author person and and
+  has '4' as author index.
+
+there is an academic document named 'doc-2998' that
+  has the ordered author 'doc-2998-author-jinny_yan' as author and
+  has the ordered author 'doc-2998-author-hannah_grosso' as author and
+  has the ordered author 'doc-2998-author-theodore_hoel' as author and
+  has the ordered author 'doc-2998-author-dave_braines' as author and
+  has the ordered author 'doc-2998-author-alun_preece' as author.
+
+there is a ordered author named 'doc-2998-author-jinny_yan' that
+  has the person 'jinny_yan' as author person and and
+  has '1' as author index.
+
+there is a ordered author named 'doc-2998-author-hannah_grosso' that
+  has the person 'hannah_grosso' as author person and and
+  has '2' as author index.
+
+there is a ordered author named 'doc-2998-author-theodore_hoel' that
+  has the person 'theodore_hoel' as author person and and
+  has '3' as author index.
+
+there is a ordered author named 'doc-2998-author-dave_braines' that
+  has the person 'dave_braines' as author person and and
+  has '4' as author index.
+
+there is a ordered author named 'doc-2998-author-alun_preece' that
+  has the person 'alun_preece' as author person and and
+  has '5' as author index.
+
+there is an academic document named 'doc-x0406' that
+  has the ordered author 'doc-x0406-author-graham_bent' as author and
+  has the ordered author 'doc-x0406-author-patrick_dantressangle' as author and
+  has the ordered author 'doc-x0406-author-david_vyvyan' as author.
+
+there is a ordered author named 'doc-x0406-author-graham_bent' that
+  has the person 'graham_bent' as author person and and
+  has '1' as author index.
+
+there is a ordered author named 'doc-x0406-author-patrick_dantressangle' that
+  has the person 'patrick_dantressangle' as author person and and
+  has '2' as author index.
+
+there is a ordered author named 'doc-x0406-author-david_vyvyan' that
+  has the person 'david_vyvyan' as author person and and
+  has '3' as author index.
+

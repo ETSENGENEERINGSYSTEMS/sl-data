@@ -1,0 +1,55 @@
+-- ---------------------------------------------------------------------------- (C) Copyright IBM Corporation 2016-- All Rights Reserved-- --------------------------------------------------------------------------
+there is a person citation count named 'citation:alun_preece-01' that
+  has 'https://scholar.google.co.uk/citations?user=jKz-U3wAAAAJ&hl=en' as url and
+  has '3741' as citation count and
+  has '34' as h-index and
+  has '24/11/2015' as date checked.
+
+there is a person citation count named 'citation:christos_parizas-01' that
+  has '24/11/2015' as date checked.
+
+there is a person citation count named 'citation:dave_braines-01' that
+  has 'https://scholar.google.co.uk/citations?user=GNtI7cIAAAAJ&hl=en' as url and
+  has '491' as citation count and
+  has '12' as h-index and
+  has '24/11/2015' as date checked.
+
+there is a person citation count named 'citation:david_mott-01' that
+  has 'https://scholar.google.co.uk/citations?user=GNtI7cIAAAAJ&hl=en' as url and
+  has '317' as citation count and
+  has '12' as h-index and
+  has '22/01/2016' as date checked.
+
+there is a person citation count named 'citation:david_vyvyan-01' that
+  has '24/11/2015' as date checked.
+
+there is a person citation count named 'citation:diego_pizzocaro-01' that
+  has 'https://scholar.google.co.uk/citations?user=jfsu_TcAAAAJ&hl=en' as url and
+  has '311' as citation count and
+  has '10' as h-index and
+  has '24/11/2015' as date checked.
+
+there is a person citation count named 'citation:geeth_de_mel-01' that
+  has 'https://scholar.google.co.uk/citations?user=R0cCxNkAAAAJ&hl=en' as url and
+  has '272' as citation count and
+  has '9' as h-index and
+  has '24/11/2015' as date checked.
+
+there is a person citation count named 'citation:graham_bent-01' that
+  has '24/11/2015' as date checked.
+
+there is a person citation count named 'citation:hannah_grosso-01' that
+  has '24/11/2015' as date checked.
+
+there is a person citation count named 'citation:jinny_yan-01' that
+  has '24/11/2015' as date checked.
+
+there is a person citation count named 'citation:patrick_dantressangle-01' that
+  has '24/11/2015' as date checked.
+
+there is a person citation count named 'citation:theodore_hoel-01' that
+  has '24/11/2015' as date checked.
+
+there is a person citation count named 'citation:tien_pham-01' that
+  has '24/11/2015' as date checked.
+

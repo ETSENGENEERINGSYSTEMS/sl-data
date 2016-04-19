@@ -22,8 +22,8 @@ for which V1, V2, V3, V4 and V5 is it true that
 for which V1, V2, V3, V4, V5, V6, V7, V8  is it true that
     ( the academic document V1 has the event V3 as venue ) and
     ( the academic document V1 has the paper citation count V8 as citation count ) and
-    ( the academic person V2 wrote the academic document V1 ) and
-    ( the academic person V2 is employed by the organisation V5 ) and
+    ( the published person V2 wrote the academic document V1 ) and
+    ( the published person V2 is employed by the organisation V5 ) and
     ( the event V3 is part of the event series V4 ) and
     ( the event V3 occurs at the place V7 ) and
     ( the organisation V5 is located at the place V6 ) and
@@ -41,11 +41,13 @@ for which AD and PT is it true that
 order by PT.
 
 [ person details ]
-for which P, FN, SN and C is it true that
+for which P, FN, SN, TC and CC is it true that
   ( the published person P has the value FN as forename ) and
   ( the published person P is an ITA person ) and
   ( the published person P has the value SN as surname ) and
-  ( the published person P has the value C as co-author count ) and ( the value C > '0' )
+  ( the published person P has the value TC as total publication count ) and ( the value TC > '0' ) and
+  ( the published person P has the value CC as co-author count ) and ( the value CC > '0' )
+order by TC, CC descending
 .
 -- This query is used by the visualisation demo
 
@@ -76,11 +78,8 @@ for which P and AD is it true that
 -- This query is used by the visualisation demo
 
 [ academic document details ]
-for which AD, T, DM and DY is it true that
-  ( the academic document AD has the value T as title ) and
-  ( the academic document AD has the date FD as final date ) and
-  ( the date FD has the value DM as month ) and
-  ( the date FD has the value DY as year )
+for which AD and T is it true that
+  ( the academic document AD has the value T as title )
 .
 -- This query is used by the visualisation demo
 

@@ -1,0 +1,69 @@
+-- ---------------------------------------------------------------------------- (C) Copyright IBM Corporation 2016-- All Rights Reserved-- --------------------------------------------------------------------------
+there is an academic document named 'doc-1434' that
+  is a technical report and
+  has 'Efficient SME Knowledge capture through CNLs and ontologies' as title and
+  has the date 'Feb-2009' as publish date and
+  has '/SL_static/attachments/1434/P12%20T1%20-%20Efficient%20SME%20Knowledge%20Capture.doc' as paper file and
+  has '/SL_static/images/papers/1434_paper.jpg' as paper thumbnail.
+
+there is an academic document named 'doc-1855a' that
+  is a external conference document and
+  has 'Tasking and Sharing Sensing Assets Using Controlled Natural Language' as title and
+  has the ITA project 'BPP11P4' as project and
+  has the event 'SPIE DSS 2012' as venue and
+  has '/SL_static/attachments/1855/ita_spie2012_v2a.pdf' as paper file and
+  has '/SL_static/attachments/1855/ita_spie2012.ppt' as presentation file and
+  has '/SL_static/images/papers/1855_paper.jpg' as paper thumbnail and
+  has the academic document 'doc-1855a' as variant.
+
+there is an academic document named 'doc-1855c' that
+  is a demonstration and
+  has 'Tasking and Sharing Sensing Assets Using Controlled Natural Language' as title and
+  has the ITA project 'BPP11P4' as project and
+  has the event 'ACITA 2012' as venue and
+  has '/SL_static/attachments/1855/ita_spie2012_v2a.pdf' as paper file and
+  has '/SL_static/images/papers/1855b_paper.jpg' as paper thumbnail and
+  has the academic document 'doc-1855c' as variant.
+
+there is an academic document named 'doc-2377' that
+  is a external conference document and
+  has 'Human-Machine Conversations to Support Mission-Oriented Information Provision' as title and
+  has the date 'Oct-2013' as publish date and
+  has the ITA project 'BPP13P4' as project and
+  has 'Proceedings of the 2nd ACM annual international workshop on Mission-oriented wireless sensor networking (pp. 43-50). ACM' as old venue and
+  has ' /SL_static/attachments/2377/misenet05-preece.pdf' as paper file and
+  has '/SL_static/images/papers/2377_paper.jpg' as paper thumbnail.
+
+there is an academic document named 'doc-2630' that
+  is a journal document and
+  has 'Human-Machine Conversations to Support Multi-Agency Missions' as title and
+  has the date 'Jan-2014' as publish date and
+  has the ITA project 'BPP13P4' as project and
+  has 'ACM SIGMOBILE Mobile Computing and Communications Review, Volume 18 Issue 1' as old venue and
+  has '/SL_static/attachments/2630/p75-preece.pdf' as paper file and
+  has '/SL_static/images/papers/2630_paper.jpg' as paper thumbnail.
+
+there is an academic document named 'doc-2697' that
+  is a external conference document and
+  has 'Enabling CoIST Users: D2D at the Network Edge' as title and
+  has the ITA project 'BPP13P4' as project and
+  has the event 'Fusion 2014' as venue and
+  has '/SL_static/attachments/2697/PID3236615.pdf' as paper file and
+  has '/SL_static/images/papers/2697_paper.jpg' as paper thumbnail.
+
+there is an academic document named 'doc-2998' that
+  is a internal conference document and
+  has 'Use of Controlled English to Bridge the Gap Between Tactical and Strategic Echelons' as title and
+  has the ITA project 'BPP13P4' as project and
+  has the event 'AFM 2015' as venue and
+  has '/SL_static/attachments/2998/ITA-WP_Paper07AUG.pdf' as paper file and
+  has '/SL_static/images/papers/2998_paper.jpg' as paper thumbnail.
+
+there is an academic document named 'doc-x0406' that
+  is a patent and
+  has 'Automated propagation of non-conflicting queries in distributed databases' as title and
+  has the date '2013' as publish date and
+  has 'U.S. Patent No. 8,560,570. Washington, DC: U.S. Patent and Trademark Office.' as old venue and
+  has '/SL_static/attachments/x0406/x0406.pdf' as paper file and
+  has '/SL_static/images/papers/x0406_paper.jpg' as paper thumbnail.
+

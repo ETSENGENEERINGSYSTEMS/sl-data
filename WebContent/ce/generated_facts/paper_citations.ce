@@ -1,0 +1,64 @@
+-- ---------------------------------------------------------------------------- (C) Copyright IBM Corporation 2016-- All Rights Reserved-- --------------------------------------------------------------------------
+there is an academic document named 'doc-1434' that
+  has the paper citation count 'citation:doc-1434-01' as citation count.
+
+there is a paper citation count named 'citation:doc-1434-01' that
+  has 'https://scholar.google.co.uk/scholar?q="Efficient SME Knowledge capture through CNLs and ontologies"&btnG=&hl=en&as_sdt=0,5' as url and
+  has '0' as citation count and
+  has '19/01/2016' as date checked.
+
+there is an academic document named 'doc-1855a' that
+  has the paper citation count 'citation:doc-1855a-01' as citation count.
+
+there is a paper citation count named 'citation:doc-1855a-01' that
+  has 'https://scholar.google.co.uk/scholar?q="Tasking and Sharing Sensing Assets Using Controlled Natural Language"&btnG=&hl=en&as_sdt=0,5' as url and
+  has '12' as citation count and
+  has '10/01/2016' as date checked.
+
+there is an academic document named 'doc-1855c' that
+  has the paper citation count 'citation:doc-1855c-01' as citation count.
+
+there is a paper citation count named 'citation:doc-1855c-01' that
+  has '0' as citation count and
+  has '10/01/2016' as date checked.
+
+there is an academic document named 'doc-2377' that
+  has the paper citation count 'citation:doc-2377-01' as citation count.
+
+there is a paper citation count named 'citation:doc-2377-01' that
+  has 'https://scholar.google.co.uk/scholar?q="Human-Machine Conversations to Support Mission-Oriented Information Provision"&btnG=&hl=en&as_sdt=0,5' as url and
+  has '1' as citation count and
+  has '11/01/2016' as date checked.
+
+there is an academic document named 'doc-2630' that
+  has the paper citation count 'citation:doc-2630-01' as citation count.
+
+there is a paper citation count named 'citation:doc-2630-01' that
+  has 'https://scholar.google.co.uk/scholar?q="Human-Machine Conversations to Support Multi-Agency Missions"&btnG=&hl=en&as_sdt=0,5' as url and
+  has '10' as citation count and
+  has '11/01/2016' as date checked.
+
+there is an academic document named 'doc-2697' that
+  has the paper citation count 'citation:doc-2697-01' as citation count.
+
+there is a paper citation count named 'citation:doc-2697-01' that
+  has 'https://scholar.google.co.uk/scholar?q=%22Enabling+CoIST+Users%3A+D2D+at+the+Network+Edge%22&btnG=&hl=en&as_sdt=0%2C5' as url and
+  has '4' as citation count and
+  has '09/02/2016' as date checked.
+
+there is an academic document named 'doc-2998' that
+  has the paper citation count 'citation:doc-2998-01' as citation count.
+
+there is a paper citation count named 'citation:doc-2998-01' that
+  has 'https://scholar.google.co.uk/scholar?q=%22Use of Controlled English to Bridge the Gap Between Tactical and Strategic Echelons%22&btnG=&hl=en&as_sdt=0%2C5' as url and
+  has '0' as citation count and
+  has '11/2/2016' as date checked.
+
+there is an academic document named 'doc-x0406' that
+  has the paper citation count 'citation:doc-x0406-01' as citation count.
+
+there is a paper citation count named 'citation:doc-x0406-01' that
+  has 'https://scholar.google.co.uk/scholar?q=%22Automated propagation of non-conflicting queries in distributed databases%22&btnG=&hl=en&as_sdt=0%2C5' as url and
+  has '0' as citation count and
+  has '6/3/2016' as date checked.
+
