@@ -29,7 +29,10 @@ conceptualise a ~ person ~ P that
   ~ wrote ~ the academic document D and
   has the value PP as ~ profile picture ~ and
   has the value C as ~ comment ~ and
-  has the co-author statistic C as ~ co-author statistic ~.
+  has the co-author statistic C as ~ co-author statistic ~ and
+  has the person citation count C as ~ citation count ~ and
+  has the value ICC as ~ ita citation count ~ and
+  has the value IHI as ~ ita h-index ~.
 
 conceptualise a ~ government person ~ P that is a person.
 conceptualise a ~ industry person ~ P that is a person.
@@ -40,10 +43,7 @@ conceptualise a ~ UK person ~ P that is a person.
 conceptualise an ~ ITA person ~ P that is a person.
 
 conceptualise a ~ published person ~ P that
-  is a person and
-  has the person citation count C as ~ citation count ~ and
-  has the value ICC as ~ ita citation count ~ and
-  has the value IHI as ~ ita h-index ~.
+  is a person.
 
 -- Authors have an order on papers that is important (e.g. the first author is
 -- usually the principal author), so capture the order via the 'author index'

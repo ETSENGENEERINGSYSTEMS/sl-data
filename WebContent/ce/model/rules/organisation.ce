@@ -45,19 +45,12 @@ then
   ( the organisation O employs the person P )
 .
 
-[ 1b-published organisation ]
-if
-  ( the published person P is employed by the organisation O )
-then
-  ( the organisation O is a published organisation )
-.
-
 [ 2a-organisation wrote document ]
 if
   ( the organisation O employs the person P ) and
   ( the person P wrote the academic document AD )
 then
-  ( the organisation O wrote the academic document AD )
+  ( the published organisation O wrote the academic document AD )
 .
 
 [ 2b-organisation paper count ]

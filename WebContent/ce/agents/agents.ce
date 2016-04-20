@@ -14,8 +14,7 @@ there is a rule executor agent named 'rules_for_orgs_1' that
   has '1a-org type - government' as rule name and
   has '1a-US organisation' as rule name and
   has '1a-UK organisation' as rule name and
-  has '1a-organisation employs' as rule name and
-  has '1b-published organisation' as rule name.
+  has '1a-organisation employs' as rule name.
 
 there is a rule executor agent named 'rules_for_orgs_2' that
   has 'com.ibm.ets.ita.ce.agent.general.RuleExecutor' as class name and
@@ -39,7 +38,6 @@ there is a rule executor agent named 'rules_for_people' that
   has 'true' as iterate and
   has '10' as maximum iterations and
   has '1a-ITA person' as rule name and
-  has '1a-published person' as rule name and
   has '1a-academic person' as rule name and
   has '1a-government person' as rule name and
   has '1a-industry person' as rule name and
@@ -60,7 +58,11 @@ there is a rule executor agent named 'rules_for_events' that
   has 'Rules_Events.ce' as CE filename and
   has 'true' as iterate and
   has '10' as maximum iterations and
-  has '1a-event series years ran' as rule name.
+  has '1a-event series years ran' as rule name and
+  has '1a-published event series' as rule name and
+  has '1a-published event' as rule name and
+  has '1a-count publications by event' as rule name and
+  has '1a-count publications by event series' as rule name.
 
 there is a rule executor agent named 'rules_for_authors' that
   has 'com.ibm.ets.ita.ce.agent.general.RuleExecutor' as class name and

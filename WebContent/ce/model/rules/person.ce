@@ -10,13 +10,6 @@ then
   ( the person P is an ITA person )
 .
 
-[ 1a-published person ]
-if
-  ( the person P wrote the academic document D )
-then
-  ( the person P is a published person )
-.
-
 [ 1a-government person ]
 if
   ( the person P is employed by the government organisation O ) and
@@ -57,7 +50,7 @@ if
    ( the ordered author V3 has the person V1 as author person ) and
    ( the academic document V4 has the ordered author V3 as author )
 then
-   ( the person V1 wrote the academic document V4 )
+   ( the published person V1 wrote the academic document V4 )
 .
 
 [ 1c-person total publication count ]

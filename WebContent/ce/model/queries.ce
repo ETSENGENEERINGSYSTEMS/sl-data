@@ -109,7 +109,8 @@ for which V1, V2 is it true that
 
 [ organisations ]
 for which V1 is it true that
-    ( there is an ITA organisation named V1 )
+    ( there is an ITA organisation named V1 ) and
+    ( the ITA organisation V1 is a published organisation )
 .
 -- This query is used by the visualisation demo
 
@@ -321,7 +322,9 @@ for which V1, V2, V3, _F1 and _F2 is it true that
 
 [ event series ]
 for which V1 and _F1 is it true that
-    ( the event series V1 has the value _F1 as full name )
+    ( the published event series V1 has the value _F1 as full name ) and
+    ( the published event series V1 has the value _F2 as paper count )
+order by _F2 descending
 .
 
 [ unemployed person ]

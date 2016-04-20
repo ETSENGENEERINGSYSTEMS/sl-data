@@ -9,3 +9,34 @@ if
 then
   ( the event series ES has #E as years ran )
 .
+
+[ 1a-published event series ]
+if
+  ( there is an event series named ES ) and
+  ( the event E is part of the event series ES ) and
+  ( the academic document AD has the event E as venue )
+then
+  ( the event series ES is a published event series )
+.
+
+[ 1a-published event ]
+if
+  ( the academic document AD has the event E as venue )
+then
+  ( the event E is a published event )
+.
+
+[ 1a-count publications by event ]
+if 
+  ( the academic document #AD has the event E as venue )
+then
+  ( the event E has #AD as paper count )
+.
+
+[ 1a-count publications by event series ]
+if
+  ( the event E is part of the event series ES ) and
+  ( the academic document #AD has the event E as venue )
+then
+  ( the event series ES has #AD as paper count )
+.

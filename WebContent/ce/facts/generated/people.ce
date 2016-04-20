@@ -4,18 +4,14 @@ there is a person named 'alun_preece' that
   has 'Preece' as surname and
   has 'Alun Preece' as full name and
   is employed by the organisation 'Cardiff University' and
-  has '/SL_static/images/people/alun_preece.jpg' as profile picture.
-
-there is a published person named 'alun_preece' that
+  has '/SL_static/images/people/alun_preece.jpg' as profile picture and
   has the person citation count 'citation:alun_preece-01' as citation count.
 
 there is a person named 'christos_parizas' that
   has 'Christos' as forename and
   has 'Parizas' as surname and
   has 'Christos Parizas' as full name and
-  is employed by the organisation 'Cardiff University'.
-
-there is a published person named 'christos_parizas' that
+  is employed by the organisation 'Cardiff University' and
   has the person citation count 'citation:christos_parizas-01' as citation count.
 
 there is a person named 'dave_braines' that
@@ -23,9 +19,7 @@ there is a person named 'dave_braines' that
   has 'Braines' as surname and
   has 'Dave Braines' as full name and
   is employed by the organisation 'IBM UK' and
-  has '/SL_static/images/people/dave_braines.jpg' as profile picture.
-
-there is a published person named 'dave_braines' that
+  has '/SL_static/images/people/dave_braines.jpg' as profile picture and
   has the person citation count 'citation:dave_braines-01' as citation count.
 
 there is a person named 'david_mott' that
@@ -33,9 +27,7 @@ there is a person named 'david_mott' that
   has 'Mott' as surname and
   has 'David Mott' as full name and
   is employed by the organisation 'IBM UK' and
-  has '/SL_static/images/people/david_mott.jpg' as profile picture.
-
-there is a published person named 'david_mott' that
+  has '/SL_static/images/people/david_mott.jpg' as profile picture and
   has the person citation count 'citation:david_mott-01' as citation count.
 
 there is a person named 'david_vyvyan' that
@@ -43,18 +35,14 @@ there is a person named 'david_vyvyan' that
   has 'Vyvyan' as surname and
   has 'David Vyvyan' as full name and
   is employed by the organisation 'IBM UK' and
-  has '/SL_static/images/people/david_vyvyan.jpg' as profile picture.
-
-there is a published person named 'david_vyvyan' that
+  has '/SL_static/images/people/david_vyvyan.jpg' as profile picture and
   has the person citation count 'citation:david_vyvyan-01' as citation count.
 
 there is a person named 'diego_pizzocaro' that
   has 'Diego' as forename and
   has 'Pizzocaro' as surname and
   has 'Diego Pizzocaro' as full name and
-  is employed by the organisation 'Cardiff University'.
-
-there is a published person named 'diego_pizzocaro' that
+  is employed by the organisation 'Cardiff University' and
   has the person citation count 'citation:diego_pizzocaro-01' as citation count.
 
 there is a person named 'geeth_de_mel' that
@@ -62,9 +50,7 @@ there is a person named 'geeth_de_mel' that
   has 'de Mel' as surname and
   has 'Geeth de Mel' as full name and
   is employed by the organisation 'IBM US' and
-  has '/SL_static/images/people/geeth_de_mel.jpg' as profile picture.
-
-there is a published person named 'geeth_de_mel' that
+  has '/SL_static/images/people/geeth_de_mel.jpg' as profile picture and
   has the person citation count 'citation:geeth_de_mel-01' as citation count.
 
 there is a person named 'graham_bent' that
@@ -72,27 +58,21 @@ there is a person named 'graham_bent' that
   has 'Bent' as surname and
   has 'Graham Bent' as full name and
   is employed by the organisation 'IBM UK' and
-  has '/SL_static/images/people/graham_bent.jpg' as profile picture.
-
-there is a published person named 'graham_bent' that
+  has '/SL_static/images/people/graham_bent.jpg' as profile picture and
   has the person citation count 'citation:graham_bent-01' as citation count.
 
 there is a person named 'hannah_grosso' that
   has 'Hannah' as forename and
   has 'Grosso' as surname and
   has 'Hannah Grosso' as full name and
-  is employed by the organisation 'West point'.
-
-there is a published person named 'hannah_grosso' that
+  is employed by the organisation 'West point' and
   has the person citation count 'citation:hannah_grosso-01' as citation count.
 
 there is a person named 'jinny_yan' that
   has 'Jinny' as forename and
   has 'Yan' as surname and
   has 'Jinny Yan' as full name and
-  is employed by the organisation 'West point'.
-
-there is a published person named 'jinny_yan' that
+  is employed by the organisation 'West point' and
   has the person citation count 'citation:jinny_yan-01' as citation count.
 
 there is a person named 'patrick_dantressangle' that
@@ -100,26 +80,20 @@ there is a person named 'patrick_dantressangle' that
   has 'Dantressangle' as surname and
   has 'Patrick Dantressangle' as full name and
   is employed by the organisation 'IBM UK' and
-  has '/SL_static/images/people/patrick_dantressangle.jpg' as profile picture.
-
-there is a published person named 'patrick_dantressangle' that
+  has '/SL_static/images/people/patrick_dantressangle.jpg' as profile picture and
   has the person citation count 'citation:patrick_dantressangle-01' as citation count.
 
 there is a person named 'theodore_hoel' that
   has 'Theodore' as forename and
   has 'Hoel' as surname and
   has 'Theodore Hoel' as full name and
-  is employed by the organisation 'West point'.
-
-there is a published person named 'theodore_hoel' that
+  is employed by the organisation 'West point' and
   has the person citation count 'citation:theodore_hoel-01' as citation count.
 
 there is a person named 'tien_pham' that
   has 'Tien' as forename and
   has 'Pham' as surname and
   has 'Tien Pham' as full name and
-  is employed by the organisation 'ARL'.
-
-there is a published person named 'tien_pham' that
+  is employed by the organisation 'ARL' and
   has the person citation count 'citation:tien_pham-01' as citation count.
 
