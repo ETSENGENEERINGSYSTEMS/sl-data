@@ -3,19 +3,21 @@
 -- All Rights Reserved
 -- --------------------------------------------------------------------------
 
-perform load sentences from url '/SL_data/ce/generated_facts/event_series.ce'.
-perform load sentences from url '/SL_data/ce/generated_facts/events.ce'.
-perform load sentences from url '/SL_data/ce/generated_facts/organisations.ce'.
-perform load sentences from url '/SL_data/ce/generated_facts/paper_abstracts.ce'.
-perform load sentences from url '/SL_data/ce/generated_facts/paper_authors.ce'.
-perform load sentences from url '/SL_data/ce/generated_facts/paper_citations.ce'.
-perform load sentences from url '/SL_data/ce/generated_facts/paper_noteworthy.ce'.
-perform load sentences from url '/SL_data/ce/generated_facts/papers.ce'.
-perform load sentences from url '/SL_data/ce/generated_facts/people_citations.ce'.
-perform load sentences from url '/SL_data/ce/generated_facts/people.ce'.
-perform load sentences from url '/SL_data/ce/generated_facts/places.ce'.
-perform load sentences from url '/SL_data/ce/generated_facts/project_plans.ce'.
-perform load sentences from url '/SL_data/ce/generated_facts/projects.ce'.
-perform load sentences from url '/SL_data/ce/generated_facts/technical_areas.ce'.
-perform load sentences from url '/SL_data/ce/generated_facts/dates.ce'.
-perform load sentences from url '/SL_data/ce/generated_facts/countries.ce'.
+perform load sentences from url '/SL_data/ce/facts/generated/event_series.ce'.
+perform load sentences from url '/SL_data/ce/facts/generated/events.ce'.
+perform load sentences from url '/SL_data/ce/facts/generated/organisations.ce'.
+perform load sentences from url '/SL_data/ce/facts/generated/paper_abstracts.ce'.
+perform load sentences from url '/SL_data/ce/facts/generated/paper_authors.ce'.
+perform load sentences from url '/SL_data/ce/facts/generated/paper_citations.ce'.
+perform load sentences from url '/SL_data/ce/facts/generated/paper_noteworthy.ce'.
+perform load sentences from url '/SL_data/ce/facts/generated/papers.ce'.
+perform load sentences from url '/SL_data/ce/facts/generated/people_citations.ce'.
+perform load sentences from url '/SL_data/ce/facts/generated/people.ce'.
+perform load sentences from url '/SL_data/ce/facts/generated/places.ce'.
+perform load sentences from url '/SL_data/ce/facts/generated/project_plans.ce'.
+perform load sentences from url '/SL_data/ce/facts/generated/projects.ce'.
+perform load sentences from url '/SL_data/ce/facts/generated/technical_areas.ce'.
+perform load sentences from url '/SL_data/ce/facts/generated/dates.ce'.
+perform load sentences from url '/SL_data/ce/facts/generated/countries.ce'.
+perform load sentences from url '/SL_data/ce/facts/generated/messages.ce'.
+perform load sentences from url '/SL_data/ce/facts/generated/computed_all.ce'.

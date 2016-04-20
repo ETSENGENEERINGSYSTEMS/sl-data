@@ -35,13 +35,6 @@ perform load sentences from url '/SL_data/ce/agents/agents.ce'.
 perform load sentences from url '/SL_data/ce/cmd/facts_manual.ce'.
 --perform load sentences from url '/SL_data/ce/cmd/facts_generated.ce'.
 
--- Load the computed data
-perform load sentences from url '/SL_data/ce/facts/computed/computed_citations.ce'.
-perform load sentences from url '/SL_data/ce/facts/computed/computed_coauthor_stats.ce'.
-perform load sentences from url '/SL_data/ce/facts/computed/computed_origauthors.ce'.
-perform load sentences from url '/SL_data/ce/facts/computed/computed_docweights.ce'.
-perform load sentences from url '/SL_data/ce/facts/computed/computed_totals.ce'.
-
 -- (Run the rules) - Load the cached data
 
 --perform run the rule executor agent named 'rules_for_orgs_1'.
@@ -66,6 +59,9 @@ perform load sentences from url '/SL_data/ce/facts/cached/Rules_Dates_flush_1.ce
 
 --perform run the rule executor agent named 'rules_for_documents'.
 perform load sentences from url '/SL_data/ce/facts/cached/Rules_Documents_flush_1.ce'.
+
+----perform run the rule executor agent named 'rules_for_totals'.
+--perform load sentences from url '/SL_data/ce/facts/cached/Rules_Totals_flush_1.ce'.
 
 
 --perform run the rule executor agent named 'rules_for_orgs_2'.

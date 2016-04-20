@@ -4,6 +4,7 @@
 -- --------------------------------------------------------------------------
 
 conceptualise a ~ co-author statistic ~ C that
+  has the published person MA as ~ main-author ~ and
   has the published person CA as ~ co-author ~ and
   has the value CC as ~ co-author count ~.
 

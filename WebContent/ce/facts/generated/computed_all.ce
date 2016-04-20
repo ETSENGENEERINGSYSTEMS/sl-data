@@ -1,0 +1,405 @@
+--------------------------------------------
+-- academic document:original authors string
+--------------------------------------------
+
+the academic document 'doc-1855c'
+  has 'Alun Preece, Dave Braines, David Mott, Diego Pizzocaro' as original authors string.
+
+the academic document 'doc-2697'
+  has 'Dave Braines, Geeth de Mel, Alun Preece, Tien Pham' as original authors string.
+
+the academic document 'doc-1855a'
+  has 'Diego Pizzocaro, Alun Preece, David Mott, Dave Braines' as original authors string.
+
+the academic document 'doc-2998'
+  has 'Jinny Yan, Theodore Hoel, Alun Preece, Hannah Grosso, Dave Braines' as original authors string.
+
+the academic document 'doc-2377'
+  has 'Alun Preece, Dave Braines, Diego Pizzocaro, Christos Parizas' as original authors string.
+
+the academic document 'doc-2630'
+  has 'Alun Preece, Dave Braines, Diego Pizzocaro' as original authors string.
+
+the academic document 'doc-1434'
+  has 'Dave Braines' as original authors string.
+
+the academic document 'doc-x0406'
+  has 'Patrick Dantressangle, Graham Bent, David Vyvyan' as original authors string.
+
+---------------------------------------------------
+-- published person:ita citation count, ita h-index
+---------------------------------------------------
+
+the published person 'diego_pizzocaro'
+  has '23' as ita citation count and
+  has '1' as ita h-index.
+
+the published person 'dave_braines'
+  has '27' as ita citation count and
+  has '1' as ita h-index.
+
+the published person 'alun_preece'
+  has '27' as ita citation count and
+  has '1' as ita h-index.
+
+the published person 'jinny_yan'
+  has '0' as ita citation count and
+  has '0' as ita h-index.
+
+the published person 'christos_parizas'
+  has '1' as ita citation count and
+  has '1' as ita h-index.
+
+the published person 'theodore_hoel'
+  has '0' as ita citation count and
+  has '0' as ita h-index.
+
+the published person 'tien_pham'
+  has '4' as ita citation count and
+  has '1' as ita h-index.
+
+the published person 'hannah_grosso'
+  has '0' as ita citation count and
+  has '0' as ita h-index.
+
+the published person 'geeth_de_mel'
+  has '4' as ita citation count and
+  has '1' as ita h-index.
+
+the published person 'graham_bent'
+  has '0' as ita citation count and
+  has '0' as ita h-index.
+
+the published person 'david_mott'
+  has '12' as ita citation count and
+  has '1' as ita h-index.
+
+the published person 'patrick_dantressangle'
+  has '0' as ita citation count and
+  has '0' as ita h-index.
+
+the published person 'david_vyvyan'
+  has '0' as ita citation count and
+  has '0' as ita h-index.
+
+-----------------------------------------------------------------------
+-- academic document:weight, alternative weight 1, alternative weight 2
+-----------------------------------------------------------------------
+
+the academic document 'doc-1855c'
+  has '2400' as weight and
+  has '2400' as alternative weight 1 and
+  has '2400' as alternative weight 2.
+
+the academic document 'doc-2697'
+  has '3400' as weight and
+  has '4400' as alternative weight 1 and
+  has '4400' as alternative weight 2.
+
+the academic document 'doc-1855a'
+  has '2400' as weight and
+  has '2400' as alternative weight 1 and
+  has '2400' as alternative weight 2.
+
+the academic document 'doc-2998'
+  has '3500' as weight and
+  has '4500' as alternative weight 1 and
+  has '4500' as alternative weight 2.
+
+the academic document 'doc-2377'
+  has '2400' as weight and
+  has '2400' as alternative weight 1 and
+  has '2400' as alternative weight 2.
+
+the academic document 'doc-2630'
+  has '2300' as weight and
+  has '2300' as alternative weight 1 and
+  has '2300' as alternative weight 2.
+
+the academic document 'doc-1434'
+  has '1100' as weight and
+  has '1100' as alternative weight 1 and
+  has '1100' as alternative weight 2.
+
+the academic document 'doc-x0406'
+  has '1300' as weight and
+  has '1300' as alternative weight 1 and
+  has '1300' as alternative weight 2.
+
+-------------------------
+-- compute document types
+-------------------------
+
+the academic document 'doc-1855c'
+  is a collaborative document.
+
+the academic document 'doc-2697'
+  is a collaborative document and
+  is an international document.
+
+the academic document 'doc-1855a'
+  is a collaborative document.
+
+the academic document 'doc-2998'
+  is a collaborative document and
+  is an international document.
+
+the academic document 'doc-2377'
+  is a collaborative document.
+
+the academic document 'doc-2630'
+  is a collaborative document.
+
+the academic document 'doc-1434'
+  is a single institute document.
+
+the academic document 'doc-x0406'
+  is a single institute document.
+
+--------------------------------------
+-- co-author statistic:co-author count
+--------------------------------------
+
+the co-author statistic 'co-author-stat:diego_pizzocaro-christos_parizas'
+  has '1' as co-author count.
+
+the co-author statistic 'co-author-stat:dave_braines-theodore_hoel'
+  has '1' as co-author count.
+
+the co-author statistic 'co-author-stat:alun_preece-david_mott'
+  has '2' as co-author count.
+
+the co-author statistic 'co-author-stat:jinny_yan-hannah_grosso'
+  has '1' as co-author count.
+
+the co-author statistic 'co-author-stat:christos_parizas-dave_braines'
+  has '1' as co-author count.
+
+the co-author statistic 'co-author-stat:dave_braines-hannah_grosso'
+  has '1' as co-author count.
+
+the co-author statistic 'co-author-stat:diego_pizzocaro-alun_preece'
+  has '4' as co-author count.
+
+the co-author statistic 'co-author-stat:dave_braines-geeth_de_mel'
+  has '1' as co-author count.
+
+the co-author statistic 'co-author-stat:theodore_hoel-alun_preece'
+  has '1' as co-author count.
+
+the co-author statistic 'co-author-stat:alun_preece-hannah_grosso'
+  has '1' as co-author count.
+
+the co-author statistic 'co-author-stat:tien_pham-geeth_de_mel'
+  has '1' as co-author count.
+
+the co-author statistic 'co-author-stat:hannah_grosso-alun_preece'
+  has '1' as co-author count.
+
+the co-author statistic 'co-author-stat:alun_preece-christos_parizas'
+  has '1' as co-author count.
+
+the co-author statistic 'co-author-stat:dave_braines-tien_pham'
+  has '1' as co-author count.
+
+the co-author statistic 'co-author-stat:dave_braines-diego_pizzocaro'
+  has '4' as co-author count.
+
+the co-author statistic 'co-author-stat:alun_preece-dave_braines'
+  has '6' as co-author count.
+
+the co-author statistic 'co-author-stat:tien_pham-alun_preece'
+  has '1' as co-author count.
+
+the co-author statistic 'co-author-stat:dave_braines-jinny_yan'
+  has '1' as co-author count.
+
+the co-author statistic 'co-author-stat:dave_braines-david_mott'
+  has '2' as co-author count.
+
+the co-author statistic 'co-author-stat:diego_pizzocaro-david_mott'
+  has '2' as co-author count.
+
+the co-author statistic 'co-author-stat:alun_preece-geeth_de_mel'
+  has '1' as co-author count.
+
+the co-author statistic 'co-author-stat:geeth_de_mel-tien_pham'
+  has '1' as co-author count.
+
+the co-author statistic 'co-author-stat:diego_pizzocaro-dave_braines'
+  has '4' as co-author count.
+
+the co-author statistic 'co-author-stat:dave_braines-christos_parizas'
+  has '1' as co-author count.
+
+the co-author statistic 'co-author-stat:alun_preece-tien_pham'
+  has '1' as co-author count.
+
+the co-author statistic 'co-author-stat:jinny_yan-dave_braines'
+  has '1' as co-author count.
+
+the co-author statistic 'co-author-stat:alun_preece-jinny_yan'
+  has '1' as co-author count.
+
+the co-author statistic 'co-author-stat:hannah_grosso-dave_braines'
+  has '1' as co-author count.
+
+the co-author statistic 'co-author-stat:alun_preece-theodore_hoel'
+  has '1' as co-author count.
+
+the co-author statistic 'co-author-stat:graham_bent-david_vyvyan'
+  has '1' as co-author count.
+
+the co-author statistic 'co-author-stat:david_mott-alun_preece'
+  has '2' as co-author count.
+
+the co-author statistic 'co-author-stat:hannah_grosso-jinny_yan'
+  has '1' as co-author count.
+
+the co-author statistic 'co-author-stat:tien_pham-dave_braines'
+  has '1' as co-author count.
+
+the co-author statistic 'co-author-stat:alun_preece-diego_pizzocaro'
+  has '4' as co-author count.
+
+the co-author statistic 'co-author-stat:dave_braines-alun_preece'
+  has '6' as co-author count.
+
+the co-author statistic 'co-author-stat:hannah_grosso-theodore_hoel'
+  has '1' as co-author count.
+
+the co-author statistic 'co-author-stat:theodore_hoel-dave_braines'
+  has '1' as co-author count.
+
+the co-author statistic 'co-author-stat:jinny_yan-theodore_hoel'
+  has '1' as co-author count.
+
+the co-author statistic 'co-author-stat:david_mott-diego_pizzocaro'
+  has '2' as co-author count.
+
+the co-author statistic 'co-author-stat:david_mott-dave_braines'
+  has '2' as co-author count.
+
+the co-author statistic 'co-author-stat:christos_parizas-diego_pizzocaro'
+  has '1' as co-author count.
+
+the co-author statistic 'co-author-stat:graham_bent-patrick_dantressangle'
+  has '1' as co-author count.
+
+the co-author statistic 'co-author-stat:theodore_hoel-hannah_grosso'
+  has '1' as co-author count.
+
+the co-author statistic 'co-author-stat:geeth_de_mel-dave_braines'
+  has '1' as co-author count.
+
+the co-author statistic 'co-author-stat:patrick_dantressangle-graham_bent'
+  has '1' as co-author count.
+
+the co-author statistic 'co-author-stat:patrick_dantressangle-david_vyvyan'
+  has '1' as co-author count.
+
+the co-author statistic 'co-author-stat:theodore_hoel-jinny_yan'
+  has '1' as co-author count.
+
+the co-author statistic 'co-author-stat:david_vyvyan-graham_bent'
+  has '1' as co-author count.
+
+the co-author statistic 'co-author-stat:geeth_de_mel-alun_preece'
+  has '1' as co-author count.
+
+the co-author statistic 'co-author-stat:david_vyvyan-patrick_dantressangle'
+  has '1' as co-author count.
+
+the co-author statistic 'co-author-stat:jinny_yan-alun_preece'
+  has '1' as co-author count.
+
+the co-author statistic 'co-author-stat:christos_parizas-alun_preece'
+  has '1' as co-author count.
+
+-------------------------
+-- total:(all properties)
+-------------------------
+
+the total 'total_2009'
+  has '2009' as scope and
+  has '1' as total paper count and
+  has '1' as single institute paper count and
+  has '0' as collaborative paper count and
+  has '0' as international paper count and
+  has '0' as government paper count and
+  has '0' as journal paper count and
+  has '0' as external conference paper count and
+  has '0' as patent count and
+  has '1' as active ITA authors and
+  has '0' as active non-ITA authors and
+  has '0' as total citations.
+
+the total 'total_2012'
+  has '2012' as scope and
+  has '2' as total paper count and
+  has '0' as single institute paper count and
+  has '2' as collaborative paper count and
+  has '0' as international paper count and
+  has '0' as government paper count and
+  has '0' as journal paper count and
+  has '1' as external conference paper count and
+  has '0' as patent count and
+  has '4' as active ITA authors and
+  has '0' as active non-ITA authors and
+  has '12' as total citations.
+
+the total 'total_2013'
+  has '2013' as scope and
+  has '2' as total paper count and
+  has '1' as single institute paper count and
+  has '1' as collaborative paper count and
+  has '0' as international paper count and
+  has '0' as government paper count and
+  has '0' as journal paper count and
+  has '1' as external conference paper count and
+  has '1' as patent count and
+  has '7' as active ITA authors and
+  has '0' as active non-ITA authors and
+  has '1' as total citations.
+
+the total 'total_2014'
+  has '2014' as scope and
+  has '2' as total paper count and
+  has '0' as single institute paper count and
+  has '2' as collaborative paper count and
+  has '1' as international paper count and
+  has '0' as government paper count and
+  has '1' as journal paper count and
+  has '1' as external conference paper count and
+  has '0' as patent count and
+  has '5' as active ITA authors and
+  has '0' as active non-ITA authors and
+  has '14' as total citations.
+
+the total 'total_2015'
+  has '2015' as scope and
+  has '1' as total paper count and
+  has '0' as single institute paper count and
+  has '1' as collaborative paper count and
+  has '1' as international paper count and
+  has '0' as government paper count and
+  has '0' as journal paper count and
+  has '0' as external conference paper count and
+  has '0' as patent count and
+  has '5' as active ITA authors and
+  has '0' as active non-ITA authors and
+  has '0' as total citations.
+
+the total 'total_all'
+  has 'all' as scope and
+  has '8' as total paper count and
+  has '2' as single institute paper count and
+  has '6' as collaborative paper count and
+  has '2' as international paper count and
+  has '0' as government paper count and
+  has '1' as journal paper count and
+  has '3' as external conference paper count and
+  has '1' as patent count and
+  has '22' as active ITA authors and
+  has '0' as active non-ITA authors and
+  has '27' as total citations.

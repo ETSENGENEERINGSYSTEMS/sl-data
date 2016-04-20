@@ -38,13 +38,6 @@ then
   ( the person P is an academic person )
 .
 
-[ 1a-person co-author statistics ]
-if
-  ( the co-author statistic CS has the published person P as co-author )
-then
-  ( the published person P has the co-author statistic CS as co-author statistic )
-.
-
 [ 1b-US person ]
 if
   ( the person P is employed by the US organisation O ) and
@@ -139,6 +132,16 @@ then
   ( the person P2 has the person P1 as co-author )
 .
 
+[ 1e-co-author statistics ]
+if
+  ( the person P1 has the person P2 as co-author )
+then
+  ( there is a co-author statistic named CS_#co-author-stat:_$P1_#-_$P2 that ) and
+  ( the co-author statistic CS has the published person P1 as main-author ) and
+  ( the co-author statistic CS has the published person P1 as co-author ) and
+  ( the co-author statistic CS has the published person P2 as co-author )
+.
+
 [ 1e-person co-author count ]
 if
   ( the person P1 has the person #P2 as co-author )
@@ -153,3 +156,9 @@ then
   ( the person P1 has #P2 as government co-author count )
 .
 
+[ 1f-person co-author statistics ]
+if
+  ( the co-author statistic CS has the published person P as main-author )
+then
+  ( the published person P has the co-author statistic CS as co-author statistic )
+.

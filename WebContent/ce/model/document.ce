@@ -82,6 +82,9 @@ conceptualise an ~ industry-academia document ~ D that is an academic document.
 conceptualise a ~ government document ~ D that is an academic document.
 conceptualise a ~ UK government document ~ D that is a government document.
 conceptualise a ~ US government document ~ D that is a government document.
+conceptualise a ~ collaborative document ~ D that is a document.
+conceptualise a ~ single institute document ~ D that is a document.
+conceptualise an ~ international document ~ D that is a document.
 
 conceptualise a ~ noteworthy document ~ D that
   has the value R as ~ noteworthy reason ~.

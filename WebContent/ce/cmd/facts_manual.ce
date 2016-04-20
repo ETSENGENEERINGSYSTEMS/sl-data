@@ -3,32 +3,32 @@
 -- All Rights Reserved
 -- --------------------------------------------------------------------------
 
-perform load sentences from url '/SL_data/ce/facts/organisations.ce'.
-perform load sentences from url '/SL_data/ce/facts/events.ce'.
-perform load sentences from url '/SL_data/ce/facts/projects.ce'.
-perform load sentences from url '/SL_data/ce/facts/places.ce'.
-perform load sentences from url '/SL_data/ce/facts/countries.ce'.
-perform load sentences from url '/SL_data/ce/facts/dates.ce'.
+perform load sentences from url '/SL_data/ce/facts/manual/organisations.ce'.
+perform load sentences from url '/SL_data/ce/facts/manual/events.ce'.
+perform load sentences from url '/SL_data/ce/facts/manual/projects.ce'.
+perform load sentences from url '/SL_data/ce/facts/manual/places.ce'.
+perform load sentences from url '/SL_data/ce/facts/manual/countries.ce'.
+perform load sentences from url '/SL_data/ce/facts/manual/dates.ce'.
 
-perform load sentences from url '/SL_data/ce/facts/person/alun_preece.ce'.
-perform load sentences from url '/SL_data/ce/facts/person/christos_parizas.ce'.
-perform load sentences from url '/SL_data/ce/facts/person/dave_braines.ce'.
-perform load sentences from url '/SL_data/ce/facts/person/david_mott.ce'.
-perform load sentences from url '/SL_data/ce/facts/person/david_vyvyan.ce'.
-perform load sentences from url '/SL_data/ce/facts/person/diego_pizzocaro.ce'.
-perform load sentences from url '/SL_data/ce/facts/person/geeth_de_mel.ce'.
-perform load sentences from url '/SL_data/ce/facts/person/graham_bent.ce'.
-perform load sentences from url '/SL_data/ce/facts/person/hannah_grosso.ce'.
-perform load sentences from url '/SL_data/ce/facts/person/jinny_yan.ce'.
-perform load sentences from url '/SL_data/ce/facts/person/patrick_dantressangle.ce'.
-perform load sentences from url '/SL_data/ce/facts/person/theodore_hoel.ce'.
-perform load sentences from url '/SL_data/ce/facts/person/tien_pham.ce'.
+perform load sentences from url '/SL_data/ce/facts/manual/person/alun_preece.ce'.
+perform load sentences from url '/SL_data/ce/facts/manual/person/christos_parizas.ce'.
+perform load sentences from url '/SL_data/ce/facts/manual/person/dave_braines.ce'.
+perform load sentences from url '/SL_data/ce/facts/manual/person/david_mott.ce'.
+perform load sentences from url '/SL_data/ce/facts/manual/person/david_vyvyan.ce'.
+perform load sentences from url '/SL_data/ce/facts/manual/person/diego_pizzocaro.ce'.
+perform load sentences from url '/SL_data/ce/facts/manual/person/geeth_de_mel.ce'.
+perform load sentences from url '/SL_data/ce/facts/manual/person/graham_bent.ce'.
+perform load sentences from url '/SL_data/ce/facts/manual/person/hannah_grosso.ce'.
+perform load sentences from url '/SL_data/ce/facts/manual/person/jinny_yan.ce'.
+perform load sentences from url '/SL_data/ce/facts/manual/person/patrick_dantressangle.ce'.
+perform load sentences from url '/SL_data/ce/facts/manual/person/theodore_hoel.ce'.
+perform load sentences from url '/SL_data/ce/facts/manual/person/tien_pham.ce'.
 
-perform load sentences from url '/SL_data/ce/facts/paper/doc-1434.ce'.
-perform load sentences from url '/SL_data/ce/facts/paper/doc-1855a.ce'.
-perform load sentences from url '/SL_data/ce/facts/paper/doc-1855c.ce'.
-perform load sentences from url '/SL_data/ce/facts/paper/doc-2377.ce'.
-perform load sentences from url '/SL_data/ce/facts/paper/doc-2630.ce'.
-perform load sentences from url '/SL_data/ce/facts/paper/doc-2697.ce'.
-perform load sentences from url '/SL_data/ce/facts/paper/doc-2998.ce'.
-perform load sentences from url '/SL_data/ce/facts/paper/doc-x0406.ce'.
+perform load sentences from url '/SL_data/ce/facts/manual/paper/doc-1434.ce'.
+perform load sentences from url '/SL_data/ce/facts/manual/paper/doc-1855a.ce'.
+perform load sentences from url '/SL_data/ce/facts/manual/paper/doc-1855c.ce'.
+perform load sentences from url '/SL_data/ce/facts/manual/paper/doc-2377.ce'.
+perform load sentences from url '/SL_data/ce/facts/manual/paper/doc-2630.ce'.
+perform load sentences from url '/SL_data/ce/facts/manual/paper/doc-2697.ce'.
+perform load sentences from url '/SL_data/ce/facts/manual/paper/doc-2998.ce'.
+perform load sentences from url '/SL_data/ce/facts/manual/paper/doc-x0406.ce'.
