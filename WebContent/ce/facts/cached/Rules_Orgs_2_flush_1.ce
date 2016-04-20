@@ -36,12 +36,6 @@ because
   the organisation 'Cardiff University' employs the person 'christos_parizas' and
   the person 'christos_parizas' wrote the academic document 'doc-2377'
 [ 2a-organisation wrote document ].
-the organisation 'Cardiff University'
-  wrote the academic document 'doc-2630'
-because
-  the organisation 'Cardiff University' employs the person 'christos_parizas' and
-  the person 'christos_parizas' wrote the academic document 'doc-2630'
-[ 2a-organisation wrote document ].
 the organisation 'West point'
   wrote the academic document 'doc-2998'
 because

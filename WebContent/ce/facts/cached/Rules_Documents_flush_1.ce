@@ -30,9 +30,8 @@ because
   the person 'alun_preece' wrote the academic document 'doc-2377'
 [ 1c-document author count ].
 the academic document 'doc-2630'
-  has the value '4' as number of authors
+  has the value '3' as number of authors
 because
-  the person 'christos_parizas' wrote the academic document 'doc-2630' and
   the person 'diego_pizzocaro' wrote the academic document 'doc-2630' and
   the person 'dave_braines' wrote the academic document 'doc-2630' and
   the person 'alun_preece' wrote the academic document 'doc-2630'
@@ -90,11 +89,6 @@ the external document 'doc-2377' is a industry-academia document
 because
   the academic person 'christos_parizas' wrote the external document 'doc-2377' and
   the industry person 'dave_braines' wrote the external document 'doc-2377'
-[ 1b-industry-academia document ].
-the external document 'doc-2630' is a industry-academia document
-because
-  the academic person 'christos_parizas' wrote the external document 'doc-2630' and
-  the industry person 'dave_braines' wrote the external document 'doc-2630'
 [ 1b-industry-academia document ].
 the external document 'doc-1855a' is a industry-academia document
 because

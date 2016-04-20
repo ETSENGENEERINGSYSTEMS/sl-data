@@ -403,3 +403,367 @@ because
   the person 'theodore_hoel' has the government person 'jinny_yan' as co-author and
   the person 'theodore_hoel' has the government person 'hannah_grosso' as co-author
 [ 1e-person government co-author count ].
+there is a co-author statistic named 'co-author-stat:dave_braines-jinny_yan' that
+  has the published person 'dave_braines' as main-author and
+  has the published person 'dave_braines' as co-author and
+  has the published person 'jinny_yan' as co-author
+because
+  the person 'dave_braines' has the person 'jinny_yan' as co-author
+[ 1e-co-author statistics ].
+there is a co-author statistic named 'co-author-stat:jinny_yan-dave_braines' that
+  has the published person 'jinny_yan' as main-author and
+  has the published person 'jinny_yan' as co-author and
+  has the published person 'dave_braines' as co-author
+because
+  the person 'jinny_yan' has the person 'dave_braines' as co-author
+[ 1e-co-author statistics ].
+there is a co-author statistic named 'co-author-stat:alun_preece-tien_pham' that
+  has the published person 'alun_preece' as main-author and
+  has the published person 'alun_preece' as co-author and
+  has the published person 'tien_pham' as co-author
+because
+  the person 'alun_preece' has the person 'tien_pham' as co-author
+[ 1e-co-author statistics ].
+there is a co-author statistic named 'co-author-stat:jinny_yan-theodore_hoel' that
+  has the published person 'jinny_yan' as main-author and
+  has the published person 'jinny_yan' as co-author and
+  has the published person 'theodore_hoel' as co-author
+because
+  the person 'jinny_yan' has the person 'theodore_hoel' as co-author
+[ 1e-co-author statistics ].
+there is a co-author statistic named 'co-author-stat:theodore_hoel-jinny_yan' that
+  has the published person 'theodore_hoel' as main-author and
+  has the published person 'theodore_hoel' as co-author and
+  has the published person 'jinny_yan' as co-author
+because
+  the person 'theodore_hoel' has the person 'jinny_yan' as co-author
+[ 1e-co-author statistics ].
+there is a co-author statistic named 'co-author-stat:tien_pham-alun_preece' that
+  has the published person 'tien_pham' as main-author and
+  has the published person 'tien_pham' as co-author and
+  has the published person 'alun_preece' as co-author
+because
+  the person 'tien_pham' has the person 'alun_preece' as co-author
+[ 1e-co-author statistics ].
+there is a co-author statistic named 'co-author-stat:alun_preece-diego_pizzocaro' that
+  has the published person 'alun_preece' as main-author and
+  has the published person 'alun_preece' as co-author and
+  has the published person 'diego_pizzocaro' as co-author
+because
+  the person 'alun_preece' has the person 'diego_pizzocaro' as co-author
+[ 1e-co-author statistics ].
+there is a co-author statistic named 'co-author-stat:david_vyvyan-patrick_dantressangle' that
+  has the published person 'david_vyvyan' as main-author and
+  has the published person 'david_vyvyan' as co-author and
+  has the published person 'patrick_dantressangle' as co-author
+because
+  the person 'david_vyvyan' has the person 'patrick_dantressangle' as co-author
+[ 1e-co-author statistics ].
+there is a co-author statistic named 'co-author-stat:diego_pizzocaro-alun_preece' that
+  has the published person 'diego_pizzocaro' as main-author and
+  has the published person 'diego_pizzocaro' as co-author and
+  has the published person 'alun_preece' as co-author
+because
+  the person 'diego_pizzocaro' has the person 'alun_preece' as co-author
+[ 1e-co-author statistics ].
+there is a co-author statistic named 'co-author-stat:alun_preece-christos_parizas' that
+  has the published person 'alun_preece' as main-author and
+  has the published person 'alun_preece' as co-author and
+  has the published person 'christos_parizas' as co-author
+because
+  the person 'alun_preece' has the person 'christos_parizas' as co-author
+[ 1e-co-author statistics ].
+there is a co-author statistic named 'co-author-stat:dave_braines-david_mott' that
+  has the published person 'dave_braines' as main-author and
+  has the published person 'dave_braines' as co-author and
+  has the published person 'david_mott' as co-author
+because
+  the person 'dave_braines' has the person 'david_mott' as co-author
+[ 1e-co-author statistics ].
+there is a co-author statistic named 'co-author-stat:david_mott-dave_braines' that
+  has the published person 'david_mott' as main-author and
+  has the published person 'david_mott' as co-author and
+  has the published person 'dave_braines' as co-author
+because
+  the person 'david_mott' has the person 'dave_braines' as co-author
+[ 1e-co-author statistics ].
+there is a co-author statistic named 'co-author-stat:christos_parizas-alun_preece' that
+  has the published person 'christos_parizas' as main-author and
+  has the published person 'christos_parizas' as co-author and
+  has the published person 'alun_preece' as co-author
+because
+  the person 'christos_parizas' has the person 'alun_preece' as co-author
+[ 1e-co-author statistics ].
+there is a co-author statistic named 'co-author-stat:geeth_de_mel-tien_pham' that
+  has the published person 'geeth_de_mel' as main-author and
+  has the published person 'geeth_de_mel' as co-author and
+  has the published person 'tien_pham' as co-author
+because
+  the person 'geeth_de_mel' has the person 'tien_pham' as co-author
+[ 1e-co-author statistics ].
+there is a co-author statistic named 'co-author-stat:geeth_de_mel-alun_preece' that
+  has the published person 'geeth_de_mel' as main-author and
+  has the published person 'geeth_de_mel' as co-author and
+  has the published person 'alun_preece' as co-author
+because
+  the person 'geeth_de_mel' has the person 'alun_preece' as co-author
+[ 1e-co-author statistics ].
+there is a co-author statistic named 'co-author-stat:alun_preece-geeth_de_mel' that
+  has the published person 'alun_preece' as main-author and
+  has the published person 'alun_preece' as co-author and
+  has the published person 'geeth_de_mel' as co-author
+because
+  the person 'alun_preece' has the person 'geeth_de_mel' as co-author
+[ 1e-co-author statistics ].
+there is a co-author statistic named 'co-author-stat:alun_preece-hannah_grosso' that
+  has the published person 'alun_preece' as main-author and
+  has the published person 'alun_preece' as co-author and
+  has the published person 'hannah_grosso' as co-author
+because
+  the person 'alun_preece' has the person 'hannah_grosso' as co-author
+[ 1e-co-author statistics ].
+there is a co-author statistic named 'co-author-stat:hannah_grosso-dave_braines' that
+  has the published person 'hannah_grosso' as main-author and
+  has the published person 'hannah_grosso' as co-author and
+  has the published person 'dave_braines' as co-author
+because
+  the person 'hannah_grosso' has the person 'dave_braines' as co-author
+[ 1e-co-author statistics ].
+there is a co-author statistic named 'co-author-stat:dave_braines-hannah_grosso' that
+  has the published person 'dave_braines' as main-author and
+  has the published person 'dave_braines' as co-author and
+  has the published person 'hannah_grosso' as co-author
+because
+  the person 'dave_braines' has the person 'hannah_grosso' as co-author
+[ 1e-co-author statistics ].
+there is a co-author statistic named 'co-author-stat:alun_preece-theodore_hoel' that
+  has the published person 'alun_preece' as main-author and
+  has the published person 'alun_preece' as co-author and
+  has the published person 'theodore_hoel' as co-author
+because
+  the person 'alun_preece' has the person 'theodore_hoel' as co-author
+[ 1e-co-author statistics ].
+there is a co-author statistic named 'co-author-stat:hannah_grosso-alun_preece' that
+  has the published person 'hannah_grosso' as main-author and
+  has the published person 'hannah_grosso' as co-author and
+  has the published person 'alun_preece' as co-author
+because
+  the person 'hannah_grosso' has the person 'alun_preece' as co-author
+[ 1e-co-author statistics ].
+there is a co-author statistic named 'co-author-stat:hannah_grosso-jinny_yan' that
+  has the published person 'hannah_grosso' as main-author and
+  has the published person 'hannah_grosso' as co-author and
+  has the published person 'jinny_yan' as co-author
+because
+  the person 'hannah_grosso' has the person 'jinny_yan' as co-author
+[ 1e-co-author statistics ].
+there is a co-author statistic named 'co-author-stat:patrick_dantressangle-david_vyvyan' that
+  has the published person 'patrick_dantressangle' as main-author and
+  has the published person 'patrick_dantressangle' as co-author and
+  has the published person 'david_vyvyan' as co-author
+because
+  the person 'patrick_dantressangle' has the person 'david_vyvyan' as co-author
+[ 1e-co-author statistics ].
+there is a co-author statistic named 'co-author-stat:jinny_yan-hannah_grosso' that
+  has the published person 'jinny_yan' as main-author and
+  has the published person 'jinny_yan' as co-author and
+  has the published person 'hannah_grosso' as co-author
+because
+  the person 'jinny_yan' has the person 'hannah_grosso' as co-author
+[ 1e-co-author statistics ].
+there is a co-author statistic named 'co-author-stat:dave_braines-christos_parizas' that
+  has the published person 'dave_braines' as main-author and
+  has the published person 'dave_braines' as co-author and
+  has the published person 'christos_parizas' as co-author
+because
+  the person 'dave_braines' has the person 'christos_parizas' as co-author
+[ 1e-co-author statistics ].
+there is a co-author statistic named 'co-author-stat:dave_braines-tien_pham' that
+  has the published person 'dave_braines' as main-author and
+  has the published person 'dave_braines' as co-author and
+  has the published person 'tien_pham' as co-author
+because
+  the person 'dave_braines' has the person 'tien_pham' as co-author
+[ 1e-co-author statistics ].
+there is a co-author statistic named 'co-author-stat:tien_pham-dave_braines' that
+  has the published person 'tien_pham' as main-author and
+  has the published person 'tien_pham' as co-author and
+  has the published person 'dave_braines' as co-author
+because
+  the person 'tien_pham' has the person 'dave_braines' as co-author
+[ 1e-co-author statistics ].
+there is a co-author statistic named 'co-author-stat:christos_parizas-dave_braines' that
+  has the published person 'christos_parizas' as main-author and
+  has the published person 'christos_parizas' as co-author and
+  has the published person 'dave_braines' as co-author
+because
+  the person 'christos_parizas' has the person 'dave_braines' as co-author
+[ 1e-co-author statistics ].
+there is a co-author statistic named 'co-author-stat:theodore_hoel-alun_preece' that
+  has the published person 'theodore_hoel' as main-author and
+  has the published person 'theodore_hoel' as co-author and
+  has the published person 'alun_preece' as co-author
+because
+  the person 'theodore_hoel' has the person 'alun_preece' as co-author
+[ 1e-co-author statistics ].
+there is a co-author statistic named 'co-author-stat:diego_pizzocaro-david_mott' that
+  has the published person 'diego_pizzocaro' as main-author and
+  has the published person 'diego_pizzocaro' as co-author and
+  has the published person 'david_mott' as co-author
+because
+  the person 'diego_pizzocaro' has the person 'david_mott' as co-author
+[ 1e-co-author statistics ].
+there is a co-author statistic named 'co-author-stat:dave_braines-diego_pizzocaro' that
+  has the published person 'dave_braines' as main-author and
+  has the published person 'dave_braines' as co-author and
+  has the published person 'diego_pizzocaro' as co-author
+because
+  the person 'dave_braines' has the person 'diego_pizzocaro' as co-author
+[ 1e-co-author statistics ].
+there is a co-author statistic named 'co-author-stat:diego_pizzocaro-dave_braines' that
+  has the published person 'diego_pizzocaro' as main-author and
+  has the published person 'diego_pizzocaro' as co-author and
+  has the published person 'dave_braines' as co-author
+because
+  the person 'diego_pizzocaro' has the person 'dave_braines' as co-author
+[ 1e-co-author statistics ].
+there is a co-author statistic named 'co-author-stat:jinny_yan-alun_preece' that
+  has the published person 'jinny_yan' as main-author and
+  has the published person 'jinny_yan' as co-author and
+  has the published person 'alun_preece' as co-author
+because
+  the person 'jinny_yan' has the person 'alun_preece' as co-author
+[ 1e-co-author statistics ].
+there is a co-author statistic named 'co-author-stat:geeth_de_mel-dave_braines' that
+  has the published person 'geeth_de_mel' as main-author and
+  has the published person 'geeth_de_mel' as co-author and
+  has the published person 'dave_braines' as co-author
+because
+  the person 'geeth_de_mel' has the person 'dave_braines' as co-author
+[ 1e-co-author statistics ].
+there is a co-author statistic named 'co-author-stat:dave_braines-geeth_de_mel' that
+  has the published person 'dave_braines' as main-author and
+  has the published person 'dave_braines' as co-author and
+  has the published person 'geeth_de_mel' as co-author
+because
+  the person 'dave_braines' has the person 'geeth_de_mel' as co-author
+[ 1e-co-author statistics ].
+there is a co-author statistic named 'co-author-stat:david_mott-diego_pizzocaro' that
+  has the published person 'david_mott' as main-author and
+  has the published person 'david_mott' as co-author and
+  has the published person 'diego_pizzocaro' as co-author
+because
+  the person 'david_mott' has the person 'diego_pizzocaro' as co-author
+[ 1e-co-author statistics ].
+there is a co-author statistic named 'co-author-stat:theodore_hoel-hannah_grosso' that
+  has the published person 'theodore_hoel' as main-author and
+  has the published person 'theodore_hoel' as co-author and
+  has the published person 'hannah_grosso' as co-author
+because
+  the person 'theodore_hoel' has the person 'hannah_grosso' as co-author
+[ 1e-co-author statistics ].
+there is a co-author statistic named 'co-author-stat:christos_parizas-diego_pizzocaro' that
+  has the published person 'christos_parizas' as main-author and
+  has the published person 'christos_parizas' as co-author and
+  has the published person 'diego_pizzocaro' as co-author
+because
+  the person 'christos_parizas' has the person 'diego_pizzocaro' as co-author
+[ 1e-co-author statistics ].
+there is a co-author statistic named 'co-author-stat:diego_pizzocaro-christos_parizas' that
+  has the published person 'diego_pizzocaro' as main-author and
+  has the published person 'diego_pizzocaro' as co-author and
+  has the published person 'christos_parizas' as co-author
+because
+  the person 'diego_pizzocaro' has the person 'christos_parizas' as co-author
+[ 1e-co-author statistics ].
+there is a co-author statistic named 'co-author-stat:david_vyvyan-graham_bent' that
+  has the published person 'david_vyvyan' as main-author and
+  has the published person 'david_vyvyan' as co-author and
+  has the published person 'graham_bent' as co-author
+because
+  the person 'david_vyvyan' has the person 'graham_bent' as co-author
+[ 1e-co-author statistics ].
+there is a co-author statistic named 'co-author-stat:graham_bent-david_vyvyan' that
+  has the published person 'graham_bent' as main-author and
+  has the published person 'graham_bent' as co-author and
+  has the published person 'david_vyvyan' as co-author
+because
+  the person 'graham_bent' has the person 'david_vyvyan' as co-author
+[ 1e-co-author statistics ].
+there is a co-author statistic named 'co-author-stat:hannah_grosso-theodore_hoel' that
+  has the published person 'hannah_grosso' as main-author and
+  has the published person 'hannah_grosso' as co-author and
+  has the published person 'theodore_hoel' as co-author
+because
+  the person 'hannah_grosso' has the person 'theodore_hoel' as co-author
+[ 1e-co-author statistics ].
+there is a co-author statistic named 'co-author-stat:alun_preece-dave_braines' that
+  has the published person 'alun_preece' as main-author and
+  has the published person 'alun_preece' as co-author and
+  has the published person 'dave_braines' as co-author
+because
+  the person 'alun_preece' has the person 'dave_braines' as co-author
+[ 1e-co-author statistics ].
+there is a co-author statistic named 'co-author-stat:dave_braines-theodore_hoel' that
+  has the published person 'dave_braines' as main-author and
+  has the published person 'dave_braines' as co-author and
+  has the published person 'theodore_hoel' as co-author
+because
+  the person 'dave_braines' has the person 'theodore_hoel' as co-author
+[ 1e-co-author statistics ].
+there is a co-author statistic named 'co-author-stat:theodore_hoel-dave_braines' that
+  has the published person 'theodore_hoel' as main-author and
+  has the published person 'theodore_hoel' as co-author and
+  has the published person 'dave_braines' as co-author
+because
+  the person 'theodore_hoel' has the person 'dave_braines' as co-author
+[ 1e-co-author statistics ].
+there is a co-author statistic named 'co-author-stat:tien_pham-geeth_de_mel' that
+  has the published person 'tien_pham' as main-author and
+  has the published person 'tien_pham' as co-author and
+  has the published person 'geeth_de_mel' as co-author
+because
+  the person 'tien_pham' has the person 'geeth_de_mel' as co-author
+[ 1e-co-author statistics ].
+there is a co-author statistic named 'co-author-stat:david_mott-alun_preece' that
+  has the published person 'david_mott' as main-author and
+  has the published person 'david_mott' as co-author and
+  has the published person 'alun_preece' as co-author
+because
+  the person 'david_mott' has the person 'alun_preece' as co-author
+[ 1e-co-author statistics ].
+there is a co-author statistic named 'co-author-stat:alun_preece-david_mott' that
+  has the published person 'alun_preece' as main-author and
+  has the published person 'alun_preece' as co-author and
+  has the published person 'david_mott' as co-author
+because
+  the person 'alun_preece' has the person 'david_mott' as co-author
+[ 1e-co-author statistics ].
+there is a co-author statistic named 'co-author-stat:dave_braines-alun_preece' that
+  has the published person 'dave_braines' as main-author and
+  has the published person 'dave_braines' as co-author and
+  has the published person 'alun_preece' as co-author
+because
+  the person 'dave_braines' has the person 'alun_preece' as co-author
+[ 1e-co-author statistics ].
+there is a co-author statistic named 'co-author-stat:graham_bent-patrick_dantressangle' that
+  has the published person 'graham_bent' as main-author and
+  has the published person 'graham_bent' as co-author and
+  has the published person 'patrick_dantressangle' as co-author
+because
+  the person 'graham_bent' has the person 'patrick_dantressangle' as co-author
+[ 1e-co-author statistics ].
+there is a co-author statistic named 'co-author-stat:alun_preece-jinny_yan' that
+  has the published person 'alun_preece' as main-author and
+  has the published person 'alun_preece' as co-author and
+  has the published person 'jinny_yan' as co-author
+because
+  the person 'alun_preece' has the person 'jinny_yan' as co-author
+[ 1e-co-author statistics ].
+there is a co-author statistic named 'co-author-stat:patrick_dantressangle-graham_bent' that
+  has the published person 'patrick_dantressangle' as main-author and
+  has the published person 'patrick_dantressangle' as co-author and
+  has the published person 'graham_bent' as co-author
+because
+  the person 'patrick_dantressangle' has the person 'graham_bent' as co-author
+[ 1e-co-author statistics ].

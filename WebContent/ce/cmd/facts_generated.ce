@@ -20,4 +20,3 @@ perform load sentences from url '/SL_data/ce/facts/generated/technical_areas.ce'
 perform load sentences from url '/SL_data/ce/facts/generated/dates.ce'.
 perform load sentences from url '/SL_data/ce/facts/generated/countries.ce'.
 perform load sentences from url '/SL_data/ce/facts/generated/messages.ce'.
-perform load sentences from url '/SL_data/ce/facts/generated/computed_all.ce'.
