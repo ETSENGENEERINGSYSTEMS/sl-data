@@ -3,24 +3,6 @@
 -- All Rights Reserved
 -- --------------------------------------------------------------------------
 
-[ compute ce query ]
-for which AD, CC, OA, P, C and O is it true that
-  ( the academic document AD has the ordered author OA as author ) and
-  ( the ordered author OA has the published person P as author person ) and
-  ( the co-author statistic C has the published person P as main-author ) and
-  ( the academic document AD has the paper citation count CC as citation count ) and
-  ( the published person P is employed by the organisation O )
-.
-
-[ compute ce query 2 ]
-for which AD, CC, OA, P and O is it true that
-  ( the academic document AD has the ordered author OA as author ) and
-  ( the ordered author OA has the published person P as author person ) and
-  ( the academic document AD has the paper citation count CC as citation count ) and
-  ( the published person P is employed by the organisation O )
-.
-Note: This version is used when there is only one author, and therefor no co-author statistics
-
 [ papers by citation ]
 for which AD, CC and T is it true that 
     ( the academic document AD has the paper citation count PC as citation count and has the value T as title ) and
