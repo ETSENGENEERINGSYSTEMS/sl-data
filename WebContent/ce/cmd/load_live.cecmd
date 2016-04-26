@@ -14,12 +14,10 @@ perform load sentences from url '/SL_data/ce/model/project.ce'.
 perform load sentences from url '/SL_data/ce/model/location.ce'.
 perform load sentences from url '/SL_data/ce/model/event.ce'.
 perform load sentences from url '/SL_data/ce/model/date.ce'.
-perform load sentences from url '/SL_data/ce/model/url.ce'.
 perform load sentences from url '/SL_data/ce/model/citation.ce'.
 perform load sentences from url '/SL_data/ce/model/topic.ce'.
 perform load sentences from url '/SL_data/ce/model/misc.ce'.
 perform load sentences from url '/SL_data/ce/model/queries.ce'.
-perform load sentences from url '/SL_data/ce/model/queries_for_export.ce'.
 
 perform load sentences from url '/SL_data/ce/model/rules/date.ce'.
 perform load sentences from url '/SL_data/ce/model/rules/document.ce'.
@@ -32,7 +30,6 @@ perform load sentences from url '/SL_data/ce/model/rules/project.ce'.
 perform load sentences from url '/SL_data/ce/agents/agents.ce'.
 
 -- Load the facts
---perform load sentences from url '/SL_data/ce/cmd/facts_manual.ce'.
 perform load sentences from url '/SL_data/ce/cmd/facts_generated.ce'.
 
 -- Run the rules

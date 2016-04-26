@@ -14,7 +14,6 @@ conceptualise a ~ person ~ P that
   has the value FUN as ~ full name ~ and
   has the person CA as ~ co-author ~ and
   ~ is employed by ~ the organisation OR and
-  has the person P2 as ~ co-author ~ and
   has the value V1 as ~ total publication count ~ and
   has the value V2 as ~ co-author count ~ and
   has the value V3 as ~ government co-author count ~ and
@@ -28,7 +27,6 @@ conceptualise a ~ person ~ P that
   has the value V12 as ~ other document count ~ and
   ~ wrote ~ the academic document D and
   has the value PP as ~ profile picture ~ and
-  has the value C as ~ comment ~ and
   has the co-author statistic C as ~ co-author statistic ~ and
   has the person citation count C as ~ citation count ~ and
   has the value ICC as ~ ita citation count ~ and
@@ -45,15 +43,8 @@ conceptualise an ~ ITA person ~ P that is a person.
 conceptualise a ~ published person ~ P that
   is a person.
 
--- Authors have an order on papers that is important (e.g. the first author is
--- usually the principal author), so capture the order via the 'author index'
--- integer. The 'original author string' property is set if the author was
--- generated from an external source (e.g. spreadsheet data), this is useful to
--- verify correctness. 
-
 conceptualise an ~ ordered author ~ A that
   has the value AI as ~ author index ~ and
-  has the value AS as ~ original author string ~ and
   has the person AP as ~ author person ~.
 
 conceptualise a ~ student ~ S that is a person.

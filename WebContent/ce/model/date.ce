@@ -3,25 +3,9 @@
 -- All Rights Reserved
 -- --------------------------------------------------------------------------
 
--- The 'original date string' property is set if the date was generated from an
--- external source (e.g. spreadsheet data), this is useful to verify
--- correctness.
-
 conceptualise a ~ date ~ D that
   has the value YE as ~ year ~ and
   has the value MO as ~ month ~ and
-  has the value DA as ~ day ~ and
-  has the value OS as ~ original date string ~.
-
--- For dates that were derived from some external source (e.g. a spreadsheet) 
--- rather than manually entered, it may be unclear if a date is in 
--- day/month/year or  month/day/year format, in which case this concept type is
--- used with the 'day or month' property set twice (and typically with the
--- inherited 'day' and 'month' properties set to zero). These dates then need to
--- be cleaned-up manually.
-
-conceptualise a ~ broken date ~ D that
-  is a date and
-  has the value DM as ~ day or month ~.
+  has the value DA as ~ day ~.
 
 conceptualise a ~ year ~ Y.
