@@ -3,9 +3,6 @@
 -- All Rights Reserved
 -- --------------------------------------------------------------------------
 
--- Paper instances have 'ITA project' properties to note the 
--- project/technical area/project plan under which each was produced.
-
 conceptualise an ~ ITA project plan ~ I that
   has the value CN as ~ code name ~ and
   ~ ran during ~ the year Y.

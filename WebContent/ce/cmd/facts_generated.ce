@@ -5,6 +5,7 @@
 
 perform load sentences from url '/SL_data/ce/facts/generated/event_series.ce'.
 perform load sentences from url '/SL_data/ce/facts/generated/events.ce'.
+perform load sentences from url '/SL_data/ce/facts/generated/linguistics.ce'.
 perform load sentences from url '/SL_data/ce/facts/generated/organisations.ce'.
 perform load sentences from url '/SL_data/ce/facts/generated/paper_abstracts.ce'.
 perform load sentences from url '/SL_data/ce/facts/generated/paper_authors.ce'.
@@ -12,6 +13,7 @@ perform load sentences from url '/SL_data/ce/facts/generated/paper_citations.ce'
 perform load sentences from url '/SL_data/ce/facts/generated/paper_noteworthy.ce'.
 perform load sentences from url '/SL_data/ce/facts/generated/papers.ce'.
 perform load sentences from url '/SL_data/ce/facts/generated/people_citations.ce'.
+perform load sentences from url '/SL_data/ce/facts/generated/people_noteworthy.ce'.
 perform load sentences from url '/SL_data/ce/facts/generated/people.ce'.
 perform load sentences from url '/SL_data/ce/facts/generated/places.ce'.
 perform load sentences from url '/SL_data/ce/facts/generated/project_plans.ce'.
