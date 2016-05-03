@@ -1,4 +1,4 @@
--- ---------------------------------------------------------------------------- (C) Copyright IBM Corporation 2016-- All Rights Reserved-- ---------------------------------------------------------------------------- This CE has been generated from SL_generator v1.13.xlsm
+-- ---------------------------------------------------------------------------- (C) Copyright IBM Corporation 2016-- All Rights Reserved-- ---------------------------------------------------------------------------- This CE has been generated from SL_generator v1.14.xlsm
 there is an academic document named 'doc-1007' that
   has the paper citation count 'citation:doc-1007-01' as citation count.
 
@@ -8494,11 +8494,23 @@ there is a paper citation count named 'citation:doc-1002-01' that
 there is an academic document named 'doc-1009' that
   has the paper citation count 'citation:doc-1009-01' as citation count.
 
+there is a paper citation count named 'citation:doc-1009-01' that
+  has '0' as citation count and
+  has '25/09/2015' as date checked.
+
 there is an academic document named 'doc-1010' that
   has the paper citation count 'citation:doc-1010-01' as citation count.
 
+there is a paper citation count named 'citation:doc-1010-01' that
+  has '0' as citation count and
+  has '25/09/2015' as date checked.
+
 there is an academic document named 'doc-1012a' that
   has the paper citation count 'citation:doc-1012a-01' as citation count.
+
+there is a paper citation count named 'citation:doc-1012a-01' that
+  has '0' as citation count and
+  has '25/09/2015' as date checked.
 
 there is an academic document named 'doc-1013' that
   has the paper citation count 'citation:doc-1013-01' as citation count.
@@ -8565,6 +8577,10 @@ there is a paper citation count named 'citation:doc-1020-01' that
 there is an academic document named 'doc-1021' that
   has the paper citation count 'citation:doc-1021-01' as citation count.
 
+there is a paper citation count named 'citation:doc-1021-01' that
+  has '0' as citation count and
+  has '25/09/2015' as date checked.
+
 there is an academic document named 'doc-1023' that
   has the paper citation count 'citation:doc-1023-01' as citation count.
 
@@ -8591,6 +8607,10 @@ there is a paper citation count named 'citation:doc-1028-01' that
 
 there is an academic document named 'doc-1029a' that
   has the paper citation count 'citation:doc-1029a-01' as citation count.
+
+there is a paper citation count named 'citation:doc-1029a-01' that
+  has '0' as citation count and
+  has '25/09/2015' as date checked.
 
 there is an academic document named 'doc-1030' that
   has the paper citation count 'citation:doc-1030-01' as citation count.
@@ -8635,8 +8655,16 @@ there is a paper citation count named 'citation:doc-1035-01' that
 there is an academic document named 'doc-1040' that
   has the paper citation count 'citation:doc-1040-01' as citation count.
 
+there is a paper citation count named 'citation:doc-1040-01' that
+  has '0' as citation count and
+  has '25/09/2015' as date checked.
+
 there is an academic document named 'doc-1042a' that
   has the paper citation count 'citation:doc-1042a-01' as citation count.
+
+there is a paper citation count named 'citation:doc-1042a-01' that
+  has '0' as citation count and
+  has '25/09/2015' as date checked.
 
 there is an academic document named 'doc-1043a' that
   has the paper citation count 'citation:doc-1043a-01' as citation count.
@@ -8656,6 +8684,10 @@ there is a paper citation count named 'citation:doc-1044a-01' that
 
 there is an academic document named 'doc-1045a' that
   has the paper citation count 'citation:doc-1045a-01' as citation count.
+
+there is a paper citation count named 'citation:doc-1045a-01' that
+  has '0' as citation count and
+  has '25/09/2015' as date checked.
 
 there is an academic document named 'doc-1046a' that
   has the paper citation count 'citation:doc-1046a-01' as citation count.
@@ -8748,11 +8780,23 @@ there is a paper citation count named 'citation:doc-1280-01' that
 there is an academic document named 'doc-1361c' that
   has the paper citation count 'citation:doc-1361c-01' as citation count.
 
+there is a paper citation count named 'citation:doc-1361c-01' that
+  has '0' as citation count and
+  has '25/09/2015' as date checked.
+
 there is an academic document named 'doc-1384c' that
   has the paper citation count 'citation:doc-1384c-01' as citation count.
 
+there is a paper citation count named 'citation:doc-1384c-01' that
+  has '0' as citation count and
+  has '25/09/2015' as date checked.
+
 there is an academic document named 'doc-1408' that
   has the paper citation count 'citation:doc-1408-01' as citation count.
+
+there is a paper citation count named 'citation:doc-1408-01' that
+  has '0' as citation count and
+  has '25/09/2015' as date checked.
 
 there is an academic document named 'doc-1417b' that
   has the paper citation count 'citation:doc-1417b-01' as citation count.
@@ -8804,6 +8848,10 @@ there is a paper citation count named 'citation:doc-1449-01' that
 
 there is an academic document named 'doc-1451' that
   has the paper citation count 'citation:doc-1451-01' as citation count.
+
+there is a paper citation count named 'citation:doc-1451-01' that
+  has '0' as citation count and
+  has '25/09/2015' as date checked.
 
 there is an academic document named 'doc-1453' that
   has the paper citation count 'citation:doc-1453-01' as citation count.
@@ -8888,6 +8936,10 @@ there is a paper citation count named 'citation:doc-1463a-01' that
 there is an academic document named 'doc-1466' that
   has the paper citation count 'citation:doc-1466-01' as citation count.
 
+there is a paper citation count named 'citation:doc-1466-01' that
+  has '0' as citation count and
+  has '25/09/2015' as date checked.
+
 there is an academic document named 'doc-1468a' that
   has the paper citation count 'citation:doc-1468a-01' as citation count.
 
@@ -8906,6 +8958,10 @@ there is a paper citation count named 'citation:doc-1470a-01' that
 
 there is an academic document named 'doc-1471' that
   has the paper citation count 'citation:doc-1471-01' as citation count.
+
+there is a paper citation count named 'citation:doc-1471-01' that
+  has '0' as citation count and
+  has '25/09/2015' as date checked.
 
 there is an academic document named 'doc-1472' that
   has the paper citation count 'citation:doc-1472-01' as citation count.
@@ -8958,8 +9014,16 @@ there is a paper citation count named 'citation:doc-1480-01' that
 there is an academic document named 'doc-1481a' that
   has the paper citation count 'citation:doc-1481a-01' as citation count.
 
+there is a paper citation count named 'citation:doc-1481a-01' that
+  has '0' as citation count and
+  has '25/09/2015' as date checked.
+
 there is an academic document named 'doc-1483' that
   has the paper citation count 'citation:doc-1483-01' as citation count.
+
+there is a paper citation count named 'citation:doc-1483-01' that
+  has '0' as citation count and
+  has '25/09/2015' as date checked.
 
 there is an academic document named 'doc-1484a' that
   has the paper citation count 'citation:doc-1484a-01' as citation count.
@@ -8971,6 +9035,10 @@ there is a paper citation count named 'citation:doc-1484a-01' that
 
 there is an academic document named 'doc-1485a' that
   has the paper citation count 'citation:doc-1485a-01' as citation count.
+
+there is a paper citation count named 'citation:doc-1485a-01' that
+  has '0' as citation count and
+  has '25/09/2015' as date checked.
 
 there is an academic document named 'doc-1489b' that
   has the paper citation count 'citation:doc-1489b-01' as citation count.
@@ -9087,15 +9155,23 @@ there is a paper citation count named 'citation:doc-1505a-01' that
 there is an academic document named 'doc-1506a' that
   has the paper citation count 'citation:doc-1506a-01' as citation count.
 
+there is a paper citation count named 'citation:doc-1506a-01' that
+  has '0' as citation count and
+  has '25/09/2015' as date checked.
+
 there is an academic document named 'doc-1517' that
   has the paper citation count 'citation:doc-1517-01' as citation count.
+
+there is a paper citation count named 'citation:doc-1517-01' that
+  has '0' as citation count and
+  has '25/09/2015' as date checked.
 
 there is an academic document named 'doc-1522' that
   has the paper citation count 'citation:doc-1522-01' as citation count.
 
 there is a paper citation count named 'citation:doc-1522-01' that
   has '0' as citation count and
-  has '19/01/2016' as date checked.
+  has '25/09/2015' as date checked.
 
 there is an academic document named 'doc-1523a' that
   has the paper citation count 'citation:doc-1523a-01' as citation count.
@@ -9163,8 +9239,16 @@ there is a paper citation count named 'citation:doc-1540-01' that
 there is an academic document named 'doc-1541a' that
   has the paper citation count 'citation:doc-1541a-01' as citation count.
 
+there is a paper citation count named 'citation:doc-1541a-01' that
+  has '0' as citation count and
+  has '25/09/2015' as date checked.
+
 there is an academic document named 'doc-1542' that
   has the paper citation count 'citation:doc-1542-01' as citation count.
+
+there is a paper citation count named 'citation:doc-1542-01' that
+  has '0' as citation count and
+  has '25/09/2015' as date checked.
 
 there is an academic document named 'doc-1543' that
   has the paper citation count 'citation:doc-1543-01' as citation count.
@@ -9225,6 +9309,10 @@ there is a paper citation count named 'citation:doc-1551-01' that
 there is an academic document named 'doc-1554a' that
   has the paper citation count 'citation:doc-1554a-01' as citation count.
 
+there is a paper citation count named 'citation:doc-1554a-01' that
+  has '0' as citation count and
+  has '25/09/2015' as date checked.
+
 there is an academic document named 'doc-1555' that
   has the paper citation count 'citation:doc-1555-01' as citation count.
 
@@ -9260,6 +9348,10 @@ there is a paper citation count named 'citation:doc-1560-01' that
 there is an academic document named 'doc-1561b' that
   has the paper citation count 'citation:doc-1561b-01' as citation count.
 
+there is a paper citation count named 'citation:doc-1561b-01' that
+  has '0' as citation count and
+  has '25/09/2015' as date checked.
+
 there is an academic document named 'doc-1562a' that
   has the paper citation count 'citation:doc-1562a-01' as citation count.
 
@@ -9278,6 +9370,10 @@ there is a paper citation count named 'citation:doc-1562b-01' that
 
 there is an academic document named 'doc-1563a' that
   has the paper citation count 'citation:doc-1563a-01' as citation count.
+
+there is a paper citation count named 'citation:doc-1563a-01' that
+  has '0' as citation count and
+  has '25/09/2015' as date checked.
 
 there is an academic document named 'doc-1563b' that
   has the paper citation count 'citation:doc-1563b-01' as citation count.
@@ -9305,6 +9401,10 @@ there is a paper citation count named 'citation:doc-1565-01' that
 
 there is an academic document named 'doc-1566a' that
   has the paper citation count 'citation:doc-1566a-01' as citation count.
+
+there is a paper citation count named 'citation:doc-1566a-01' that
+  has '0' as citation count and
+  has '25/09/2015' as date checked.
 
 there is an academic document named 'doc-1567' that
   has the paper citation count 'citation:doc-1567-01' as citation count.
@@ -9340,6 +9440,10 @@ there is a paper citation count named 'citation:doc-1576-01' that
 there is an academic document named 'doc-1581' that
   has the paper citation count 'citation:doc-1581-01' as citation count.
 
+there is a paper citation count named 'citation:doc-1581-01' that
+  has '0' as citation count and
+  has '25/09/2015' as date checked.
+
 there is an academic document named 'doc-1584' that
   has the paper citation count 'citation:doc-1584-01' as citation count.
 
@@ -9359,8 +9463,16 @@ there is a paper citation count named 'citation:doc-1672-01' that
 there is an academic document named 'doc-1677' that
   has the paper citation count 'citation:doc-1677-01' as citation count.
 
+there is a paper citation count named 'citation:doc-1677-01' that
+  has '0' as citation count and
+  has '25/09/2015' as date checked.
+
 there is an academic document named 'doc-1678' that
   has the paper citation count 'citation:doc-1678-01' as citation count.
+
+there is a paper citation count named 'citation:doc-1678-01' that
+  has '0' as citation count and
+  has '25/09/2015' as date checked.
 
 there is an academic document named 'doc-1681' that
   has the paper citation count 'citation:doc-1681-01' as citation count.
@@ -9412,6 +9524,10 @@ there is a paper citation count named 'citation:doc-1723-01' that
 
 there is an academic document named 'doc-1728' that
   has the paper citation count 'citation:doc-1728-01' as citation count.
+
+there is a paper citation count named 'citation:doc-1728-01' that
+  has '0' as citation count and
+  has '25/09/2015' as date checked.
 
 there is an academic document named 'doc-1732' that
   has the paper citation count 'citation:doc-1732-01' as citation count.
@@ -9472,14 +9588,30 @@ there is a paper citation count named 'citation:doc-1747-01' that
 there is an academic document named 'doc-1748a' that
   has the paper citation count 'citation:doc-1748a-01' as citation count.
 
+there is a paper citation count named 'citation:doc-1748a-01' that
+  has '0' as citation count and
+  has '25/09/2015' as date checked.
+
 there is an academic document named 'doc-1749' that
   has the paper citation count 'citation:doc-1749-01' as citation count.
+
+there is a paper citation count named 'citation:doc-1749-01' that
+  has '0' as citation count and
+  has '25/09/2015' as date checked.
 
 there is an academic document named 'doc-1750' that
   has the paper citation count 'citation:doc-1750-01' as citation count.
 
+there is a paper citation count named 'citation:doc-1750-01' that
+  has '0' as citation count and
+  has '25/09/2015' as date checked.
+
 there is an academic document named 'doc-1754' that
   has the paper citation count 'citation:doc-1754-01' as citation count.
+
+there is a paper citation count named 'citation:doc-1754-01' that
+  has '0' as citation count and
+  has '25/09/2015' as date checked.
 
 there is an academic document named 'doc-1755' that
   has the paper citation count 'citation:doc-1755-01' as citation count.
@@ -9507,6 +9639,10 @@ there is a paper citation count named 'citation:doc-1759-01' that
 
 there is an academic document named 'doc-1760' that
   has the paper citation count 'citation:doc-1760-01' as citation count.
+
+there is a paper citation count named 'citation:doc-1760-01' that
+  has '0' as citation count and
+  has '25/09/2015' as date checked.
 
 there is an academic document named 'doc-1769' that
   has the paper citation count 'citation:doc-1769-01' as citation count.
@@ -9551,6 +9687,10 @@ there is a paper citation count named 'citation:doc-1800-01' that
 there is an academic document named 'doc-1801' that
   has the paper citation count 'citation:doc-1801-01' as citation count.
 
+there is a paper citation count named 'citation:doc-1801-01' that
+  has '0' as citation count and
+  has '25/09/2015' as date checked.
+
 there is an academic document named 'doc-1803' that
   has the paper citation count 'citation:doc-1803-01' as citation count.
 
@@ -9578,11 +9718,23 @@ there is a paper citation count named 'citation:doc-1816-01' that
 there is an academic document named 'doc-1849c' that
   has the paper citation count 'citation:doc-1849c-01' as citation count.
 
+there is a paper citation count named 'citation:doc-1849c-01' that
+  has '0' as citation count and
+  has '25/09/2015' as date checked.
+
 there is an academic document named 'doc-1855c' that
   has the paper citation count 'citation:doc-1855c-01' as citation count.
 
+there is a paper citation count named 'citation:doc-1855c-01' that
+  has '0' as citation count and
+  has '25/09/2015' as date checked.
+
 there is an academic document named 'doc-1903' that
   has the paper citation count 'citation:doc-1903-01' as citation count.
+
+there is a paper citation count named 'citation:doc-1903-01' that
+  has '0' as citation count and
+  has '25/09/2015' as date checked.
 
 there is an academic document named 'doc-1999' that
   has the paper citation count 'citation:doc-1999-01' as citation count.
@@ -9651,6 +9803,10 @@ there is a paper citation count named 'citation:doc-2021-01' that
 there is an academic document named 'doc-2022' that
   has the paper citation count 'citation:doc-2022-01' as citation count.
 
+there is a paper citation count named 'citation:doc-2022-01' that
+  has '0' as citation count and
+  has '25/09/2015' as date checked.
+
 there is an academic document named 'doc-2023' that
   has the paper citation count 'citation:doc-2023-01' as citation count.
 
@@ -9677,6 +9833,10 @@ there is a paper citation count named 'citation:doc-2025-01' that
 
 there is an academic document named 'doc-2028a' that
   has the paper citation count 'citation:doc-2028a-01' as citation count.
+
+there is a paper citation count named 'citation:doc-2028a-01' that
+  has '0' as citation count and
+  has '25/09/2015' as date checked.
 
 there is an academic document named 'doc-2031' that
   has the paper citation count 'citation:doc-2031-01' as citation count.
@@ -9705,6 +9865,10 @@ there is a paper citation count named 'citation:doc-2039-01' that
 there is an academic document named 'doc-2041' that
   has the paper citation count 'citation:doc-2041-01' as citation count.
 
+there is a paper citation count named 'citation:doc-2041-01' that
+  has '0' as citation count and
+  has '25/09/2015' as date checked.
+
 there is an academic document named 'doc-2046' that
   has the paper citation count 'citation:doc-2046-01' as citation count.
 
@@ -9716,8 +9880,16 @@ there is a paper citation count named 'citation:doc-2046-01' that
 there is an academic document named 'doc-2051' that
   has the paper citation count 'citation:doc-2051-01' as citation count.
 
+there is a paper citation count named 'citation:doc-2051-01' that
+  has '0' as citation count and
+  has '25/09/2015' as date checked.
+
 there is an academic document named 'doc-2052' that
   has the paper citation count 'citation:doc-2052-01' as citation count.
+
+there is a paper citation count named 'citation:doc-2052-01' that
+  has '0' as citation count and
+  has '25/09/2015' as date checked.
 
 there is an academic document named 'doc-2053' that
   has the paper citation count 'citation:doc-2053-01' as citation count.
@@ -9729,6 +9901,10 @@ there is a paper citation count named 'citation:doc-2053-01' that
 
 there is an academic document named 'doc-2057a' that
   has the paper citation count 'citation:doc-2057a-01' as citation count.
+
+there is a paper citation count named 'citation:doc-2057a-01' that
+  has '0' as citation count and
+  has '25/09/2015' as date checked.
 
 there is an academic document named 'doc-2059' that
   has the paper citation count 'citation:doc-2059-01' as citation count.
@@ -9853,6 +10029,10 @@ there is a paper citation count named 'citation:doc-2133a-01' that
 there is an academic document named 'doc-2137' that
   has the paper citation count 'citation:doc-2137-01' as citation count.
 
+there is a paper citation count named 'citation:doc-2137-01' that
+  has '0' as citation count and
+  has '25/09/2015' as date checked.
+
 there is an academic document named 'doc-2138' that
   has the paper citation count 'citation:doc-2138-01' as citation count.
 
@@ -9888,6 +10068,10 @@ there is a paper citation count named 'citation:doc-2146-01' that
 there is an academic document named 'doc-2147a' that
   has the paper citation count 'citation:doc-2147a-01' as citation count.
 
+there is a paper citation count named 'citation:doc-2147a-01' that
+  has '0' as citation count and
+  has '25/09/2015' as date checked.
+
 there is an academic document named 'doc-2153a' that
   has the paper citation count 'citation:doc-2153a-01' as citation count.
 
@@ -9922,6 +10106,10 @@ there is a paper citation count named 'citation:doc-2173-01' that
 
 there is an academic document named 'doc-2174' that
   has the paper citation count 'citation:doc-2174-01' as citation count.
+
+there is a paper citation count named 'citation:doc-2174-01' that
+  has '0' as citation count and
+  has '25/09/2015' as date checked.
 
 there is an academic document named 'doc-2175' that
   has the paper citation count 'citation:doc-2175-01' as citation count.
@@ -9981,6 +10169,10 @@ there is a paper citation count named 'citation:doc-2196-01' that
 
 there is an academic document named 'doc-2238' that
   has the paper citation count 'citation:doc-2238-01' as citation count.
+
+there is a paper citation count named 'citation:doc-2238-01' that
+  has '0' as citation count and
+  has '25/09/2015' as date checked.
 
 there is an academic document named 'doc-2439' that
   has the paper citation count 'citation:doc-2439-01' as citation count.
@@ -10153,6 +10345,10 @@ there is a paper citation count named 'citation:doc-2523-01' that
 there is an academic document named 'doc-2542' that
   has the paper citation count 'citation:doc-2542-01' as citation count.
 
+there is a paper citation count named 'citation:doc-2542-01' that
+  has '0' as citation count and
+  has '25/09/2015' as date checked.
+
 there is an academic document named 'doc-2543' that
   has the paper citation count 'citation:doc-2543-01' as citation count.
 
@@ -10170,6 +10366,10 @@ there is a paper citation count named 'citation:doc-2567-01' that
 
 there is an academic document named 'doc-2569c' that
   has the paper citation count 'citation:doc-2569c-01' as citation count.
+
+there is a paper citation count named 'citation:doc-2569c-01' that
+  has '0' as citation count and
+  has '25/09/2015' as date checked.
 
 there is an academic document named 'doc-2575' that
   has the paper citation count 'citation:doc-2575-01' as citation count.
@@ -10197,6 +10397,10 @@ there is a paper citation count named 'citation:doc-2593-01' that
 there is an academic document named 'doc-2594' that
   has the paper citation count 'citation:doc-2594-01' as citation count.
 
+there is a paper citation count named 'citation:doc-2594-01' that
+  has '0' as citation count and
+  has '25/09/2015' as date checked.
+
 there is an academic document named 'doc-2595' that
   has the paper citation count 'citation:doc-2595-01' as citation count.
 
@@ -10208,8 +10412,16 @@ there is a paper citation count named 'citation:doc-2595-01' that
 there is an academic document named 'doc-2596' that
   has the paper citation count 'citation:doc-2596-01' as citation count.
 
+there is a paper citation count named 'citation:doc-2596-01' that
+  has '0' as citation count and
+  has '25/09/2015' as date checked.
+
 there is an academic document named 'doc-2597' that
   has the paper citation count 'citation:doc-2597-01' as citation count.
+
+there is a paper citation count named 'citation:doc-2597-01' that
+  has '0' as citation count and
+  has '25/09/2015' as date checked.
 
 there is an academic document named 'doc-2745' that
   has the paper citation count 'citation:doc-2745-01' as citation count.
@@ -10350,6 +10562,10 @@ there is a paper citation count named 'citation:doc-2781-01' that
 there is an academic document named 'doc-2783' that
   has the paper citation count 'citation:doc-2783-01' as citation count.
 
+there is a paper citation count named 'citation:doc-2783-01' that
+  has '0' as citation count and
+  has '25/09/2015' as date checked.
+
 there is an academic document named 'doc-2784' that
   has the paper citation count 'citation:doc-2784-01' as citation count.
 
@@ -10368,6 +10584,10 @@ there is a paper citation count named 'citation:doc-2785-01' that
 
 there is an academic document named 'doc-2786' that
   has the paper citation count 'citation:doc-2786-01' as citation count.
+
+there is a paper citation count named 'citation:doc-2786-01' that
+  has '0' as citation count and
+  has '25/09/2015' as date checked.
 
 there is an academic document named 'doc-2787' that
   has the paper citation count 'citation:doc-2787-01' as citation count.
@@ -10498,6 +10718,10 @@ there is a paper citation count named 'citation:doc-2846-01' that
 there is an academic document named 'doc-2849b' that
   has the paper citation count 'citation:doc-2849b-01' as citation count.
 
+there is a paper citation count named 'citation:doc-2849b-01' that
+  has '0' as citation count and
+  has '25/09/2015' as date checked.
+
 there is an academic document named 'doc-2853' that
   has the paper citation count 'citation:doc-2853-01' as citation count.
 
@@ -10588,6 +10812,10 @@ there is a paper citation count named 'citation:doc-848-01' that
 there is an academic document named 'doc-851' that
   has the paper citation count 'citation:doc-851-01' as citation count.
 
+there is a paper citation count named 'citation:doc-851-01' that
+  has '0' as citation count and
+  has '25/09/2015' as date checked.
+
 there is an academic document named 'doc-858' that
   has the paper citation count 'citation:doc-858-01' as citation count.
 
@@ -10614,8 +10842,16 @@ there is a paper citation count named 'citation:doc-864-01' that
 there is an academic document named 'doc-867' that
   has the paper citation count 'citation:doc-867-01' as citation count.
 
+there is a paper citation count named 'citation:doc-867-01' that
+  has '0' as citation count and
+  has '25/09/2015' as date checked.
+
 there is an academic document named 'doc-876' that
   has the paper citation count 'citation:doc-876-01' as citation count.
+
+there is a paper citation count named 'citation:doc-876-01' that
+  has '0' as citation count and
+  has '25/09/2015' as date checked.
 
 there is an academic document named 'doc-877' that
   has the paper citation count 'citation:doc-877-01' as citation count.
@@ -10643,8 +10879,16 @@ there is a paper citation count named 'citation:doc-881-01' that
 there is an academic document named 'doc-882' that
   has the paper citation count 'citation:doc-882-01' as citation count.
 
+there is a paper citation count named 'citation:doc-882-01' that
+  has '0' as citation count and
+  has '25/09/2015' as date checked.
+
 there is an academic document named 'doc-883' that
   has the paper citation count 'citation:doc-883-01' as citation count.
+
+there is a paper citation count named 'citation:doc-883-01' that
+  has '0' as citation count and
+  has '25/09/2015' as date checked.
 
 there is an academic document named 'doc-886' that
   has the paper citation count 'citation:doc-886-01' as citation count.
@@ -10657,26 +10901,58 @@ there is a paper citation count named 'citation:doc-886-01' that
 there is an academic document named 'doc-899a' that
   has the paper citation count 'citation:doc-899a-01' as citation count.
 
+there is a paper citation count named 'citation:doc-899a-01' that
+  has '0' as citation count and
+  has '25/09/2015' as date checked.
+
 there is an academic document named 'doc-899b' that
   has the paper citation count 'citation:doc-899b-01' as citation count.
+
+there is a paper citation count named 'citation:doc-899b-01' that
+  has '0' as citation count and
+  has '25/09/2015' as date checked.
 
 there is an academic document named 'doc-927a' that
   has the paper citation count 'citation:doc-927a-01' as citation count.
 
+there is a paper citation count named 'citation:doc-927a-01' that
+  has '0' as citation count and
+  has '25/09/2015' as date checked.
+
 there is an academic document named 'doc-932a' that
   has the paper citation count 'citation:doc-932a-01' as citation count.
+
+there is a paper citation count named 'citation:doc-932a-01' that
+  has '0' as citation count and
+  has '25/09/2015' as date checked.
 
 there is an academic document named 'doc-954b' that
   has the paper citation count 'citation:doc-954b-01' as citation count.
 
+there is a paper citation count named 'citation:doc-954b-01' that
+  has '0' as citation count and
+  has '25/09/2015' as date checked.
+
 there is an academic document named 'doc-955a' that
   has the paper citation count 'citation:doc-955a-01' as citation count.
+
+there is a paper citation count named 'citation:doc-955a-01' that
+  has '0' as citation count and
+  has '25/09/2015' as date checked.
 
 there is an academic document named 'doc-975b' that
   has the paper citation count 'citation:doc-975b-01' as citation count.
 
+there is a paper citation count named 'citation:doc-975b-01' that
+  has '0' as citation count and
+  has '25/09/2015' as date checked.
+
 there is an academic document named 'doc-986b' that
   has the paper citation count 'citation:doc-986b-01' as citation count.
+
+there is a paper citation count named 'citation:doc-986b-01' that
+  has '0' as citation count and
+  has '25/09/2015' as date checked.
 
 there is an academic document named 'doc-998' that
   has the paper citation count 'citation:doc-998-01' as citation count.
@@ -10753,768 +11029,1792 @@ there is a paper citation count named 'citation:doc-x0070-01' that
 there is an academic document named 'doc-x0071' that
   has the paper citation count 'citation:doc-x0071-01' as citation count.
 
+there is a paper citation count named 'citation:doc-x0071-01' that
+  has '0' as citation count and
+  has '25/09/2015' as date checked.
+
 there is an academic document named 'doc-x0195' that
   has the paper citation count 'citation:doc-x0195-01' as citation count.
+
+there is a paper citation count named 'citation:doc-x0195-01' that
+  has '0' as citation count and
+  has '25/09/2015' as date checked.
 
 there is an academic document named 'doc-x0196' that
   has the paper citation count 'citation:doc-x0196-01' as citation count.
 
+there is a paper citation count named 'citation:doc-x0196-01' that
+  has '0' as citation count and
+  has '25/09/2015' as date checked.
+
 there is an academic document named 'doc-x0241' that
   has the paper citation count 'citation:doc-x0241-01' as citation count.
+
+there is a paper citation count named 'citation:doc-x0241-01' that
+  has '0' as citation count and
+  has '25/09/2015' as date checked.
 
 there is an academic document named 'doc-x0300' that
   has the paper citation count 'citation:doc-x0300-01' as citation count.
 
+there is a paper citation count named 'citation:doc-x0300-01' that
+  has '0' as citation count and
+  has '25/09/2015' as date checked.
+
 there is an academic document named 'doc-x0302' that
   has the paper citation count 'citation:doc-x0302-01' as citation count.
+
+there is a paper citation count named 'citation:doc-x0302-01' that
+  has '0' as citation count and
+  has '25/09/2015' as date checked.
 
 there is an academic document named 'doc-x0304' that
   has the paper citation count 'citation:doc-x0304-01' as citation count.
 
+there is a paper citation count named 'citation:doc-x0304-01' that
+  has '0' as citation count and
+  has '25/09/2015' as date checked.
+
 there is an academic document named 'doc-x0311' that
   has the paper citation count 'citation:doc-x0311-01' as citation count.
+
+there is a paper citation count named 'citation:doc-x0311-01' that
+  has '0' as citation count and
+  has '25/09/2015' as date checked.
 
 there is an academic document named 'doc-x0315' that
   has the paper citation count 'citation:doc-x0315-01' as citation count.
 
+there is a paper citation count named 'citation:doc-x0315-01' that
+  has '0' as citation count and
+  has '25/09/2015' as date checked.
+
 there is an academic document named 'doc-x0317' that
   has the paper citation count 'citation:doc-x0317-01' as citation count.
+
+there is a paper citation count named 'citation:doc-x0317-01' that
+  has '0' as citation count and
+  has '25/09/2015' as date checked.
 
 there is an academic document named 'doc-x0322' that
   has the paper citation count 'citation:doc-x0322-01' as citation count.
 
+there is a paper citation count named 'citation:doc-x0322-01' that
+  has '0' as citation count and
+  has '25/09/2015' as date checked.
+
 there is an academic document named 'doc-x0339' that
   has the paper citation count 'citation:doc-x0339-01' as citation count.
+
+there is a paper citation count named 'citation:doc-x0339-01' that
+  has '0' as citation count and
+  has '25/09/2015' as date checked.
 
 there is an academic document named 'doc-x0366' that
   has the paper citation count 'citation:doc-x0366-01' as citation count.
 
+there is a paper citation count named 'citation:doc-x0366-01' that
+  has '0' as citation count and
+  has '25/09/2015' as date checked.
+
 there is an academic document named 'doc-x0367' that
   has the paper citation count 'citation:doc-x0367-01' as citation count.
+
+there is a paper citation count named 'citation:doc-x0367-01' that
+  has '0' as citation count and
+  has '25/09/2015' as date checked.
 
 there is an academic document named 'doc-x0368' that
   has the paper citation count 'citation:doc-x0368-01' as citation count.
 
+there is a paper citation count named 'citation:doc-x0368-01' that
+  has '0' as citation count and
+  has '25/09/2015' as date checked.
+
 there is an academic document named 'doc-x0369' that
   has the paper citation count 'citation:doc-x0369-01' as citation count.
+
+there is a paper citation count named 'citation:doc-x0369-01' that
+  has '0' as citation count and
+  has '25/09/2015' as date checked.
 
 there is an academic document named 'doc-x0376' that
   has the paper citation count 'citation:doc-x0376-01' as citation count.
 
+there is a paper citation count named 'citation:doc-x0376-01' that
+  has '0' as citation count and
+  has '25/09/2015' as date checked.
+
 there is an academic document named 'doc-x0386' that
   has the paper citation count 'citation:doc-x0386-01' as citation count.
+
+there is a paper citation count named 'citation:doc-x0386-01' that
+  has '0' as citation count and
+  has '25/09/2015' as date checked.
 
 there is an academic document named 'doc-x0388' that
   has the paper citation count 'citation:doc-x0388-01' as citation count.
 
+there is a paper citation count named 'citation:doc-x0388-01' that
+  has '0' as citation count and
+  has '25/09/2015' as date checked.
+
 there is an academic document named 'doc-x0393' that
   has the paper citation count 'citation:doc-x0393-01' as citation count.
+
+there is a paper citation count named 'citation:doc-x0393-01' that
+  has '0' as citation count and
+  has '25/09/2015' as date checked.
 
 there is an academic document named 'doc-x0445' that
   has the paper citation count 'citation:doc-x0445-01' as citation count.
 
+there is a paper citation count named 'citation:doc-x0445-01' that
+  has '0' as citation count and
+  has '25/09/2015' as date checked.
+
 there is an academic document named 'doc-x0502' that
   has the paper citation count 'citation:doc-x0502-01' as citation count.
+
+there is a paper citation count named 'citation:doc-x0502-01' that
+  has '0' as citation count and
+  has '25/09/2015' as date checked.
 
 there is an academic document named 'doc-x0506' that
   has the paper citation count 'citation:doc-x0506-01' as citation count.
 
+there is a paper citation count named 'citation:doc-x0506-01' that
+  has '0' as citation count and
+  has '25/09/2015' as date checked.
+
 there is an academic document named 'doc-x0536' that
   has the paper citation count 'citation:doc-x0536-01' as citation count.
+
+there is a paper citation count named 'citation:doc-x0536-01' that
+  has '0' as citation count and
+  has '25/09/2015' as date checked.
 
 there is an academic document named 'doc-x0552' that
   has the paper citation count 'citation:doc-x0552-01' as citation count.
 
+there is a paper citation count named 'citation:doc-x0552-01' that
+  has '0' as citation count and
+  has '25/09/2015' as date checked.
+
 there is an academic document named 'doc-x0600' that
   has the paper citation count 'citation:doc-x0600-01' as citation count.
+
+there is a paper citation count named 'citation:doc-x0600-01' that
+  has '0' as citation count and
+  has '25/09/2015' as date checked.
 
 there is an academic document named 'doc-x0604' that
   has the paper citation count 'citation:doc-x0604-01' as citation count.
 
+there is a paper citation count named 'citation:doc-x0604-01' that
+  has '0' as citation count and
+  has '25/09/2015' as date checked.
+
 there is an academic document named 'doc-x0605' that
   has the paper citation count 'citation:doc-x0605-01' as citation count.
+
+there is a paper citation count named 'citation:doc-x0605-01' that
+  has '0' as citation count and
+  has '25/09/2015' as date checked.
 
 there is an academic document named 'doc-x0613' that
   has the paper citation count 'citation:doc-x0613-01' as citation count.
 
+there is a paper citation count named 'citation:doc-x0613-01' that
+  has '0' as citation count and
+  has '25/09/2015' as date checked.
+
 there is an academic document named 'doc-x0626' that
   has the paper citation count 'citation:doc-x0626-01' as citation count.
+
+there is a paper citation count named 'citation:doc-x0626-01' that
+  has '0' as citation count and
+  has '25/09/2015' as date checked.
 
 there is an academic document named 'doc-x0638' that
   has the paper citation count 'citation:doc-x0638-01' as citation count.
 
+there is a paper citation count named 'citation:doc-x0638-01' that
+  has '0' as citation count and
+  has '25/09/2015' as date checked.
+
 there is an academic document named 'doc-x0640' that
   has the paper citation count 'citation:doc-x0640-01' as citation count.
+
+there is a paper citation count named 'citation:doc-x0640-01' that
+  has '0' as citation count and
+  has '25/09/2015' as date checked.
 
 there is an academic document named 'doc-x0718' that
   has the paper citation count 'citation:doc-x0718-01' as citation count.
 
+there is a paper citation count named 'citation:doc-x0718-01' that
+  has '0' as citation count and
+  has '25/09/2015' as date checked.
+
 there is an academic document named 'doc-x0803' that
   has the paper citation count 'citation:doc-x0803-01' as citation count.
+
+there is a paper citation count named 'citation:doc-x0803-01' that
+  has '0' as citation count and
+  has '25/09/2015' as date checked.
 
 there is an academic document named 'doc-1110a' that
   has the paper citation count 'citation:doc-1110a-01' as citation count.
 
+there is a paper citation count named 'citation:doc-1110a-01' that
+  has '0' as citation count and
+  has '25/09/2015' as date checked.
+
 there is an academic document named 'doc-1111' that
   has the paper citation count 'citation:doc-1111-01' as citation count.
+
+there is a paper citation count named 'citation:doc-1111-01' that
+  has '0' as citation count and
+  has '25/09/2015' as date checked.
 
 there is an academic document named 'doc-1116a' that
   has the paper citation count 'citation:doc-1116a-01' as citation count.
 
+there is a paper citation count named 'citation:doc-1116a-01' that
+  has '0' as citation count and
+  has '25/09/2015' as date checked.
+
 there is an academic document named 'doc-1224b' that
   has the paper citation count 'citation:doc-1224b-01' as citation count.
+
+there is a paper citation count named 'citation:doc-1224b-01' that
+  has '0' as citation count and
+  has '25/09/2015' as date checked.
 
 there is an academic document named 'doc-1265' that
   has the paper citation count 'citation:doc-1265-01' as citation count.
 
+there is a paper citation count named 'citation:doc-1265-01' that
+  has '0' as citation count and
+  has '25/09/2015' as date checked.
+
 there is an academic document named 'doc-1279c' that
   has the paper citation count 'citation:doc-1279c-01' as citation count.
+
+there is a paper citation count named 'citation:doc-1279c-01' that
+  has '0' as citation count and
+  has '25/09/2015' as date checked.
 
 there is an academic document named 'doc-1334a' that
   has the paper citation count 'citation:doc-1334a-01' as citation count.
 
+there is a paper citation count named 'citation:doc-1334a-01' that
+  has '0' as citation count and
+  has '25/09/2015' as date checked.
+
 there is an academic document named 'doc-1334d' that
   has the paper citation count 'citation:doc-1334d-01' as citation count.
+
+there is a paper citation count named 'citation:doc-1334d-01' that
+  has '0' as citation count and
+  has '25/09/2015' as date checked.
 
 there is an academic document named 'doc-1371' that
   has the paper citation count 'citation:doc-1371-01' as citation count.
 
+there is a paper citation count named 'citation:doc-1371-01' that
+  has '0' as citation count and
+  has '25/09/2015' as date checked.
+
 there is an academic document named 'doc-1406' that
   has the paper citation count 'citation:doc-1406-01' as citation count.
+
+there is a paper citation count named 'citation:doc-1406-01' that
+  has '0' as citation count and
+  has '25/09/2015' as date checked.
 
 there is an academic document named 'doc-1407' that
   has the paper citation count 'citation:doc-1407-01' as citation count.
 
+there is a paper citation count named 'citation:doc-1407-01' that
+  has '0' as citation count and
+  has '25/09/2015' as date checked.
+
 there is an academic document named 'doc-1410' that
   has the paper citation count 'citation:doc-1410-01' as citation count.
+
+there is a paper citation count named 'citation:doc-1410-01' that
+  has '0' as citation count and
+  has '25/09/2015' as date checked.
 
 there is an academic document named 'doc-1411a' that
   has the paper citation count 'citation:doc-1411a-01' as citation count.
 
+there is a paper citation count named 'citation:doc-1411a-01' that
+  has '0' as citation count and
+  has '25/09/2015' as date checked.
+
 there is an academic document named 'doc-1412' that
   has the paper citation count 'citation:doc-1412-01' as citation count.
+
+there is a paper citation count named 'citation:doc-1412-01' that
+  has '0' as citation count and
+  has '25/09/2015' as date checked.
 
 there is an academic document named 'doc-1414' that
   has the paper citation count 'citation:doc-1414-01' as citation count.
 
+there is a paper citation count named 'citation:doc-1414-01' that
+  has '0' as citation count and
+  has '25/09/2015' as date checked.
+
 there is an academic document named 'doc-1415' that
   has the paper citation count 'citation:doc-1415-01' as citation count.
+
+there is a paper citation count named 'citation:doc-1415-01' that
+  has '0' as citation count and
+  has '25/09/2015' as date checked.
 
 there is an academic document named 'doc-1417a' that
   has the paper citation count 'citation:doc-1417a-01' as citation count.
 
+there is a paper citation count named 'citation:doc-1417a-01' that
+  has '0' as citation count and
+  has '25/09/2015' as date checked.
+
 there is an academic document named 'doc-1418' that
   has the paper citation count 'citation:doc-1418-01' as citation count.
+
+there is a paper citation count named 'citation:doc-1418-01' that
+  has '0' as citation count and
+  has '25/09/2015' as date checked.
 
 there is an academic document named 'doc-1420' that
   has the paper citation count 'citation:doc-1420-01' as citation count.
 
+there is a paper citation count named 'citation:doc-1420-01' that
+  has '0' as citation count and
+  has '25/09/2015' as date checked.
+
 there is an academic document named 'doc-1425' that
   has the paper citation count 'citation:doc-1425-01' as citation count.
+
+there is a paper citation count named 'citation:doc-1425-01' that
+  has '0' as citation count and
+  has '25/09/2015' as date checked.
 
 there is an academic document named 'doc-1426' that
   has the paper citation count 'citation:doc-1426-01' as citation count.
 
+there is a paper citation count named 'citation:doc-1426-01' that
+  has '0' as citation count and
+  has '25/09/2015' as date checked.
+
 there is an academic document named 'doc-1427' that
   has the paper citation count 'citation:doc-1427-01' as citation count.
+
+there is a paper citation count named 'citation:doc-1427-01' that
+  has '0' as citation count and
+  has '25/09/2015' as date checked.
 
 there is an academic document named 'doc-1428' that
   has the paper citation count 'citation:doc-1428-01' as citation count.
 
+there is a paper citation count named 'citation:doc-1428-01' that
+  has '0' as citation count and
+  has '25/09/2015' as date checked.
+
 there is an academic document named 'doc-1431a' that
   has the paper citation count 'citation:doc-1431a-01' as citation count.
+
+there is a paper citation count named 'citation:doc-1431a-01' that
+  has '0' as citation count and
+  has '25/09/2015' as date checked.
 
 there is an academic document named 'doc-1432' that
   has the paper citation count 'citation:doc-1432-01' as citation count.
 
+there is a paper citation count named 'citation:doc-1432-01' that
+  has '0' as citation count and
+  has '25/09/2015' as date checked.
+
 there is an academic document named 'doc-1433' that
   has the paper citation count 'citation:doc-1433-01' as citation count.
+
+there is a paper citation count named 'citation:doc-1433-01' that
+  has '0' as citation count and
+  has '25/09/2015' as date checked.
 
 there is an academic document named 'doc-1434' that
   has the paper citation count 'citation:doc-1434-01' as citation count.
 
+there is a paper citation count named 'citation:doc-1434-01' that
+  has '0' as citation count and
+  has '25/09/2015' as date checked.
+
 there is an academic document named 'doc-1435' that
   has the paper citation count 'citation:doc-1435-01' as citation count.
+
+there is a paper citation count named 'citation:doc-1435-01' that
+  has '0' as citation count and
+  has '25/09/2015' as date checked.
 
 there is an academic document named 'doc-1436' that
   has the paper citation count 'citation:doc-1436-01' as citation count.
 
+there is a paper citation count named 'citation:doc-1436-01' that
+  has '0' as citation count and
+  has '25/09/2015' as date checked.
+
 there is an academic document named 'doc-1437' that
   has the paper citation count 'citation:doc-1437-01' as citation count.
+
+there is a paper citation count named 'citation:doc-1437-01' that
+  has '0' as citation count and
+  has '25/09/2015' as date checked.
 
 there is an academic document named 'doc-1438' that
   has the paper citation count 'citation:doc-1438-01' as citation count.
 
+there is a paper citation count named 'citation:doc-1438-01' that
+  has '0' as citation count and
+  has '25/09/2015' as date checked.
+
 there is an academic document named 'doc-1441' that
   has the paper citation count 'citation:doc-1441-01' as citation count.
+
+there is a paper citation count named 'citation:doc-1441-01' that
+  has '0' as citation count and
+  has '25/09/2015' as date checked.
 
 there is an academic document named 'doc-1443a' that
   has the paper citation count 'citation:doc-1443a-01' as citation count.
 
+there is a paper citation count named 'citation:doc-1443a-01' that
+  has '0' as citation count and
+  has '25/09/2015' as date checked.
+
 there is an academic document named 'doc-1521' that
   has the paper citation count 'citation:doc-1521-01' as citation count.
+
+there is a paper citation count named 'citation:doc-1521-01' that
+  has '0' as citation count and
+  has '25/09/2015' as date checked.
 
 there is an academic document named 'doc-1526' that
   has the paper citation count 'citation:doc-1526-01' as citation count.
 
+there is a paper citation count named 'citation:doc-1526-01' that
+  has '0' as citation count and
+  has '25/09/2015' as date checked.
+
 there is an academic document named 'doc-1527' that
   has the paper citation count 'citation:doc-1527-01' as citation count.
+
+there is a paper citation count named 'citation:doc-1527-01' that
+  has '0' as citation count and
+  has '25/09/2015' as date checked.
 
 there is an academic document named 'doc-1530' that
   has the paper citation count 'citation:doc-1530-01' as citation count.
 
+there is a paper citation count named 'citation:doc-1530-01' that
+  has '0' as citation count and
+  has '25/09/2015' as date checked.
+
 there is an academic document named 'doc-1534' that
   has the paper citation count 'citation:doc-1534-01' as citation count.
+
+there is a paper citation count named 'citation:doc-1534-01' that
+  has '0' as citation count and
+  has '25/09/2015' as date checked.
 
 there is an academic document named 'doc-1535' that
   has the paper citation count 'citation:doc-1535-01' as citation count.
 
+there is a paper citation count named 'citation:doc-1535-01' that
+  has '0' as citation count and
+  has '25/09/2015' as date checked.
+
 there is an academic document named 'doc-1536' that
   has the paper citation count 'citation:doc-1536-01' as citation count.
+
+there is a paper citation count named 'citation:doc-1536-01' that
+  has '0' as citation count and
+  has '25/09/2015' as date checked.
 
 there is an academic document named 'doc-1559a' that
   has the paper citation count 'citation:doc-1559a-01' as citation count.
 
+there is a paper citation count named 'citation:doc-1559a-01' that
+  has '0' as citation count and
+  has '25/09/2015' as date checked.
+
 there is an academic document named 'doc-1585' that
   has the paper citation count 'citation:doc-1585-01' as citation count.
+
+there is a paper citation count named 'citation:doc-1585-01' that
+  has '0' as citation count and
+  has '25/09/2015' as date checked.
 
 there is an academic document named 'doc-1587' that
   has the paper citation count 'citation:doc-1587-01' as citation count.
 
+there is a paper citation count named 'citation:doc-1587-01' that
+  has '0' as citation count and
+  has '25/09/2015' as date checked.
+
 there is an academic document named 'doc-1590' that
   has the paper citation count 'citation:doc-1590-01' as citation count.
+
+there is a paper citation count named 'citation:doc-1590-01' that
+  has '0' as citation count and
+  has '25/09/2015' as date checked.
 
 there is an academic document named 'doc-1668a' that
   has the paper citation count 'citation:doc-1668a-01' as citation count.
 
+there is a paper citation count named 'citation:doc-1668a-01' that
+  has '0' as citation count and
+  has '25/09/2015' as date checked.
+
 there is an academic document named 'doc-1676' that
   has the paper citation count 'citation:doc-1676-01' as citation count.
+
+there is a paper citation count named 'citation:doc-1676-01' that
+  has '0' as citation count and
+  has '25/09/2015' as date checked.
 
 there is an academic document named 'doc-1774' that
   has the paper citation count 'citation:doc-1774-01' as citation count.
 
+there is a paper citation count named 'citation:doc-1774-01' that
+  has '0' as citation count and
+  has '25/09/2015' as date checked.
+
 there is an academic document named 'doc-1864' that
   has the paper citation count 'citation:doc-1864-01' as citation count.
+
+there is a paper citation count named 'citation:doc-1864-01' that
+  has '0' as citation count and
+  has '25/09/2015' as date checked.
 
 there is an academic document named 'doc-1870' that
   has the paper citation count 'citation:doc-1870-01' as citation count.
 
+there is a paper citation count named 'citation:doc-1870-01' that
+  has '0' as citation count and
+  has '25/09/2015' as date checked.
+
 there is an academic document named 'doc-1896' that
   has the paper citation count 'citation:doc-1896-01' as citation count.
+
+there is a paper citation count named 'citation:doc-1896-01' that
+  has '0' as citation count and
+  has '25/09/2015' as date checked.
 
 there is an academic document named 'doc-1907' that
   has the paper citation count 'citation:doc-1907-01' as citation count.
 
+there is a paper citation count named 'citation:doc-1907-01' that
+  has '0' as citation count and
+  has '25/09/2015' as date checked.
+
 there is an academic document named 'doc-1909' that
   has the paper citation count 'citation:doc-1909-01' as citation count.
+
+there is a paper citation count named 'citation:doc-1909-01' that
+  has '0' as citation count and
+  has '25/09/2015' as date checked.
 
 there is an academic document named 'doc-1913' that
   has the paper citation count 'citation:doc-1913-01' as citation count.
 
+there is a paper citation count named 'citation:doc-1913-01' that
+  has '0' as citation count and
+  has '25/09/2015' as date checked.
+
 there is an academic document named 'doc-1931' that
   has the paper citation count 'citation:doc-1931-01' as citation count.
+
+there is a paper citation count named 'citation:doc-1931-01' that
+  has '0' as citation count and
+  has '25/09/2015' as date checked.
 
 there is an academic document named 'doc-1933' that
   has the paper citation count 'citation:doc-1933-01' as citation count.
 
+there is a paper citation count named 'citation:doc-1933-01' that
+  has '0' as citation count and
+  has '25/09/2015' as date checked.
+
 there is an academic document named 'doc-1990' that
   has the paper citation count 'citation:doc-1990-01' as citation count.
+
+there is a paper citation count named 'citation:doc-1990-01' that
+  has '0' as citation count and
+  has '25/09/2015' as date checked.
 
 there is an academic document named 'doc-2005' that
   has the paper citation count 'citation:doc-2005-01' as citation count.
 
+there is a paper citation count named 'citation:doc-2005-01' that
+  has '0' as citation count and
+  has '25/09/2015' as date checked.
+
 there is an academic document named 'doc-2048' that
   has the paper citation count 'citation:doc-2048-01' as citation count.
+
+there is a paper citation count named 'citation:doc-2048-01' that
+  has '0' as citation count and
+  has '25/09/2015' as date checked.
 
 there is an academic document named 'doc-2056' that
   has the paper citation count 'citation:doc-2056-01' as citation count.
 
+there is a paper citation count named 'citation:doc-2056-01' that
+  has '0' as citation count and
+  has '25/09/2015' as date checked.
+
 there is an academic document named 'doc-2066' that
   has the paper citation count 'citation:doc-2066-01' as citation count.
+
+there is a paper citation count named 'citation:doc-2066-01' that
+  has '0' as citation count and
+  has '25/09/2015' as date checked.
 
 there is an academic document named 'doc-2071' that
   has the paper citation count 'citation:doc-2071-01' as citation count.
 
+there is a paper citation count named 'citation:doc-2071-01' that
+  has '0' as citation count and
+  has '25/09/2015' as date checked.
+
 there is an academic document named 'doc-2089' that
   has the paper citation count 'citation:doc-2089-01' as citation count.
+
+there is a paper citation count named 'citation:doc-2089-01' that
+  has '0' as citation count and
+  has '25/09/2015' as date checked.
 
 there is an academic document named 'doc-2120' that
   has the paper citation count 'citation:doc-2120-01' as citation count.
 
+there is a paper citation count named 'citation:doc-2120-01' that
+  has '0' as citation count and
+  has '25/09/2015' as date checked.
+
 there is an academic document named 'doc-2121' that
   has the paper citation count 'citation:doc-2121-01' as citation count.
+
+there is a paper citation count named 'citation:doc-2121-01' that
+  has '0' as citation count and
+  has '25/09/2015' as date checked.
 
 there is an academic document named 'doc-2122' that
   has the paper citation count 'citation:doc-2122-01' as citation count.
 
+there is a paper citation count named 'citation:doc-2122-01' that
+  has '0' as citation count and
+  has '25/09/2015' as date checked.
+
 there is an academic document named 'doc-2123' that
   has the paper citation count 'citation:doc-2123-01' as citation count.
+
+there is a paper citation count named 'citation:doc-2123-01' that
+  has '0' as citation count and
+  has '25/09/2015' as date checked.
 
 there is an academic document named 'doc-2127' that
   has the paper citation count 'citation:doc-2127-01' as citation count.
 
+there is a paper citation count named 'citation:doc-2127-01' that
+  has '0' as citation count and
+  has '25/09/2015' as date checked.
+
 there is an academic document named 'doc-2135' that
   has the paper citation count 'citation:doc-2135-01' as citation count.
+
+there is a paper citation count named 'citation:doc-2135-01' that
+  has '0' as citation count and
+  has '25/09/2015' as date checked.
 
 there is an academic document named 'doc-2235' that
   has the paper citation count 'citation:doc-2235-01' as citation count.
 
+there is a paper citation count named 'citation:doc-2235-01' that
+  has '0' as citation count and
+  has '25/09/2015' as date checked.
+
 there is an academic document named 'doc-2271' that
   has the paper citation count 'citation:doc-2271-01' as citation count.
+
+there is a paper citation count named 'citation:doc-2271-01' that
+  has '0' as citation count and
+  has '25/09/2015' as date checked.
 
 there is an academic document named 'doc-2272' that
   has the paper citation count 'citation:doc-2272-01' as citation count.
 
+there is a paper citation count named 'citation:doc-2272-01' that
+  has '0' as citation count and
+  has '25/09/2015' as date checked.
+
 there is an academic document named 'doc-2273' that
   has the paper citation count 'citation:doc-2273-01' as citation count.
+
+there is a paper citation count named 'citation:doc-2273-01' that
+  has '0' as citation count and
+  has '25/09/2015' as date checked.
 
 there is an academic document named 'doc-2274' that
   has the paper citation count 'citation:doc-2274-01' as citation count.
 
+there is a paper citation count named 'citation:doc-2274-01' that
+  has '0' as citation count and
+  has '25/09/2015' as date checked.
+
 there is an academic document named 'doc-2322' that
   has the paper citation count 'citation:doc-2322-01' as citation count.
+
+there is a paper citation count named 'citation:doc-2322-01' that
+  has '0' as citation count and
+  has '25/09/2015' as date checked.
 
 there is an academic document named 'doc-2329' that
   has the paper citation count 'citation:doc-2329-01' as citation count.
 
+there is a paper citation count named 'citation:doc-2329-01' that
+  has '0' as citation count and
+  has '25/09/2015' as date checked.
+
 there is an academic document named 'doc-2333' that
   has the paper citation count 'citation:doc-2333-01' as citation count.
+
+there is a paper citation count named 'citation:doc-2333-01' that
+  has '0' as citation count and
+  has '25/09/2015' as date checked.
 
 there is an academic document named 'doc-2340' that
   has the paper citation count 'citation:doc-2340-01' as citation count.
 
+there is a paper citation count named 'citation:doc-2340-01' that
+  has '0' as citation count and
+  has '25/09/2015' as date checked.
+
 there is an academic document named 'doc-2341' that
   has the paper citation count 'citation:doc-2341-01' as citation count.
+
+there is a paper citation count named 'citation:doc-2341-01' that
+  has '0' as citation count and
+  has '25/09/2015' as date checked.
 
 there is an academic document named 'doc-2342' that
   has the paper citation count 'citation:doc-2342-01' as citation count.
 
+there is a paper citation count named 'citation:doc-2342-01' that
+  has '0' as citation count and
+  has '25/09/2015' as date checked.
+
 there is an academic document named 'doc-2346' that
   has the paper citation count 'citation:doc-2346-01' as citation count.
+
+there is a paper citation count named 'citation:doc-2346-01' that
+  has '0' as citation count and
+  has '25/09/2015' as date checked.
 
 there is an academic document named 'doc-2390' that
   has the paper citation count 'citation:doc-2390-01' as citation count.
 
+there is a paper citation count named 'citation:doc-2390-01' that
+  has '0' as citation count and
+  has '25/09/2015' as date checked.
+
 there is an academic document named 'doc-2495' that
   has the paper citation count 'citation:doc-2495-01' as citation count.
+
+there is a paper citation count named 'citation:doc-2495-01' that
+  has '0' as citation count and
+  has '25/09/2015' as date checked.
 
 there is an academic document named 'doc-2509' that
   has the paper citation count 'citation:doc-2509-01' as citation count.
 
+there is a paper citation count named 'citation:doc-2509-01' that
+  has '0' as citation count and
+  has '25/09/2015' as date checked.
+
 there is an academic document named 'doc-2512' that
   has the paper citation count 'citation:doc-2512-01' as citation count.
+
+there is a paper citation count named 'citation:doc-2512-01' that
+  has '0' as citation count and
+  has '25/09/2015' as date checked.
 
 there is an academic document named 'doc-2547' that
   has the paper citation count 'citation:doc-2547-01' as citation count.
 
+there is a paper citation count named 'citation:doc-2547-01' that
+  has '0' as citation count and
+  has '25/09/2015' as date checked.
+
 there is an academic document named 'doc-2562' that
   has the paper citation count 'citation:doc-2562-01' as citation count.
+
+there is a paper citation count named 'citation:doc-2562-01' that
+  has '0' as citation count and
+  has '25/09/2015' as date checked.
 
 there is an academic document named 'doc-2564' that
   has the paper citation count 'citation:doc-2564-01' as citation count.
 
+there is a paper citation count named 'citation:doc-2564-01' that
+  has '0' as citation count and
+  has '25/09/2015' as date checked.
+
 there is an academic document named 'doc-2568' that
   has the paper citation count 'citation:doc-2568-01' as citation count.
+
+there is a paper citation count named 'citation:doc-2568-01' that
+  has '0' as citation count and
+  has '25/09/2015' as date checked.
 
 there is an academic document named 'doc-2573' that
   has the paper citation count 'citation:doc-2573-01' as citation count.
 
+there is a paper citation count named 'citation:doc-2573-01' that
+  has '0' as citation count and
+  has '25/09/2015' as date checked.
+
 there is an academic document named 'doc-2580' that
   has the paper citation count 'citation:doc-2580-01' as citation count.
+
+there is a paper citation count named 'citation:doc-2580-01' that
+  has '0' as citation count and
+  has '25/09/2015' as date checked.
 
 there is an academic document named 'doc-2603' that
   has the paper citation count 'citation:doc-2603-01' as citation count.
 
+there is a paper citation count named 'citation:doc-2603-01' that
+  has '0' as citation count and
+  has '25/09/2015' as date checked.
+
 there is an academic document named 'doc-2604' that
   has the paper citation count 'citation:doc-2604-01' as citation count.
+
+there is a paper citation count named 'citation:doc-2604-01' that
+  has '0' as citation count and
+  has '25/09/2015' as date checked.
 
 there is an academic document named 'doc-2605' that
   has the paper citation count 'citation:doc-2605-01' as citation count.
 
+there is a paper citation count named 'citation:doc-2605-01' that
+  has '0' as citation count and
+  has '25/09/2015' as date checked.
+
 there is an academic document named 'doc-2607' that
   has the paper citation count 'citation:doc-2607-01' as citation count.
+
+there is a paper citation count named 'citation:doc-2607-01' that
+  has '0' as citation count and
+  has '25/09/2015' as date checked.
 
 there is an academic document named 'doc-2610' that
   has the paper citation count 'citation:doc-2610-01' as citation count.
 
+there is a paper citation count named 'citation:doc-2610-01' that
+  has '0' as citation count and
+  has '25/09/2015' as date checked.
+
 there is an academic document named 'doc-2611' that
   has the paper citation count 'citation:doc-2611-01' as citation count.
+
+there is a paper citation count named 'citation:doc-2611-01' that
+  has '0' as citation count and
+  has '25/09/2015' as date checked.
 
 there is an academic document named 'doc-2612' that
   has the paper citation count 'citation:doc-2612-01' as citation count.
 
+there is a paper citation count named 'citation:doc-2612-01' that
+  has '0' as citation count and
+  has '25/09/2015' as date checked.
+
 there is an academic document named 'doc-2633' that
   has the paper citation count 'citation:doc-2633-01' as citation count.
+
+there is a paper citation count named 'citation:doc-2633-01' that
+  has '0' as citation count and
+  has '25/09/2015' as date checked.
 
 there is an academic document named 'doc-2636' that
   has the paper citation count 'citation:doc-2636-01' as citation count.
 
+there is a paper citation count named 'citation:doc-2636-01' that
+  has '0' as citation count and
+  has '25/09/2015' as date checked.
+
 there is an academic document named 'doc-2638a' that
   has the paper citation count 'citation:doc-2638a-01' as citation count.
+
+there is a paper citation count named 'citation:doc-2638a-01' that
+  has '0' as citation count and
+  has '25/09/2015' as date checked.
 
 there is an academic document named 'doc-2643' that
   has the paper citation count 'citation:doc-2643-01' as citation count.
 
+there is a paper citation count named 'citation:doc-2643-01' that
+  has '0' as citation count and
+  has '25/09/2015' as date checked.
+
 there is an academic document named 'doc-2644' that
   has the paper citation count 'citation:doc-2644-01' as citation count.
+
+there is a paper citation count named 'citation:doc-2644-01' that
+  has '0' as citation count and
+  has '25/09/2015' as date checked.
 
 there is an academic document named 'doc-2676' that
   has the paper citation count 'citation:doc-2676-01' as citation count.
 
+there is a paper citation count named 'citation:doc-2676-01' that
+  has '0' as citation count and
+  has '25/09/2015' as date checked.
+
 there is an academic document named 'doc-2690' that
   has the paper citation count 'citation:doc-2690-01' as citation count.
+
+there is a paper citation count named 'citation:doc-2690-01' that
+  has '0' as citation count and
+  has '25/09/2015' as date checked.
 
 there is an academic document named 'doc-2691' that
   has the paper citation count 'citation:doc-2691-01' as citation count.
 
+there is a paper citation count named 'citation:doc-2691-01' that
+  has '0' as citation count and
+  has '25/09/2015' as date checked.
+
 there is an academic document named 'doc-2695' that
   has the paper citation count 'citation:doc-2695-01' as citation count.
+
+there is a paper citation count named 'citation:doc-2695-01' that
+  has '0' as citation count and
+  has '25/09/2015' as date checked.
 
 there is an academic document named 'doc-2701' that
   has the paper citation count 'citation:doc-2701-01' as citation count.
 
+there is a paper citation count named 'citation:doc-2701-01' that
+  has '0' as citation count and
+  has '25/09/2015' as date checked.
+
 there is an academic document named 'doc-2705' that
   has the paper citation count 'citation:doc-2705-01' as citation count.
+
+there is a paper citation count named 'citation:doc-2705-01' that
+  has '0' as citation count and
+  has '25/09/2015' as date checked.
 
 there is an academic document named 'doc-2752' that
   has the paper citation count 'citation:doc-2752-01' as citation count.
 
+there is a paper citation count named 'citation:doc-2752-01' that
+  has '0' as citation count and
+  has '25/09/2015' as date checked.
+
 there is an academic document named 'doc-2759' that
   has the paper citation count 'citation:doc-2759-01' as citation count.
+
+there is a paper citation count named 'citation:doc-2759-01' that
+  has '0' as citation count and
+  has '25/09/2015' as date checked.
 
 there is an academic document named 'doc-2773' that
   has the paper citation count 'citation:doc-2773-01' as citation count.
 
+there is a paper citation count named 'citation:doc-2773-01' that
+  has '0' as citation count and
+  has '25/09/2015' as date checked.
+
 there is an academic document named 'doc-2778' that
   has the paper citation count 'citation:doc-2778-01' as citation count.
+
+there is a paper citation count named 'citation:doc-2778-01' that
+  has '0' as citation count and
+  has '25/09/2015' as date checked.
 
 there is an academic document named 'doc-2782' that
   has the paper citation count 'citation:doc-2782-01' as citation count.
 
+there is a paper citation count named 'citation:doc-2782-01' that
+  has '0' as citation count and
+  has '25/09/2015' as date checked.
+
 there is an academic document named 'doc-2833' that
   has the paper citation count 'citation:doc-2833-01' as citation count.
+
+there is a paper citation count named 'citation:doc-2833-01' that
+  has '0' as citation count and
+  has '25/09/2015' as date checked.
 
 there is an academic document named 'doc-2834' that
   has the paper citation count 'citation:doc-2834-01' as citation count.
 
+there is a paper citation count named 'citation:doc-2834-01' that
+  has '0' as citation count and
+  has '25/09/2015' as date checked.
+
 there is an academic document named 'doc-2836' that
   has the paper citation count 'citation:doc-2836-01' as citation count.
+
+there is a paper citation count named 'citation:doc-2836-01' that
+  has '0' as citation count and
+  has '25/09/2015' as date checked.
 
 there is an academic document named 'doc-2851' that
   has the paper citation count 'citation:doc-2851-01' as citation count.
 
+there is a paper citation count named 'citation:doc-2851-01' that
+  has '0' as citation count and
+  has '25/09/2015' as date checked.
+
 there is an academic document named 'doc-2856' that
   has the paper citation count 'citation:doc-2856-01' as citation count.
+
+there is a paper citation count named 'citation:doc-2856-01' that
+  has '0' as citation count and
+  has '25/09/2015' as date checked.
 
 there is an academic document named 'doc-2892' that
   has the paper citation count 'citation:doc-2892-01' as citation count.
 
+there is a paper citation count named 'citation:doc-2892-01' that
+  has '0' as citation count and
+  has '25/09/2015' as date checked.
+
 there is an academic document named 'doc-2894' that
   has the paper citation count 'citation:doc-2894-01' as citation count.
+
+there is a paper citation count named 'citation:doc-2894-01' that
+  has '0' as citation count and
+  has '25/09/2015' as date checked.
 
 there is an academic document named 'doc-2895' that
   has the paper citation count 'citation:doc-2895-01' as citation count.
 
+there is a paper citation count named 'citation:doc-2895-01' that
+  has '0' as citation count and
+  has '25/09/2015' as date checked.
+
 there is an academic document named 'doc-2902' that
   has the paper citation count 'citation:doc-2902-01' as citation count.
+
+there is a paper citation count named 'citation:doc-2902-01' that
+  has '0' as citation count and
+  has '25/09/2015' as date checked.
 
 there is an academic document named 'doc-2908' that
   has the paper citation count 'citation:doc-2908-01' as citation count.
 
+there is a paper citation count named 'citation:doc-2908-01' that
+  has '0' as citation count and
+  has '25/09/2015' as date checked.
+
 there is an academic document named 'doc-x0060' that
   has the paper citation count 'citation:doc-x0060-01' as citation count.
+
+there is a paper citation count named 'citation:doc-x0060-01' that
+  has '0' as citation count and
+  has '25/09/2015' as date checked.
 
 there is an academic document named 'doc-x0234' that
   has the paper citation count 'citation:doc-x0234-01' as citation count.
 
+there is a paper citation count named 'citation:doc-x0234-01' that
+  has '0' as citation count and
+  has '25/09/2015' as date checked.
+
 there is an academic document named 'doc-x0235' that
   has the paper citation count 'citation:doc-x0235-01' as citation count.
+
+there is a paper citation count named 'citation:doc-x0235-01' that
+  has '0' as citation count and
+  has '25/09/2015' as date checked.
 
 there is an academic document named 'doc-x0236' that
   has the paper citation count 'citation:doc-x0236-01' as citation count.
 
+there is a paper citation count named 'citation:doc-x0236-01' that
+  has '0' as citation count and
+  has '25/09/2015' as date checked.
+
 there is an academic document named 'doc-x0237' that
   has the paper citation count 'citation:doc-x0237-01' as citation count.
+
+there is a paper citation count named 'citation:doc-x0237-01' that
+  has '0' as citation count and
+  has '25/09/2015' as date checked.
 
 there is an academic document named 'doc-x0238' that
   has the paper citation count 'citation:doc-x0238-01' as citation count.
 
+there is a paper citation count named 'citation:doc-x0238-01' that
+  has '0' as citation count and
+  has '25/09/2015' as date checked.
+
 there is an academic document named 'doc-x0240' that
   has the paper citation count 'citation:doc-x0240-01' as citation count.
+
+there is a paper citation count named 'citation:doc-x0240-01' that
+  has '0' as citation count and
+  has '25/09/2015' as date checked.
 
 there is an academic document named 'doc-x0242' that
   has the paper citation count 'citation:doc-x0242-01' as citation count.
 
+there is a paper citation count named 'citation:doc-x0242-01' that
+  has '0' as citation count and
+  has '25/09/2015' as date checked.
+
 there is an academic document named 'doc-x0243' that
   has the paper citation count 'citation:doc-x0243-01' as citation count.
+
+there is a paper citation count named 'citation:doc-x0243-01' that
+  has '0' as citation count and
+  has '25/09/2015' as date checked.
 
 there is an academic document named 'doc-x0244' that
   has the paper citation count 'citation:doc-x0244-01' as citation count.
 
+there is a paper citation count named 'citation:doc-x0244-01' that
+  has '0' as citation count and
+  has '25/09/2015' as date checked.
+
 there is an academic document named 'doc-x0245' that
   has the paper citation count 'citation:doc-x0245-01' as citation count.
+
+there is a paper citation count named 'citation:doc-x0245-01' that
+  has '0' as citation count and
+  has '25/09/2015' as date checked.
 
 there is an academic document named 'doc-x0418' that
   has the paper citation count 'citation:doc-x0418-01' as citation count.
 
+there is a paper citation count named 'citation:doc-x0418-01' that
+  has '0' as citation count and
+  has '25/09/2015' as date checked.
+
 there is an academic document named 'doc-x0444' that
   has the paper citation count 'citation:doc-x0444-01' as citation count.
+
+there is a paper citation count named 'citation:doc-x0444-01' that
+  has '0' as citation count and
+  has '25/09/2015' as date checked.
 
 there is an academic document named 'doc-x0453' that
   has the paper citation count 'citation:doc-x0453-01' as citation count.
 
+there is a paper citation count named 'citation:doc-x0453-01' that
+  has '0' as citation count and
+  has '25/09/2015' as date checked.
+
 there is an academic document named 'doc-x0525' that
   has the paper citation count 'citation:doc-x0525-01' as citation count.
+
+there is a paper citation count named 'citation:doc-x0525-01' that
+  has '0' as citation count and
+  has '25/09/2015' as date checked.
 
 there is an academic document named 'doc-x0528' that
   has the paper citation count 'citation:doc-x0528-01' as citation count.
 
+there is a paper citation count named 'citation:doc-x0528-01' that
+  has '0' as citation count and
+  has '25/09/2015' as date checked.
+
 there is an academic document named 'doc-x0534' that
   has the paper citation count 'citation:doc-x0534-01' as citation count.
+
+there is a paper citation count named 'citation:doc-x0534-01' that
+  has '0' as citation count and
+  has '25/09/2015' as date checked.
 
 there is an academic document named 'doc-x0542' that
   has the paper citation count 'citation:doc-x0542-01' as citation count.
 
+there is a paper citation count named 'citation:doc-x0542-01' that
+  has '0' as citation count and
+  has '25/09/2015' as date checked.
+
 there is an academic document named 'doc-x0617' that
   has the paper citation count 'citation:doc-x0617-01' as citation count.
+
+there is a paper citation count named 'citation:doc-x0617-01' that
+  has '0' as citation count and
+  has '25/09/2015' as date checked.
 
 there is an academic document named 'doc-x0632' that
   has the paper citation count 'citation:doc-x0632-01' as citation count.
 
+there is a paper citation count named 'citation:doc-x0632-01' that
+  has '0' as citation count and
+  has '25/09/2015' as date checked.
+
 there is an academic document named 'doc-x0653' that
   has the paper citation count 'citation:doc-x0653-01' as citation count.
+
+there is a paper citation count named 'citation:doc-x0653-01' that
+  has '0' as citation count and
+  has '25/09/2015' as date checked.
 
 there is an academic document named 'doc-x0661' that
   has the paper citation count 'citation:doc-x0661-01' as citation count.
 
+there is a paper citation count named 'citation:doc-x0661-01' that
+  has '0' as citation count and
+  has '25/09/2015' as date checked.
+
 there is an academic document named 'doc-x0685' that
   has the paper citation count 'citation:doc-x0685-01' as citation count.
+
+there is a paper citation count named 'citation:doc-x0685-01' that
+  has '0' as citation count and
+  has '25/09/2015' as date checked.
 
 there is an academic document named 'doc-x0719' that
   has the paper citation count 'citation:doc-x0719-01' as citation count.
 
+there is a paper citation count named 'citation:doc-x0719-01' that
+  has '0' as citation count and
+  has '25/09/2015' as date checked.
+
 there is an academic document named 'doc-x0730' that
   has the paper citation count 'citation:doc-x0730-01' as citation count.
+
+there is a paper citation count named 'citation:doc-x0730-01' that
+  has '0' as citation count and
+  has '25/09/2015' as date checked.
 
 there is an academic document named 'doc-x0731' that
   has the paper citation count 'citation:doc-x0731-01' as citation count.
 
+there is a paper citation count named 'citation:doc-x0731-01' that
+  has '0' as citation count and
+  has '25/09/2015' as date checked.
+
 there is an academic document named 'doc-x0732' that
   has the paper citation count 'citation:doc-x0732-01' as citation count.
+
+there is a paper citation count named 'citation:doc-x0732-01' that
+  has '0' as citation count and
+  has '25/09/2015' as date checked.
 
 there is an academic document named 'doc-x0739' that
   has the paper citation count 'citation:doc-x0739-01' as citation count.
 
+there is a paper citation count named 'citation:doc-x0739-01' that
+  has '0' as citation count and
+  has '25/09/2015' as date checked.
+
 there is an academic document named 'doc-x0762' that
   has the paper citation count 'citation:doc-x0762-01' as citation count.
+
+there is a paper citation count named 'citation:doc-x0762-01' that
+  has '0' as citation count and
+  has '25/09/2015' as date checked.
 
 there is an academic document named 'doc-x0764' that
   has the paper citation count 'citation:doc-x0764-01' as citation count.
 
+there is a paper citation count named 'citation:doc-x0764-01' that
+  has '0' as citation count and
+  has '25/09/2015' as date checked.
+
 there is an academic document named 'doc-1312' that
   has the paper citation count 'citation:doc-1312-01' as citation count.
+
+there is a paper citation count named 'citation:doc-1312-01' that
+  has '0' as citation count and
+  has '25/09/2015' as date checked.
 
 there is an academic document named 'doc-1409' that
   has the paper citation count 'citation:doc-1409-01' as citation count.
 
+there is a paper citation count named 'citation:doc-1409-01' that
+  has '0' as citation count and
+  has '25/09/2015' as date checked.
+
 there is an academic document named 'doc-1424' that
   has the paper citation count 'citation:doc-1424-01' as citation count.
+
+there is a paper citation count named 'citation:doc-1424-01' that
+  has '0' as citation count and
+  has '25/09/2015' as date checked.
 
 there is an academic document named 'doc-2109' that
   has the paper citation count 'citation:doc-2109-01' as citation count.
 
+there is a paper citation count named 'citation:doc-2109-01' that
+  has '0' as citation count and
+  has '25/09/2015' as date checked.
+
 there is an academic document named 'doc-2227' that
   has the paper citation count 'citation:doc-2227-01' as citation count.
+
+there is a paper citation count named 'citation:doc-2227-01' that
+  has '0' as citation count and
+  has '25/09/2015' as date checked.
 
 there is an academic document named 'doc-2254' that
   has the paper citation count 'citation:doc-2254-01' as citation count.
 
+there is a paper citation count named 'citation:doc-2254-01' that
+  has '0' as citation count and
+  has '25/09/2015' as date checked.
+
 there is an academic document named 'doc-2339' that
   has the paper citation count 'citation:doc-2339-01' as citation count.
+
+there is a paper citation count named 'citation:doc-2339-01' that
+  has '0' as citation count and
+  has '25/09/2015' as date checked.
 
 there is an academic document named 'doc-2493' that
   has the paper citation count 'citation:doc-2493-01' as citation count.
 
+there is a paper citation count named 'citation:doc-2493-01' that
+  has '0' as citation count and
+  has '25/09/2015' as date checked.
+
 there is an academic document named 'doc-2502b' that
   has the paper citation count 'citation:doc-2502b-01' as citation count.
+
+there is a paper citation count named 'citation:doc-2502b-01' that
+  has '0' as citation count and
+  has '25/09/2015' as date checked.
 
 there is an academic document named 'doc-2514' that
   has the paper citation count 'citation:doc-2514-01' as citation count.
 
+there is a paper citation count named 'citation:doc-2514-01' that
+  has '0' as citation count and
+  has '25/09/2015' as date checked.
+
 there is an academic document named 'doc-2565b' that
   has the paper citation count 'citation:doc-2565b-01' as citation count.
+
+there is a paper citation count named 'citation:doc-2565b-01' that
+  has '0' as citation count and
+  has '25/09/2015' as date checked.
 
 there is an academic document named 'doc-2565d' that
   has the paper citation count 'citation:doc-2565d-01' as citation count.
 
+there is a paper citation count named 'citation:doc-2565d-01' that
+  has '0' as citation count and
+  has '25/09/2015' as date checked.
+
 there is an academic document named 'doc-2704' that
   has the paper citation count 'citation:doc-2704-01' as citation count.
+
+there is a paper citation count named 'citation:doc-2704-01' that
+  has '0' as citation count and
+  has '25/09/2015' as date checked.
 
 there is an academic document named 'doc-2884' that
   has the paper citation count 'citation:doc-2884-01' as citation count.
 
+there is a paper citation count named 'citation:doc-2884-01' that
+  has '0' as citation count and
+  has '25/09/2015' as date checked.
+
 there is an academic document named 'doc-813' that
   has the paper citation count 'citation:doc-813-01' as citation count.
+
+there is a paper citation count named 'citation:doc-813-01' that
+  has '0' as citation count and
+  has '25/09/2015' as date checked.
 
 there is an academic document named 'doc-929' that
   has the paper citation count 'citation:doc-929-01' as citation count.
 
+there is a paper citation count named 'citation:doc-929-01' that
+  has '0' as citation count and
+  has '25/09/2015' as date checked.
+
 there is an academic document named 'doc-1372' that
   has the paper citation count 'citation:doc-1372-01' as citation count.
+
+there is a paper citation count named 'citation:doc-1372-01' that
+  has '0' as citation count and
+  has '25/09/2015' as date checked.
 
 there is an academic document named 'doc-1373' that
   has the paper citation count 'citation:doc-1373-01' as citation count.
 
+there is a paper citation count named 'citation:doc-1373-01' that
+  has '0' as citation count and
+  has '25/09/2015' as date checked.
+
 there is an academic document named 'doc-1393a' that
   has the paper citation count 'citation:doc-1393a-01' as citation count.
+
+there is a paper citation count named 'citation:doc-1393a-01' that
+  has '0' as citation count and
+  has '25/09/2015' as date checked.
 
 there is an academic document named 'doc-1921' that
   has the paper citation count 'citation:doc-1921-01' as citation count.
 
+there is a paper citation count named 'citation:doc-1921-01' that
+  has '0' as citation count and
+  has '25/09/2015' as date checked.
+
 there is an academic document named 'doc-2286' that
   has the paper citation count 'citation:doc-2286-01' as citation count.
+
+there is a paper citation count named 'citation:doc-2286-01' that
+  has '0' as citation count and
+  has '25/09/2015' as date checked.
 
 there is an academic document named 'doc-2911' that
   has the paper citation count 'citation:doc-2911-01' as citation count.
 
+there is a paper citation count named 'citation:doc-2911-01' that
+  has '0' as citation count and
+  has '25/09/2015' as date checked.
+
 there is an academic document named 'doc-x0025' that
   has the paper citation count 'citation:doc-x0025-01' as citation count.
+
+there is a paper citation count named 'citation:doc-x0025-01' that
+  has '0' as citation count and
+  has '25/09/2015' as date checked.
 
 there is an academic document named 'doc-x0030' that
   has the paper citation count 'citation:doc-x0030-01' as citation count.
 
+there is a paper citation count named 'citation:doc-x0030-01' that
+  has '0' as citation count and
+  has '25/09/2015' as date checked.
+
 there is an academic document named 'doc-x0034' that
   has the paper citation count 'citation:doc-x0034-01' as citation count.
+
+there is a paper citation count named 'citation:doc-x0034-01' that
+  has '0' as citation count and
+  has '25/09/2015' as date checked.
 
 there is an academic document named 'doc-x0064' that
   has the paper citation count 'citation:doc-x0064-01' as citation count.
 
+there is a paper citation count named 'citation:doc-x0064-01' that
+  has '0' as citation count and
+  has '25/09/2015' as date checked.
+
 there is an academic document named 'doc-x0082' that
   has the paper citation count 'citation:doc-x0082-01' as citation count.
+
+there is a paper citation count named 'citation:doc-x0082-01' that
+  has '0' as citation count and
+  has '25/09/2015' as date checked.
 
 there is an academic document named 'doc-x0083' that
   has the paper citation count 'citation:doc-x0083-01' as citation count.
 
+there is a paper citation count named 'citation:doc-x0083-01' that
+  has '0' as citation count and
+  has '25/09/2015' as date checked.
+
 there is an academic document named 'doc-x0084' that
   has the paper citation count 'citation:doc-x0084-01' as citation count.
+
+there is a paper citation count named 'citation:doc-x0084-01' that
+  has '0' as citation count and
+  has '25/09/2015' as date checked.
 
 there is an academic document named 'doc-x0085' that
   has the paper citation count 'citation:doc-x0085-01' as citation count.
 
+there is a paper citation count named 'citation:doc-x0085-01' that
+  has '0' as citation count and
+  has '25/09/2015' as date checked.
+
 there is an academic document named 'doc-x0355' that
   has the paper citation count 'citation:doc-x0355-01' as citation count.
+
+there is a paper citation count named 'citation:doc-x0355-01' that
+  has '0' as citation count and
+  has '25/09/2015' as date checked.
 
 there is an academic document named 'doc-x0390' that
   has the paper citation count 'citation:doc-x0390-01' as citation count.
 
+there is a paper citation count named 'citation:doc-x0390-01' that
+  has '0' as citation count and
+  has '25/09/2015' as date checked.
+
 there is an academic document named 'doc-x0456' that
   has the paper citation count 'citation:doc-x0456-01' as citation count.
+
+there is a paper citation count named 'citation:doc-x0456-01' that
+  has '0' as citation count and
+  has '25/09/2015' as date checked.
 
 there is an academic document named 'doc-x0717' that
   has the paper citation count 'citation:doc-x0717-01' as citation count.
 
+there is a paper citation count named 'citation:doc-x0717-01' that
+  has '0' as citation count and
+  has '25/09/2015' as date checked.
+
 there is an academic document named 'doc-x0774' that
   has the paper citation count 'citation:doc-x0774-01' as citation count.
+
+there is a paper citation count named 'citation:doc-x0774-01' that
+  has '0' as citation count and
+  has '25/09/2015' as date checked.
 
 there is an academic document named 'doc-x1055' that
   has the paper citation count 'citation:doc-x1055-01' as citation count.
 
+there is a paper citation count named 'citation:doc-x1055-01' that
+  has '0' as citation count and
+  has '25/09/2015' as date checked.
+
 there is an academic document named 'doc-1758a' that
   has the paper citation count 'citation:doc-1758a-01' as citation count.
+
+there is a paper citation count named 'citation:doc-1758a-01' that
+  has '0' as citation count and
+  has '25/09/2015' as date checked.
 
 there is an academic document named 'doc-1892' that
   has the paper citation count 'citation:doc-1892-01' as citation count.
 
+there is a paper citation count named 'citation:doc-1892-01' that
+  has '0' as citation count and
+  has '25/09/2015' as date checked.
+
 there is an academic document named 'doc-2319a' that
   has the paper citation count 'citation:doc-2319a-01' as citation count.
+
+there is a paper citation count named 'citation:doc-2319a-01' that
+  has '0' as citation count and
+  has '25/09/2015' as date checked.
 
 there is an academic document named 'doc-2829' that
   has the paper citation count 'citation:doc-2829-01' as citation count.
 
+there is a paper citation count named 'citation:doc-2829-01' that
+  has '0' as citation count and
+  has '25/09/2015' as date checked.
+
 there is an academic document named 'doc-x0231' that
   has the paper citation count 'citation:doc-x0231-01' as citation count.
+
+there is a paper citation count named 'citation:doc-x0231-01' that
+  has '0' as citation count and
+  has '25/09/2015' as date checked.
 
 there is an academic document named 'doc-x0232' that
   has the paper citation count 'citation:doc-x0232-01' as citation count.
 
+there is a paper citation count named 'citation:doc-x0232-01' that
+  has '0' as citation count and
+  has '25/09/2015' as date checked.
+
 there is an academic document named 'doc-x0233' that
   has the paper citation count 'citation:doc-x0233-01' as citation count.
+
+there is a paper citation count named 'citation:doc-x0233-01' that
+  has '0' as citation count and
+  has '25/09/2015' as date checked.
 
 there is an academic document named 'doc-x0344' that
   has the paper citation count 'citation:doc-x0344-01' as citation count.
 
+there is a paper citation count named 'citation:doc-x0344-01' that
+  has '0' as citation count and
+  has '25/09/2015' as date checked.
+
 there is an academic document named 'doc-x0354' that
   has the paper citation count 'citation:doc-x0354-01' as citation count.
+
+there is a paper citation count named 'citation:doc-x0354-01' that
+  has '0' as citation count and
+  has '25/09/2015' as date checked.
 
 there is an academic document named 'doc-x0365' that
   has the paper citation count 'citation:doc-x0365-01' as citation count.
 
+there is a paper citation count named 'citation:doc-x0365-01' that
+  has '0' as citation count and
+  has '25/09/2015' as date checked.
+
 there is an academic document named 'doc-x0625' that
   has the paper citation count 'citation:doc-x0625-01' as citation count.
+
+there is a paper citation count named 'citation:doc-x0625-01' that
+  has '0' as citation count and
+  has '25/09/2015' as date checked.
 
 there is an academic document named 'doc-1041' that
   has the paper citation count 'citation:doc-1041-01' as citation count.
 
+there is a paper citation count named 'citation:doc-1041-01' that
+  has '0' as citation count and
+  has '25/09/2015' as date checked.
+
 there is an academic document named 'doc-1050a' that
   has the paper citation count 'citation:doc-1050a-01' as citation count.
+
+there is a paper citation count named 'citation:doc-1050a-01' that
+  has '0' as citation count and
+  has '25/09/2015' as date checked.
 
 there is an academic document named 'doc-1051' that
   has the paper citation count 'citation:doc-1051-01' as citation count.
 
+there is a paper citation count named 'citation:doc-1051-01' that
+  has '0' as citation count and
+  has '25/09/2015' as date checked.
+
 there is an academic document named 'doc-1055' that
   has the paper citation count 'citation:doc-1055-01' as citation count.
+
+there is a paper citation count named 'citation:doc-1055-01' that
+  has '0' as citation count and
+  has '25/09/2015' as date checked.
 
 there is an academic document named 'doc-1430' that
   has the paper citation count 'citation:doc-1430-01' as citation count.
 
+there is a paper citation count named 'citation:doc-1430-01' that
+  has '0' as citation count and
+  has '25/09/2015' as date checked.
+
 there is an academic document named 'doc-2140' that
   has the paper citation count 'citation:doc-2140-01' as citation count.
+
+there is a paper citation count named 'citation:doc-2140-01' that
+  has '0' as citation count and
+  has '25/09/2015' as date checked.
 
 there is an academic document named 'doc-2296' that
   has the paper citation count 'citation:doc-2296-01' as citation count.
 
+there is a paper citation count named 'citation:doc-2296-01' that
+  has '0' as citation count and
+  has '25/09/2015' as date checked.
+
 there is an academic document named 'doc-2436' that
   has the paper citation count 'citation:doc-2436-01' as citation count.
+
+there is a paper citation count named 'citation:doc-2436-01' that
+  has '0' as citation count and
+  has '25/09/2015' as date checked.
 
 there is an academic document named 'doc-2757' that
   has the paper citation count 'citation:doc-2757-01' as citation count.
 
+there is a paper citation count named 'citation:doc-2757-01' that
+  has '0' as citation count and
+  has '25/09/2015' as date checked.
+
 there is an academic document named 'doc-1659' that
   has the paper citation count 'citation:doc-1659-01' as citation count.
+
+there is a paper citation count named 'citation:doc-1659-01' that
+  has '0' as citation count and
+  has '25/09/2015' as date checked.
 
 there is an academic document named 'doc-2190' that
   has the paper citation count 'citation:doc-2190-01' as citation count.
 
+there is a paper citation count named 'citation:doc-2190-01' that
+  has '0' as citation count and
+  has '25/09/2015' as date checked.
+
 there is an academic document named 'doc-2840' that
   has the paper citation count 'citation:doc-2840-01' as citation count.
+
+there is a paper citation count named 'citation:doc-2840-01' that
+  has '0' as citation count and
+  has '25/09/2015' as date checked.
 
 there is an academic document named 'doc-1670a' that
   has the paper citation count 'citation:doc-1670a-01' as citation count.
 
+there is a paper citation count named 'citation:doc-1670a-01' that
+  has '0' as citation count and
+  has '25/09/2015' as date checked.
+
 there is an academic document named 'doc-2034' that
   has the paper citation count 'citation:doc-2034-01' as citation count.
+
+there is a paper citation count named 'citation:doc-2034-01' that
+  has '0' as citation count and
+  has '25/09/2015' as date checked.
 
 there is an academic document named 'doc-1124' that
   has the paper citation count 'citation:doc-1124-01' as citation count.
 
+there is a paper citation count named 'citation:doc-1124-01' that
+  has '0' as citation count and
+  has '25/09/2015' as date checked.
+
 there is an academic document named 'doc-2187' that
   has the paper citation count 'citation:doc-2187-01' as citation count.
+
+there is a paper citation count named 'citation:doc-2187-01' that
+  has '0' as citation count and
+  has '25/09/2015' as date checked.
 
 there is an academic document named 'doc-2188' that
   has the paper citation count 'citation:doc-2188-01' as citation count.
 
+there is a paper citation count named 'citation:doc-2188-01' that
+  has '0' as citation count and
+  has '25/09/2015' as date checked.
+
 there is an academic document named 'doc-2189' that
   has the paper citation count 'citation:doc-2189-01' as citation count.
+
+there is a paper citation count named 'citation:doc-2189-01' that
+  has '0' as citation count and
+  has '25/09/2015' as date checked.
 
 there is an academic document named 'doc-2524' that
   has the paper citation count 'citation:doc-2524-01' as citation count.
 
+there is a paper citation count named 'citation:doc-2524-01' that
+  has '0' as citation count and
+  has '25/09/2015' as date checked.
+
 there is an academic document named 'doc-2544' that
   has the paper citation count 'citation:doc-2544-01' as citation count.
+
+there is a paper citation count named 'citation:doc-2544-01' that
+  has '0' as citation count and
+  has '25/09/2015' as date checked.
 
 there is an academic document named 'doc-2776' that
   has the paper citation count 'citation:doc-2776-01' as citation count.
 
+there is a paper citation count named 'citation:doc-2776-01' that
+  has '0' as citation count and
+  has '25/09/2015' as date checked.
+
 there is an academic document named 'doc-2835' that
   has the paper citation count 'citation:doc-2835-01' as citation count.
+
+there is a paper citation count named 'citation:doc-2835-01' that
+  has '0' as citation count and
+  has '25/09/2015' as date checked.
 
