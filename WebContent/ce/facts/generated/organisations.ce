@@ -1,4 +1,4 @@
--- ---------------------------------------------------------------------------- (C) Copyright IBM Corporation 2016-- All Rights Reserved-- ---------------------------------------------------------------------------- This CE has been generated from SL_generator v1.9.xlsm
+-- ---------------------------------------------------------------------------- (C) Copyright IBM Corporation 2016-- All Rights Reserved-- ---------------------------------------------------------------------------- This CE has been generated from SL_generator v1.13.xlsm
 there is an organisation named 'West point' that
   is a government organisation and
   is a ITA organisation and
@@ -107,13 +107,6 @@ there is an organisation named 'Boeing' that
   has 'Boeing' as short name and
   is affiliated to the country 'US' and
   is located at the place 'Boeing, Seattle'.
-
-there is an organisation named 'Broadcom' that
-  is a industrial organisation and
-  has 'Broadcom' as name and
-  has 'Broadcom' as short name and
-  is affiliated to the country 'US' and
-  is located at the place 'Broadcom, California'.
 
 there is an organisation named 'Cisco' that
   is a industrial organisation and
@@ -1116,13 +1109,6 @@ there is an organisation named 'University of Luxembourg' that
   has 'Luxembourg' as short name and
   is affiliated to the country 'Luxembourg' and
   is located at the place 'University of Luxembourg, Luxembourg'.
-
-there is an organisation named 'University of Memphis' that
-  is a academic organisation and
-  has 'University of Memphis' as name and
-  has 'Memphis' as short name and
-  is affiliated to the country 'US' and
-  is located at the place 'University of Memphis, Tennessee'.
 
 there is an organisation named 'University of Michigan' that
   is a academic organisation and

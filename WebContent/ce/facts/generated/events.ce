@@ -1,4 +1,4 @@
--- ---------------------------------------------------------------------------- (C) Copyright IBM Corporation 2016-- All Rights Reserved-- ---------------------------------------------------------------------------- This CE has been generated from SL_generator v1.9.xlsm
+-- ---------------------------------------------------------------------------- (C) Copyright IBM Corporation 2016-- All Rights Reserved-- ---------------------------------------------------------------------------- This CE has been generated from SL_generator v1.13.xlsm
 there is an event named 'AAMAS 2007' that
   has 'International Conference on Autonomous Agents and Multiagent Systems (AAMAS), 2007' as full name and
   occurs at the place 'Hawaii Convention Center' and
@@ -662,15 +662,6 @@ there is an event named 'IJCAI 2011' that
   is part of the event series 'IJCAI' and
   corresponds to the date 'Jul-2011'.
 
-there is an event named 'IJCAI 2013' that
-  has '23rd International Joint Conference on Artificial Intelligence, 2013' as full name and
-  occurs at the place 'Beijing International Convention Centre, Beijing' and
-  has '3rd August 2013' as start date and
-  has '9th August 2013' as end date and
-  has 'http://ijcai-13.org/' as url and
-  is part of the event series 'IJCAI' and
-  corresponds to the date 'Aug-2013'.
-
 there is an event named 'IJCAI 2015' that
   has '24th International Joint Conference on Artificial Intelligence, 2015' as full name and
   occurs at the place 'Buenos Aires, Argentina' and
@@ -1039,15 +1030,6 @@ there is an event named 'MobiCom 2012' that
   has 'http://www.sigmobile.org/mobicom/2012/' as url and
   is part of the event series 'MobiCom' and
   corresponds to the date 'Aug-2012'.
-
-there is an event named 'MobiCom 2014' that
-  has 'Annual International Conference on Mobile Computing and Networking, 2014' as full name and
-  occurs at the place 'Maui, Hawaii' and
-  has '7th September 2014' as start date and
-  has '11th September 2014' as end date and
-  has 'http://www.sigmobile.org/mobicom/2014/' as url and
-  is part of the event series 'MobiCom' and
-  corresponds to the date 'Sep-2014'.
 
 there is an event named 'MobiHoc 2007' that
   has 'ACM International Symposium on Mobile Ad Hoc Networking and Computing (MobiHoc), 2007' as full name and

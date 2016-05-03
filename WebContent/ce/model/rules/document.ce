@@ -5,8 +5,7 @@
 
 [ 1a-document topics ]
 if
-  ( the topic term TT corresponds to the topic T ) and
-  ( the topic term TT has the value M as marker ) and
+  ( the topic T has the value M as marker ) and
   ( the academic document AD has the value AB as abstract ) and
   ( the value AB contains the value M )
 then

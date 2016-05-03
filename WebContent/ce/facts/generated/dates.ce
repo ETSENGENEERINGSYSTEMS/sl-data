@@ -1,4 +1,4 @@
--- ---------------------------------------------------------------------------- (C) Copyright IBM Corporation 2016-- All Rights Reserved-- ---------------------------------------------------------------------------- This CE has been generated from SL_generator v1.9.xlsm
+-- ---------------------------------------------------------------------------- (C) Copyright IBM Corporation 2016-- All Rights Reserved-- ---------------------------------------------------------------------------- This CE has been generated from SL_generator v1.13.xlsm
 there is a date named '2006' that
   has '2006' as year.
 
@@ -34,6 +34,10 @@ there is a date named '2016' that
 
 there is a date named 'Oct-2006' that
   has '10' as month and
+  has '2006' as year.
+
+there is a date named 'Nov-2006' that
+  has '11' as month and
   has '2006' as year.
 
 there is a date named 'Jan-2007' that

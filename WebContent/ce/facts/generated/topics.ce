@@ -1,0 +1,37 @@
+-- ---------------------------------------------------------------------------- (C) Copyright IBM Corporation 2016-- All Rights Reserved-- ---------------------------------------------------------------------------- This CE has been generated from SL_generator v1.13.xlsm
+there is a topic named 'semantic wiki' that
+  has 'semantic wiki' as marker.
+
+there is a topic named 'web 2.0' that
+  has 'web 2.0' as marker.
+
+there is a topic named 'social web' that
+  has 'social web' as marker and
+  has 'web 3.0' as marker.
+
+there is a topic named 'controlled natural language' that
+  has 'controlled natural language' as marker and
+  has 'CNL' as marker.
+
+there is a topic named 'shared understanding' that
+  has 'shared understanding' as marker and
+  has 'joint understanding' as marker and
+  has 'group understanding' as marker and
+  has 'situation awareness' as marker.
+
+there is a topic named 'sensor network' that
+  has 'sensor network' as marker.
+
+there is a topic named 'coalition' that
+  has 'coalition' as marker.
+
+there is a topic named 'verifiable computation' that
+  has 'verifiable computation' as marker.
+
+there is a topic named 'disruption-tolerant network' that
+  has 'disruption-tolerant network' as marker and
+  has 'DTN' as marker.
+
+there is a topic named 'in-network aggregation' that
+  has 'in-network aggregation' as marker.
+

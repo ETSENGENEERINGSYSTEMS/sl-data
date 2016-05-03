@@ -19,6 +19,7 @@ perform load sentences from url '/SL_data/ce/facts/generated/places.ce'.
 perform load sentences from url '/SL_data/ce/facts/generated/project_plans.ce'.
 perform load sentences from url '/SL_data/ce/facts/generated/projects.ce'.
 perform load sentences from url '/SL_data/ce/facts/generated/technical_areas.ce'.
+perform load sentences from url '/SL_data/ce/facts/generated/topics.ce'.
 perform load sentences from url '/SL_data/ce/facts/generated/dates.ce'.
 perform load sentences from url '/SL_data/ce/facts/generated/countries.ce'.
 perform load sentences from url '/SL_data/ce/facts/generated/messages.ce'.

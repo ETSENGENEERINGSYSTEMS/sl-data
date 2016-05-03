@@ -1,4 +1,4 @@
--- ---------------------------------------------------------------------------- (C) Copyright IBM Corporation 2016-- All Rights Reserved-- ---------------------------------------------------------------------------- This CE has been generated from SL_generator v1.9.xlsm
+-- ---------------------------------------------------------------------------- (C) Copyright IBM Corporation 2016-- All Rights Reserved-- ---------------------------------------------------------------------------- This CE has been generated from SL_generator v1.13.xlsm
 there is a linguistic thing named 'ARL' that
   is expressed by 'A R L'.
 
@@ -33,30 +33,30 @@ there is a linguistic thing named 'timothy_norman' that
 there is a linguistic thing named '=' that
   is expressed by 'equals'.
 
-there is a linguistic thing named 'academic document:abstract:value' that
+there is a linguistic thing named 'document:abstract:value' that
   is expressed by 'summary' and
   is expressed by 'outline'.
 
-there is a linguistic thing named 'academic document:citation count:paper citation count' that
+there is a linguistic thing named 'document:citation count:paper citation count' that
   is expressed by 'citation' and
   is expressed by 'citations'.
 
-there is a linguistic thing named 'academic document:final date:date' that
+there is a linguistic thing named 'document:final date:date' that
   is expressed by 'published' and
   is expressed by 'date'.
 
-there is a linguistic thing named 'academic document:paper file:value' that
+there is a linguistic thing named 'document:paper file:value' that
   is expressed by 'file' and
   is expressed by 'paper' and
   is expressed by 'download'.
 
-there is a linguistic thing named 'academic document:poster file:value' that
+there is a linguistic thing named 'document:poster file:value' that
   is expressed by 'poster'.
 
-there is a linguistic thing named 'academic document:presentation file:value' that
+there is a linguistic thing named 'document:presentation file:value' that
   is expressed by 'presentation'.
 
-there is a linguistic thing named 'academic document:venue:event' that
+there is a linguistic thing named 'document:venue:event' that
   is expressed by 'where' and
   is expressed by 'located'.
 
@@ -132,12 +132,6 @@ there is a linguistic thing named 'person:journal paper count:value' that
   is expressed by 'journal paper' and
   is expressed by 'journal papers' and
   is expressed by 'journals'.
-
-there is a linguistic thing named 'person:perfect paper count:value' that
-  is expressed by 'perfect paper' and
-  is expressed by 'perfect papers' and
-  is expressed by 'full collaboration paper' and
-  is expressed by 'full collaboration papers'.
 
 there is a linguistic thing named 'person:profile picture:value' that
   is expressed by 'look like'.

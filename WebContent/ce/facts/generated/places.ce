@@ -1,4 +1,4 @@
--- ---------------------------------------------------------------------------- (C) Copyright IBM Corporation 2016-- All Rights Reserved-- ---------------------------------------------------------------------------- This CE has been generated from SL_generator v1.9.xlsm
+-- ---------------------------------------------------------------------------- (C) Copyright IBM Corporation 2016-- All Rights Reserved-- ---------------------------------------------------------------------------- This CE has been generated from SL_generator v1.13.xlsm
 there is a place named 'Agent Dynamics Inc, Pennsylvania' that
   has '40.4497854' as latitude and
   has '-79.9097949' as longitude.
@@ -67,10 +67,6 @@ there is a place named 'BBN Technologies, Illinois' that
   has '38.586709' as latitude and
   has '-89.946577' as longitude.
 
-there is a place named 'Beijing International Convention Centre, Beijing' that
-  has '39.9095397' as latitude and
-  has '116.4292656' as longitude.
-
 there is a place named 'Beijing, China' that
   has '39.904211' as latitude and
   has '116.407395' as longitude.
@@ -107,10 +103,6 @@ there is a place named 'Botley Park Hotel, Southampton' that
   has '50.9312947' as latitude and
   has '-1.2810664' as longitude.
 
-there is a place named 'Broadcom, California' that
-  has '33.636511' as latitude and
-  has '-117.8483171' as longitude.
-
 there is a place named 'Budapest, Hungary' that
   has '47.497912' as latitude and
   has '19.040235' as longitude.
@@ -126,10 +118,6 @@ there is a place named 'BUP&T, Beijing, China' that
 there is a place named 'California Institute of Technology, California' that
   has '34.1376576' as latitude and
   has '-118.125269' as longitude.
-
-there is a place named 'Cambridge University, UK' that
-  has '52.2042666' as latitude and
-  has '0.1149085' as longitude.
 
 there is a place named 'Cannes, France' that
   has '43.552847' as latitude and
@@ -174,10 +162,6 @@ there is a place named 'Chinese Academy of Sciences' that
 there is a place named 'Cisco, San Jose' that
   has '37.4082995' as latitude and
   has '-121.9534926' as longitude.
-
-there is a place named 'City University London, UK' that
-  has '51.5277955' as latitude and
-  has '-0.102331' as longitude.
 
 there is a place named 'City University, UK' that
   has '51.5277955' as latitude and
@@ -506,10 +490,6 @@ there is a place named 'Marriot Wardman Park Hotel, Washington DC' that
 there is a place named 'Massachusetts Institute of Technology, Massachusetts' that
   has '42.360091' as latitude and
   has '-71.09416' as longitude.
-
-there is a place named 'Maui, Hawaii' that
-  has '20.7983626' as latitude and
-  has '-156.3319253' as longitude.
 
 there is a place named 'Miami, Florida' that
   has '25.7616798' as latitude and
@@ -970,10 +950,6 @@ there is a place named 'University of Maryland, US' that
 there is a place named 'University of Massachusetts Amherst, Massachusetts' that
   has '42.3911569' as latitude and
   has '-72.5267121' as longitude.
-
-there is a place named 'University of Memphis, Tennessee' that
-  has '35.11837' as latitude and
-  has '-89.940639' as longitude.
 
 there is a place named 'University of Michigan, US' that
   has '42.2780436' as latitude and
