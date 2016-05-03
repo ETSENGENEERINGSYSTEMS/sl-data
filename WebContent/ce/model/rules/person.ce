@@ -3,11 +3,11 @@
 -- All Rights Reserved
 -- --------------------------------------------------------------------------
 
-[ 1a-ITA person ]
+[ 1a-core person ]
 if
-  ( the person P is employed by the ITA organisation O )
+  ( the person P is employed by the core organisation O )
 then
-  ( the person P is an ITA person )
+  ( the person P is a core person )
 .
 
 [ 1a-government person ]
@@ -48,14 +48,14 @@ then
 [ 1b-person wrote document ]
 if
    ( the ordered author V3 has the person V1 as author person ) and
-   ( the academic document V4 has the ordered author V3 as author )
+   ( the document V4 has the ordered author V3 as author )
 then
-   ( the published person V1 wrote the academic document V4 )
+   ( the published person V1 wrote the document V4 )
 .
 
 [ 1c-person total publication count ]
 if
-  ( the person P wrote the academic document #AD )
+  ( the person P wrote the document #AD )
 then
   ( the person P has #AD as total publication count )
 .
@@ -111,8 +111,8 @@ then
 
 [ 1c-co-authors ]
 if
-  ( the person P1 wrote the academic document A ) and
-  ( the person P2 wrote the academic document A ) and
+  ( the person P1 wrote the document A ) and
+  ( the person P2 wrote the document A ) and
   ( the person P1 != the person P2 )
 then
   ( the person P1 has the person P2 as co-author )

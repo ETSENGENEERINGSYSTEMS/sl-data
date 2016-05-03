@@ -48,14 +48,14 @@ then
 [ 2a-organisation wrote document ]
 if
   ( the organisation O employs the person P ) and
-  ( the person P wrote the academic document AD )
+  ( the person P wrote the document AD )
 then
-  ( the published organisation O wrote the academic document AD )
+  ( the published organisation O wrote the document AD )
 .
 
 [ 2b-organisation paper count ]
 if
-  ( the organisation O wrote the academic document #AD )
+  ( the organisation O wrote the document #AD )
 then
   ( the organisation O has #AD as paper count )
 .

@@ -5,7 +5,7 @@
 
 [ 1a-project document ]
 if
-  ( the academic document AD has the ITA project P as project )
+  ( the document AD has the project P as project )
 then
-  ( the ITA project P has the academic document AD as paper )
+  ( the project P has the document AD as paper )
 .

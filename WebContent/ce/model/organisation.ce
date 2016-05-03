@@ -8,7 +8,7 @@ conceptualise an ~ organisation ~ O that
   has the value SN as ~ short name ~ and
   ~ is located at ~ the place P and
   ~ employs ~ the person P and
-  ~ wrote ~ the academic document AD and
+  ~ wrote ~ the document AD and
   has the value T as ~ type ~ and
   ~ is affiliated to ~ the country C and
   has the value PC as ~ paper count ~ and
@@ -19,7 +19,7 @@ conceptualise an ~ organisation ~ O that
   has the value PC as ~ technical report count ~ and
   has the value PC as ~ other document count ~.
 
-conceptualise an ~ ITA organisation ~ I that is an organisation.
+conceptualise a ~ core organisation ~ I that is an organisation.
 
 conceptualise an ~ academic organisation ~ A that is an organisation.
 conceptualise an ~ industrial organisation ~ I that is an organisation.

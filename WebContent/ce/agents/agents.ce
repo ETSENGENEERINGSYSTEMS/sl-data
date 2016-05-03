@@ -37,7 +37,7 @@ there is a rule executor agent named 'rules_for_people' that
   has 'Rules_People.ce' as CE filename and
   has 'true' as iterate and
   has '10' as maximum iterations and
-  has '1a-ITA person' as rule name and
+  has '1a-core person' as rule name and
   has '1a-academic person' as rule name and
   has '1a-government person' as rule name and
   has '1a-industry person' as rule name and
@@ -80,6 +80,7 @@ there is a rule executor agent named 'rules_for_authors' that
   has '1c-person technical report count' as rule name and
   has '1c-person other document count' as rule name and
   has '1c-co-authors' as rule name and
+  has '1c-government document' as rule name and
   has '1d-inv co-author' as rule name and
   has '1e-co-author statistics' as rule name and
   has '1e-person co-author count' as rule name and
@@ -103,21 +104,4 @@ there is a rule executor agent named 'rules_for_documents' that
   has '10' as maximum iterations and
   has '1a-document topics' as rule name and
   has '1b-document publication year' as rule name and
-  has '1b-industry-academia document' as rule name and
-  has '1c-UK government document' as rule name and
-  has '1c-US government document' as rule name and
-  has '1c-US-UK document' as rule name and
   has '1c-document author count' as rule name.
-
---there is a rule executor agent named 'rules_for_totals' that
---  has 'com.ibm.ets.ita.ce.agent.general.RuleExecutor' as class name and
---  has 'true' as save CE to file and
---  has 'Rules_Totals.ce' as CE filename and
---  has 'true' as iterate and
---  has '10' as maximum iterations and
---  has '1a-total-all total paper count' as rule name and
---  has '1a-total-all government paper count' as rule name and
---  has '1a-total-all journal paper count' as rule name and
---  has '1a-total-all external conference paper count' as rule name and
---  has '1a-total-all patent count' as rule name.
-  

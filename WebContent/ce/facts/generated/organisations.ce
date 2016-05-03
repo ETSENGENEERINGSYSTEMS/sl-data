@@ -1,7 +1,7 @@
 -- ---------------------------------------------------------------------------- (C) Copyright IBM Corporation 2016-- All Rights Reserved-- ---------------------------------------------------------------------------- This CE has been generated from SL_generator v1.14.xlsm
 there is an organisation named 'West point' that
   is a government organisation and
-  is a ITA organisation and
+  is a core organisation and
   has 'West point' as name and
   has 'USMA' as short name and
   is affiliated to the country 'US' and
@@ -9,7 +9,7 @@ there is an organisation named 'West point' that
 
 there is an organisation named 'AFRL' that
   is a government organisation and
-  is a ITA organisation and
+  is a core organisation and
   has 'Air Force Research Laboratory' as name and
   has 'AFRL' as short name and
   is affiliated to the country 'US' and
@@ -17,7 +17,7 @@ there is an organisation named 'AFRL' that
 
 there is an organisation named 'ARL' that
   is a government organisation and
-  is a ITA organisation and
+  is a core organisation and
   has 'Army Research Laboratory' as name and
   has 'ARL' as short name and
   is affiliated to the country 'US' and
@@ -25,7 +25,7 @@ there is an organisation named 'ARL' that
 
 there is an organisation named 'CERDEC' that
   is a government organisation and
-  is a ITA organisation and
+  is a core organisation and
   has 'United States Army, Communications-Electronics Research, Development and Engineering Center' as name and
   has 'US Army CERDEC' as short name and
   is affiliated to the country 'US' and
@@ -33,7 +33,7 @@ there is an organisation named 'CERDEC' that
 
 there is an organisation named 'DSTL' that
   is a government organisation and
-  is a ITA organisation and
+  is a core organisation and
   has 'Defence Science and Technology Laboratory' as name and
   has 'DSTL' as short name and
   is affiliated to the country 'UK' and
@@ -41,7 +41,7 @@ there is an organisation named 'DSTL' that
 
 there is an organisation named 'MoD' that
   is a government organisation and
-  is a ITA organisation and
+  is a core organisation and
   has 'Ministry of Defence' as name and
   has 'MoD' as short name and
   is affiliated to the country 'UK' and
@@ -49,7 +49,7 @@ there is an organisation named 'MoD' that
 
 there is an organisation named 'USArmy' that
   is a government organisation and
-  is a ITA organisation and
+  is a core organisation and
   has 'United States Army' as name and
   has 'US Army' as short name and
   is affiliated to the country 'US' and
@@ -57,7 +57,7 @@ there is an organisation named 'USArmy' that
 
 there is an organisation named 'West point' that
   is a government organisation and
-  is a ITA organisation and
+  is a core organisation and
   has 'West point' as name and
   has 'USMA' as short name and
   is affiliated to the country 'US' and
@@ -79,7 +79,7 @@ there is an organisation named 'Applied Communication Sciences' that
 
 there is an organisation named 'ARA' that
   is a industrial organisation and
-  is a ITA organisation and
+  is a core organisation and
   has 'Advanced Research Associates' as name and
   has 'ARA' as short name and
   is affiliated to the country 'US' and
@@ -94,7 +94,7 @@ there is an organisation named 'AT&T Labs-Research' that
 
 there is an organisation named 'BBN' that
   is a industrial organisation and
-  is a ITA organisation and
+  is a core organisation and
   has 'BBN Technologies' as name and
   has 'BBN' as short name and
   is affiliated to the country 'US' and
@@ -102,7 +102,7 @@ there is an organisation named 'BBN' that
 
 there is an organisation named 'Boeing' that
   is a industrial organisation and
-  is a ITA organisation and
+  is a core organisation and
   has 'Boeing' as name and
   has 'Boeing' as short name and
   is affiliated to the country 'US' and
@@ -138,7 +138,7 @@ there is an organisation named 'DoCoMo Labs USA' that
 
 there is an organisation named 'EADS' that
   is a industrial organisation and
-  is a ITA organisation and
+  is a core organisation and
   has 'EADS' as name and
   has 'EADS' as short name and
   is affiliated to the country 'UK' and
@@ -167,7 +167,7 @@ there is an organisation named 'HeavyIron' that
 
 there is an organisation named 'Honeywell' that
   is a industrial organisation and
-  is a ITA organisation and
+  is a core organisation and
   has 'Honeywell' as name and
   has 'Honeywell' as short name and
   is affiliated to the country 'US' and
@@ -203,7 +203,7 @@ there is an organisation named 'IBM Research, Zurich' that
 
 there is an organisation named 'IBM-UK' that
   is a industrial organisation and
-  is a ITA organisation and
+  is a core organisation and
   has 'IBM UK' as name and
   has 'IBM UK' as short name and
   is affiliated to the country 'UK' and
@@ -211,7 +211,7 @@ there is an organisation named 'IBM-UK' that
 
 there is an organisation named 'IBM-US' that
   is a industrial organisation and
-  is a ITA organisation and
+  is a core organisation and
   has 'IBM US' as name and
   has 'IBM US' as short name and
   is affiliated to the country 'US' and
@@ -233,7 +233,7 @@ there is an organisation named 'Institute for Infocomm Research' that
 
 there is an organisation named 'Logica' that
   is a industrial organisation and
-  is a ITA organisation and
+  is a core organisation and
   has 'Logica' as name and
   has 'Log' as short name and
   is affiliated to the country 'UK' and
@@ -262,7 +262,7 @@ there is an organisation named 'PARC' that
 
 there is an organisation named 'Roke' that
   is a industrial organisation and
-  is a ITA organisation and
+  is a core organisation and
   has 'Roke Manor Research Ltd' as name and
   has 'Roke' as short name and
   is affiliated to the country 'UK' and
@@ -270,7 +270,7 @@ there is an organisation named 'Roke' that
 
 there is an organisation named 'SEA' that
   is a industrial organisation and
-  is a ITA organisation and
+  is a core organisation and
   has 'Systems Engineering & Assessment' as name and
   has 'SEA' as short name and
   is affiliated to the country 'UK' and
@@ -362,7 +362,7 @@ there is an organisation named 'California Institute of Technology' that
 
 there is an organisation named 'CardiffUni' that
   is a academic organisation and
-  is a ITA organisation and
+  is a core organisation and
   has 'Cardiff University' as name and
   has 'Cardiff' as short name and
   is affiliated to the country 'UK' and
@@ -384,7 +384,7 @@ there is an organisation named 'City University, London' that
 
 there is an organisation named 'CMU' that
   is a academic organisation and
-  is a ITA organisation and
+  is a core organisation and
   has 'Carnegie Mellon University' as name and
   has 'CMU' as short name and
   is affiliated to the country 'US' and
@@ -399,7 +399,7 @@ there is an organisation named 'CNR, Italy' that
 
 there is an organisation named 'Columbia' that
   is a academic organisation and
-  is a ITA organisation and
+  is a core organisation and
   has 'Columbia University' as name and
   has 'Columbia' as short name and
   is affiliated to the country 'US' and
@@ -414,7 +414,7 @@ there is an organisation named 'Cornell' that
 
 there is an organisation named 'Cranfield' that
   is a academic organisation and
-  is a ITA organisation and
+  is a core organisation and
   has 'Cranfield University' as name and
   has 'Cranfield' as short name and
   is affiliated to the country 'UK' and
@@ -422,7 +422,7 @@ there is an organisation named 'Cranfield' that
 
 there is an organisation named 'CUNY' that
   is a academic organisation and
-  is a ITA organisation and
+  is a core organisation and
   has 'The City University of New York' as name and
   has 'CUNY' as short name and
   is affiliated to the country 'US' and
@@ -521,7 +521,7 @@ there is an organisation named 'IMDEA Software Institute' that
 
 there is an organisation named 'Imperial' that
   is a academic organisation and
-  is a ITA organisation and
+  is a core organisation and
   has 'Imperial College London' as name and
   has 'Imperial' as short name and
   is affiliated to the country 'UK' and
@@ -676,7 +676,7 @@ there is an organisation named 'Ozyegin University, Turkey' that
 
 there is an organisation named 'PennState' that
   is a academic organisation and
-  is a ITA organisation and
+  is a core organisation and
   has 'Pennsylvania State University' as name and
   has 'PSU' as short name and
   is affiliated to the country 'US' and
@@ -712,7 +712,7 @@ there is an organisation named 'Queens University Belfast' that
 
 there is an organisation named 'RHUL' that
   is a academic organisation and
-  is a ITA organisation and
+  is a core organisation and
   has 'Royal Holloway, University of London' as name and
   has 'RHUL' as short name and
   is affiliated to the country 'UK' and
@@ -720,7 +720,7 @@ there is an organisation named 'RHUL' that
 
 there is an organisation named 'RPI' that
   is a academic organisation and
-  is a ITA organisation and
+  is a core organisation and
   has 'Rensselaer Polytechnic Institute' as name and
   has 'RPI' as short name and
   is affiliated to the country 'US' and
@@ -819,7 +819,7 @@ there is an organisation named 'UCL' that
 
 there is an organisation named 'UCLA' that
   is a academic organisation and
-  is a ITA organisation and
+  is a core organisation and
   has 'University of California, Los Angeles' as name and
   has 'UCLA' as short name and
   is affiliated to the country 'US' and
@@ -834,7 +834,7 @@ there is an organisation named 'UCSD' that
 
 there is an organisation named 'UMass' that
   is a academic organisation and
-  is a ITA organisation and
+  is a core organisation and
   has 'University of Massachusetts Amherst' as name and
   has 'UMass' as short name and
   is affiliated to the country 'US' and
@@ -842,7 +842,7 @@ there is an organisation named 'UMass' that
 
 there is an organisation named 'UMD' that
   is a academic organisation and
-  is a ITA organisation and
+  is a core organisation and
   has 'University of Maryland' as name and
   has 'UMD' as short name and
   is affiliated to the country 'US' and
@@ -850,7 +850,7 @@ there is an organisation named 'UMD' that
 
 there is an organisation named 'UniAberdeen' that
   is a academic organisation and
-  is a ITA organisation and
+  is a core organisation and
   has 'University of Aberdeen' as name and
   has 'Aberdeen' as short name and
   is affiliated to the country 'UK' and
@@ -858,7 +858,7 @@ there is an organisation named 'UniAberdeen' that
 
 there is an organisation named 'UniCambridge' that
   is a academic organisation and
-  is a ITA organisation and
+  is a core organisation and
   has 'University of Cambridge' as name and
   has 'Cambridge' as short name and
   is affiliated to the country 'UK' and
@@ -880,7 +880,7 @@ there is an organisation named 'UniIllinois' that
 
 there is an organisation named 'UniSoton' that
   is a academic organisation and
-  is a ITA organisation and
+  is a core organisation and
   has 'University of Southampton' as name and
   has 'Soton' as short name and
   is affiliated to the country 'UK' and
@@ -1189,7 +1189,7 @@ there is an organisation named 'University of Toronto' that
 
 there is an organisation named 'UniYork' that
   is a academic organisation and
-  is a ITA organisation and
+  is a core organisation and
   has 'University of York' as name and
   has 'York' as short name and
   is affiliated to the country 'UK' and

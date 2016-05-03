@@ -6,55 +6,30 @@
 [ 1a-document topics ]
 if
   ( the topic T has the value M as marker ) and
-  ( the academic document AD has the value AB as abstract ) and
+  ( the document AD has the value AB as abstract ) and
   ( the value AB contains the value M )
 then
-  ( the academic document AD is on the topic T )
+  ( the document AD is on the topic T )
 .
 
 [ 1b-document publication year ]
 if
-  ( the academic document AD has the date FD as final date ) and
+  ( the document AD has the date FD as final date ) and
   ( the date FD has the value Y as year )
 then
-  ( the academic document AD has the year Y as publication year )
-.
-
-[ 1b-industry-academia document ]
-if
-  ( the industry person P1 wrote the external document D ) and
-  ( the academic person P2 wrote the external document D )  
-then
-  ( the external document D is an industry-academia document )
-.
-
-[ 1c-UK government document ]
-if
-  ( the government person P wrote the external document D ) and
-  ( the government person P is a UK person )
-then
-  ( the external document D is a UK government document )
-.
-
-[ 1c-US government document ]
-if
-  ( the government person P wrote the external document D ) and
-  ( the government person P is a US person )
-then
-  ( the external document D is a US government document )
-.
-
-[ 1c-US-UK document ]
-if
-  ( the UK person P1 wrote the external document D ) and
-  ( the US person P2 wrote the external document D )  
-then
-  ( the external document D is a US-UK document )
+  ( the document AD has the year Y as publication year )
 .
 
 [ 1c-document author count ]
 if
-  ( the person #P wrote the academic document AD )
+  ( the person #P wrote the document AD )
 then
-  ( the academic document AD has #P as number of authors )
+  ( the document AD has #P as number of authors )
+.
+
+[ 1c-government document ]
+if
+  ( the government person P wrote the external document D )
+then
+  ( the external document D is a government document )
 .
