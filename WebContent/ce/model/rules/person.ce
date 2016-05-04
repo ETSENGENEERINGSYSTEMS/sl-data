@@ -55,58 +55,58 @@ then
 
 [ 1c-person total publication count ]
 if
-  ( the person P wrote the document #AD )
+  ( the person P wrote the document #D )
 then
-  ( the person P has #AD as total publication count )
+  ( the person P has #D as total publication count )
 .
 
 [ 1c-person external paper count ]
 if
-  ( the person P wrote the external conference document #AD )
+  ( the person P wrote the external conference paper #EC )
 then
-  ( the person P has #AD as external paper count )
+  ( the person P has #EC as external paper count )
 .
 
 [ 1c-person internal paper count ]
 if
-  ( the person P wrote the internal conference document #AD )
+  ( the person P wrote the internal conference paper #IC )
 then
-  ( the person P has #AD as internal paper count )
+  ( the person P has #IC as internal paper count )
 .
 
 [ 1c-person journal paper count ]
 if
-  ( the person P wrote the journal document #AD )
+  ( the person P wrote the journal paper #J )
 then
-  ( the person P has #AD as journal paper count )
+  ( the person P has #J as journal paper count )
 .
 
 [ 1c-person conference paper count ]
 if
-  ( the person P wrote the conference document #AD )
+  ( the person P wrote the conference paper #CP )
 then
-  ( the person P has #AD as conference paper count )
+  ( the person P has #CP as conference paper count )
 .
 
 [ 1c-person patent count ]
 if
-  ( the person P wrote the patent #AD )
+  ( the person P wrote the patent #P )
 then
-  ( the person P has #AD as patent count )
+  ( the person P has #P as patent count )
 .
 
 [ 1c-person technical report count ]
 if
-  ( the person P wrote the technical report #AD )
+  ( the person P wrote the technical report #TR )
 then
-  ( the person P has #AD as technical report count )
+  ( the person P has #TR as technical report count )
 .
 
 [ 1c-person other document count ]
 if
-  ( the person P wrote the other document #AD )
+  ( the person P wrote the other document #OD )
 then
-  ( the person P has #AD as other document count )
+  ( the person P has #OD as other document count )
 .
 
 [ 1c-co-authors ]

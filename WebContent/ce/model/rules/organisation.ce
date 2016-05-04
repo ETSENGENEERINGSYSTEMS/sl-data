@@ -55,49 +55,49 @@ then
 
 [ 2b-organisation paper count ]
 if
-  ( the organisation O wrote the document #AD )
+  ( the organisation O wrote the document #D )
 then
-  ( the organisation O has #AD as paper count )
+  ( the organisation O has #D as paper count )
 .
 
 [ 2b-organisation external paper count ]
 if
-  ( the organisation O wrote the external document #AD )
+  ( the organisation O wrote the external document #ED )
 then
-  ( the organisation O has #AD as external paper count )
+  ( the organisation O has #ED as external paper count )
 .
 
 [ 2b-organisation internal paper count ]
 if
-  ( the organisation O wrote the internal document #AD )
+  ( the organisation O wrote the internal document #ID )
 then
-  ( the organisation O has #AD as internal paper count )
+  ( the organisation O has #ID as internal paper count )
 .
 
 [ 2b-organisation journal paper count ]
 if
-  ( the organisation O wrote the journal document #AD )
+  ( the organisation O wrote the journal paper #J )
 then
-  ( the organisation O has #AD as journal paper count )
+  ( the organisation O has #J as journal paper count )
 .
 
 [ 2b-organisation patent count ]
 if
-  ( the organisation O wrote the patent #AD )
+  ( the organisation O wrote the patent #P )
 then
-  ( the organisation O has #AD as patent count )
+  ( the organisation O has #P as patent count )
 .
 
 [ 2b-organisation technical report count ]
 if
-  ( the organisation O wrote the technical report #AD )
+  ( the organisation O wrote the technical report #TR )
 then
-  ( the organisation O has #AD as technical report count )
+  ( the organisation O has #TR as technical report count )
 .
 
 [ 2b-organisation other document count ]
 if
-  ( the organisation O wrote the other document #AD )
+  ( the organisation O wrote the other document #OD )
 then
-  ( the organisation O has #AD as other document count )
+  ( the organisation O has #OD as other document count )
 .

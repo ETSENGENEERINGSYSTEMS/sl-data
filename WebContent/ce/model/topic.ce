@@ -5,3 +5,15 @@
 
 conceptualise a ~ topic ~ T that
   has the value M as ~ marker ~.
+
+conceptualise a ~ topic statistic ~ T that
+  has the topic T as ~ topic ~ and
+  has the value C as ~ paper count ~.
+
+conceptualise a ~ topic-author statistic ~ T that
+  is a topic statistic and
+  has the person P as ~ person ~.
+
+conceptualise a ~ topic-organisation statistic ~ T that
+  is a topic statistic and
+  has the organisation P as ~ organisation ~.

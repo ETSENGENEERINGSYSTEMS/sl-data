@@ -315,6 +315,9 @@ the document 'doc-1358'
 the document 'doc-849'
   is on the topic 'POLICY'.
 
+the document 'doc-2051'
+  is on the topic 'sensor network'.
+
 the document 'doc-2893'
   is on the topic 'POLICY'.
 
@@ -632,9 +635,6 @@ the document 'doc-1800'
 
 the document 'doc-2005'
   is on the topic 'coalition'.
-
-the document 'doc-2051'
-  is on the topic 'sensor network'.
 
 the document 'doc-851'
   is on the topic 'planning'.
@@ -1118,9 +1118,6 @@ the document 'doc-2848'
 
 the document 'doc-1471'
   is on the topic 'NUM'.
-
-the document 'doc-2129'
-  is on the topic 'gaian'.
 
 the document 'doc-2024'
   is on the topic 'controlled english'.
@@ -1677,6 +1674,9 @@ the document 'doc-1109'
 the document 'doc-1286'
   is on the topic 'sensor network'.
 
+the document 'doc-1135'
+  is on the topic 'wireless sensor network'.
+
 the document 'doc-2798'
   is on the topic 'controlled natural language'.
 
@@ -2034,6 +2034,9 @@ the document 'doc-x0028'
 the document 'doc-962'
   is on the topic 'sensor network'.
 
+the document 'doc-1135'
+  is on the topic 'sensor network'.
+
 the document 'doc-1456a'
   is on the topic 'planning'.
 
@@ -2048,9 +2051,6 @@ the document 'doc-2273'
 
 the document 'doc-1926'
   is on the topic 'ontologies'.
-
-the document 'doc-1135'
-  is on the topic 'wireless sensor network'.
 
 the document 'doc-1750'
   is on the topic 'cryptography'.
@@ -2286,6 +2286,9 @@ the document 'doc-1251a'
 the document 'doc-2360'
   is on the topic 'cryptography'.
 
+the document 'doc-2129'
+  is on the topic 'gaian'.
+
 the document 'doc-2377'
   is on the topic 'sensor network'.
 
@@ -2357,9 +2360,6 @@ the document 'doc-1063'
 
 the document 'doc-2569c'
   is on the topic 'sensemaking'.
-
-the document 'doc-1135'
-  is on the topic 'sensor network'.
 
 the document 'doc-1241b'
   is on the topic 'planning'.
@@ -3099,9 +3099,6 @@ the document 'doc-2503'
 the document 'doc-1006a'
   is on the topic 'NUM'.
 
-the document 'doc-2675'
-  is on the topic 'controlled natural language'.
-
 the document 'doc-1277a'
   is on the topic 'shared understanding'.
 
@@ -3299,6 +3296,9 @@ the document 'doc-1554a'
 
 the document 'doc-964'
   is on the topic 'disruption-tolerant network'.
+
+the document 'doc-2675'
+  is on the topic 'controlled natural language'.
 
 the document 'doc-2866'
   is on the topic 'verifiable computation'.

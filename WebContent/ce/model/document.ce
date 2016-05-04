@@ -30,11 +30,11 @@ conceptualise a ~ document ~ D that
 
 conceptualise an ~ internal document ~ I that is a document.
 conceptualise an ~ external document ~ E that is a document.
-conceptualise an ~ conference document ~ C that is a document.
+conceptualise an ~ conference paper ~ C that is a document.
 conceptualise a ~ patent ~ P that is an external document.
-conceptualise an ~ journal document ~ J that is an external document.
-conceptualise an ~ internal conference document ~ C that is a conference document and is an internal document.
-conceptualise an ~ external conference document ~ C that is a conference document and is an external document.
+conceptualise an ~ journal paper ~ J that is an external document.
+conceptualise an ~ internal conference paper ~ C that is a conference paper and is an internal document.
+conceptualise an ~ external conference paper ~ C that is a conference paper and is an external document.
 conceptualise a ~ technical report ~ T that is an internal document.
 conceptualise an ~ other document ~ D that is an internal document.
 conceptualise an ~ invited talk ~ T that is an other document.
