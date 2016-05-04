@@ -9,6 +9,7 @@ there is a rule executor agent named 'rules_for_orgs_1' that
   has 'Rules_Orgs_1.ce' as CE filename and
   has 'true' as iterate and
   has '10' as maximum iterations and
+  has 'false' as generate rationale and
   has '1a-org type - academic' as rule name and
   has '1a-org type - industry' as rule name and
   has '1a-org type - government' as rule name and
@@ -22,6 +23,7 @@ there is a rule executor agent named 'rules_for_orgs_2' that
   has 'Rules_Orgs_2.ce' as CE filename and
   has 'true' as iterate and
   has '10' as maximum iterations and
+  has 'false' as generate rationale and
   has '2a-organisation wrote document' as rule name and
   has '2b-organisation paper count' as rule name and
   has '2b-organisation external paper count' as rule name and
@@ -37,6 +39,7 @@ there is a rule executor agent named 'rules_for_people' that
   has 'Rules_People.ce' as CE filename and
   has 'true' as iterate and
   has '10' as maximum iterations and
+  has 'false' as generate rationale and
   has '1a-core person' as rule name and
   has '1a-academic person' as rule name and
   has '1a-government person' as rule name and
@@ -50,6 +53,7 @@ there is a rule executor agent named 'rules_for_projects' that
   has 'Rules_Projects.ce' as CE filename and
   has 'true' as iterate and
   has '10' as maximum iterations and
+  has 'false' as generate rationale and
   has '1a-project document' as rule name.
 
 there is a rule executor agent named 'rules_for_events' that
@@ -58,6 +62,7 @@ there is a rule executor agent named 'rules_for_events' that
   has 'Rules_Events.ce' as CE filename and
   has 'true' as iterate and
   has '10' as maximum iterations and
+  has 'false' as generate rationale and
   has '1a-event series years ran' as rule name and
   has '1a-published event series' as rule name and
   has '1a-published event' as rule name and
@@ -70,6 +75,7 @@ there is a rule executor agent named 'rules_for_authors' that
   has 'Rules_Authors.ce' as CE filename and
   has 'true' as iterate and
   has '10' as maximum iterations and
+  has 'false' as generate rationale and
   has '1b-person wrote document' as rule name and
   has '1c-person total publication count' as rule name and
   has '1c-person external paper count' as rule name and
@@ -93,6 +99,7 @@ there is a rule executor agent named 'rules_for_dates' that
   has 'Rules_Dates.ce' as CE filename and
   has 'true' as iterate and
   has '10' as maximum iterations and
+  has 'false' as generate rationale and
   has '1a-final date from event' as rule name and
   has '1b-final date from publish date' as rule name.
 
@@ -102,6 +109,7 @@ there is a rule executor agent named 'rules_for_documents' that
   has 'Rules_Documents.ce' as CE filename and
   has 'true' as iterate and
   has '10' as maximum iterations and
+  has 'false' as generate rationale and
   has '1a-document topics' as rule name and
   has '1b-document publication year' as rule name and
   has '1c-document author count' as rule name.
