@@ -4,13 +4,15 @@
 -- --------------------------------------------------------------------------
 
 conceptualise a ~ topic ~ T that
-  has the value M as ~ marker ~.
+  has the value M as ~ marker ~ and
+  has the topic statistic TS as ~ topic statistic ~.
 
 conceptualise a ~ topic statistic ~ T that
   has the topic T as ~ topic ~ and
+  has the document D as ~ document ~ and
   has the value C as ~ paper count ~.
 
-conceptualise a ~ topic-author statistic ~ T that
+conceptualise a ~ topic-person statistic ~ T that
   is a topic statistic and
   has the person P as ~ person ~.
 

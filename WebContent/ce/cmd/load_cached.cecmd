@@ -25,6 +25,7 @@ perform load sentences from url '/SL_data/ce/model/rules/event.ce'.
 perform load sentences from url '/SL_data/ce/model/rules/organisation.ce'.
 perform load sentences from url '/SL_data/ce/model/rules/person.ce'.
 perform load sentences from url '/SL_data/ce/model/rules/project.ce'.
+perform load sentences from url '/SL_data/ce/model/rules/topic.ce'.
 
 -- Load the agent definitions
 perform load sentences from url '/SL_data/ce/agents/agents.ce'.
@@ -57,6 +58,10 @@ perform load sentences from url '/SL_data/ce/facts/cached/Rules_Documents_flush_
 
 --perform run the rule executor agent named 'rules_for_events'.
 perform load sentences from url '/SL_data/ce/facts/cached/Rules_Events_flush_1.ce'.
+
+--perform run the rule executor agent named 'rules_for_topics'.
+perform load sentences from url '/SL_data/ce/facts/cached/Rules_Topics_flush_1.ce'.
+perform load sentences from url '/SL_data/ce/facts/cached/Rules_Topics_flush_2.ce'.
 
 
 --perform run the rule executor agent named 'rules_for_orgs_2'.

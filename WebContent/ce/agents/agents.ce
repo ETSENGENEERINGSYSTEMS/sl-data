@@ -113,3 +113,16 @@ there is a rule executor agent named 'rules_for_documents' that
   has '1a-document topics' as rule name and
   has '1b-document publication year' as rule name and
   has '1c-document author count' as rule name.
+
+there is a rule executor agent named 'rules_for_topics' that
+  has 'com.ibm.ets.ita.ce.agent.general.RuleExecutor' as class name and
+  has 'true' as save CE to file and
+  has 'Rules_Topics.ce' as CE filename and
+  has 'true' as iterate and
+  has '10' as maximum iterations and
+  has 'false' as generate rationale and
+  has 'topic-person statistics' as rule name and
+  has 'topic-organisation statistics' as rule name and
+  has 'topic statistic to topic' as rule name and
+  has 'topic-person statistic to person' as rule name and
+  has 'topic-organisation statistic to organisation' as rule name.

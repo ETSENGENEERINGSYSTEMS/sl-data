@@ -1,0 +1,48 @@
+-- --------------------------------------------------------------------------
+-- (C) Copyright IBM Corporation 2016
+-- All Rights Reserved
+-- --------------------------------------------------------------------------
+
+[ topic-person statistics ]
+if
+  ( the document D is on the topic T ) and
+  ( the person P wrote the document D )
+then
+  ( there is an topic-person statistic named TPS_#topic-person-stat:_$T_#-_$P ) and
+  ( the topic-person statistic TPS has the topic T as topic ) and
+  ( the topic-person statistic TPS has the person P as person ) and
+  ( the topic-person statistic TPS has the document D as document )
+.
+
+[ topic-organisation statistics ]
+if
+  ( the document D is on the topic T ) and
+  ( the person P wrote the document D ) and
+  ( the person P is employed by the organisation O )
+then
+  ( there is an topic-organisation statistic named TOS_#topic-org-stat:_$T_#-_$O ) and
+  ( the topic-organisation statistic TOS has the topic T as topic ) and
+  ( the topic-organisation statistic TOS has the organisation O as organisation ) and
+  ( the topic-organisation statistic TOS has the document D as document )
+.
+
+[ topic statistic to topic ]
+if
+  ( the topic statistic TS has the topic T as topic )
+then
+  ( the topic T has the topic statistic TS as topic statistic )
+.
+
+[ topic-person statistic to person ]
+if
+  ( the topic-person statistic TPS has the person P as person )
+then
+  ( the person P has the topic-person statistic TPS as topic-person statistic )
+.
+
+[ topic-organisation statistic to organisation ]
+if
+  ( the topic-organisation statistic TOS has the organisation O as organisation )
+then
+  ( the organisation O has the topic-organisation statistic TOS as topic-organisation statistic )
+.

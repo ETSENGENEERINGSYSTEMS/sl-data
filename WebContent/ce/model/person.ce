@@ -30,7 +30,8 @@ conceptualise a ~ person ~ P that
   has the co-author statistic C as ~ co-author statistic ~ and
   has the person citation count C as ~ citation count ~ and
   has the value LCC as ~ local citation count ~ and
-  has the value LHI as ~ local h-index ~.
+  has the value LHI as ~ local h-index ~ and
+  has the topic-person statistic TPS as ~ topic-person statistic ~.
 
 conceptualise a ~ government person ~ P that is a person.
 conceptualise a ~ industry person ~ P that is a person.
