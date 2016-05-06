@@ -426,6 +426,9 @@ the topic 'FUSION'
 the topic 'cryptography'
   has the topic statistic 'topic-person-stat:cryptography-siavosh_benabbas' as topic statistic.
 
+the topic 'sensor mission matching'
+  has the topic statistic 'topic-person-stat:sensor mission matching-robert_hancock' as topic statistic.
+
 the topic 'gaian'
   has the topic statistic 'topic-person-stat:gaian-yuqing_tang' as topic statistic.
 
@@ -582,14 +585,23 @@ the topic 'subjective logic'
 the topic 'sensor network'
   has the topic statistic 'topic-person-stat:sensor network-anthony_ephremides' as topic statistic.
 
+the topic 'sensor mission matching'
+  has the topic statistic 'topic-person-stat:sensor mission matching-amotz_bar_noy' as topic statistic.
+
 the topic 'argumentation'
   has the topic statistic 'topic-org-stat:argumentation-CUNY' as topic statistic.
+
+the topic 'sensor mission matching'
+  has the topic statistic 'topic-person-stat:sensor mission matching-jorge_lobo' as topic statistic.
 
 the topic 'POLICY'
   has the topic statistic 'topic-person-stat:POLICY-susan_eisenbach' as topic statistic.
 
 the topic 'coalition'
   has the topic statistic 'topic-person-stat:coalition-graham_bent' as topic statistic.
+
+the topic 'sensor mission matching'
+  has the topic statistic 'topic-org-stat:sensor mission matching-Imperial' as topic statistic.
 
 the topic 'wireless sensor network'
   has the topic statistic 'topic-person-stat:wireless sensor network-edith_ngai' as topic statistic.
@@ -665,6 +677,9 @@ the topic 'controlled english'
 
 the topic 'coalition'
   has the topic statistic 'topic-person-stat:coalition-ramin_khalili' as topic statistic.
+
+the topic 'sensor mission matching'
+  has the topic statistic 'topic-person-stat:sensor mission matching-alun_preece' as topic statistic.
 
 the topic 'cryptography'
   has the topic statistic 'topic-org-stat:cryptography-Virginia Commonwealth University' as topic statistic.
@@ -800,6 +815,9 @@ the topic 'POLICY'
 
 the topic 'VANET'
   has the topic statistic 'topic-org-stat:VANET-University of Karlsruhe' as topic statistic.
+
+the topic 'sensor mission matching'
+  has the topic statistic 'topic-person-stat:sensor mission matching-dave_braines' as topic statistic.
 
 the topic 'wireless sensor network'
   has the topic statistic 'topic-person-stat:wireless sensor network-mark_lisee' as topic statistic.
@@ -1065,6 +1083,9 @@ the topic 'MANET'
 the topic 'POLICY'
   has the topic statistic 'topic-person-stat:POLICY-mairi_mccallum' as topic statistic.
 
+the topic 'sensor mission matching'
+  has the topic statistic 'topic-person-stat:sensor mission matching-hosam_rowaihy' as topic statistic.
+
 the topic 'argumentation'
   has the topic statistic 'topic-person-stat:argumentation-hengfei_li' as topic statistic.
 
@@ -1098,6 +1119,9 @@ the topic 'coalition'
 the topic 'in-network aggregation'
   has the topic statistic 'topic-person-stat:in-network aggregation-chatschik_bisdikian' as topic statistic.
 
+the topic 'sensor mission matching'
+  has the topic statistic 'topic-org-stat:sensor mission matching-Roke' as topic statistic.
+
 the topic 'edgware fabric'
   has the topic statistic 'topic-person-stat:edgware fabric-timothy_norman' as topic statistic.
 
@@ -1121,6 +1145,9 @@ the topic 'sensor network'
 
 the topic 'FUSION'
   has the topic statistic 'topic-person-stat:FUSION-rob_young' as topic statistic.
+
+the topic 'sensor mission matching'
+  has the topic statistic 'topic-person-stat:sensor mission matching-christopher_gibson' as topic statistic.
 
 the topic 'sensor network'
   has the topic statistic 'topic-person-stat:sensor network-syed_yousaf_shah' as topic statistic.
@@ -1157,6 +1184,9 @@ the topic 'POLICY'
 
 the topic 'disruption-tolerant network'
   has the topic statistic 'topic-person-stat:disruption-tolerant network-biao_zhou' as topic statistic.
+
+the topic 'sensor mission matching'
+  has the topic statistic 'topic-person-stat:sensor mission matching-alberto_medina' as topic statistic.
 
 the topic 'decision making'
   has the topic statistic 'topic-person-stat:decision making-alberto_schaeffer-filho' as topic statistic.
@@ -1224,6 +1254,9 @@ the topic 'semantic web'
 the topic 'POLICY'
   has the topic statistic 'topic-org-stat:POLICY-Princeton' as topic statistic.
 
+the topic 'sensor mission matching'
+  has the topic statistic 'topic-person-stat:sensor mission matching-timothy_norman' as topic statistic.
+
 the topic 'shared understanding'
   has the topic statistic 'topic-person-stat:shared understanding-stephan_eidenbenz' as topic statistic.
 
@@ -1238,6 +1271,9 @@ the topic 'ontologies'
 
 the topic 'sensor network'
   has the topic statistic 'topic-person-stat:sensor network-craig_gentry' as topic statistic.
+
+the topic 'sensor mission matching'
+  has the topic statistic 'topic-person-stat:sensor mission matching-derek_sleeman' as topic statistic.
 
 the topic 'MANET'
   has the topic statistic 'topic-org-stat:MANET-Yonsei University, Korea' as topic statistic.
@@ -1401,6 +1437,9 @@ the topic 'controlled natural language'
 the topic 'sensemaking'
   has the topic statistic 'topic-person-stat:sensemaking-martin_innes' as topic statistic.
 
+the topic 'sensor mission matching'
+  has the topic statistic 'topic-person-stat:sensor mission matching-thomas_laporta' as topic statistic.
+
 the topic 'controlled natural language'
   has the topic statistic 'topic-person-stat:controlled natural language-li_ding' as topic statistic.
 
@@ -1436,6 +1475,9 @@ the topic 'MANET'
 
 the topic 'controlled english'
   has the topic statistic 'topic-person-stat:controlled english-alun_preece' as topic statistic.
+
+the topic 'sensor mission matching'
+  has the topic statistic 'topic-person-stat:sensor mission matching-diego_pizzocaro' as topic statistic.
 
 the topic 'MANET'
   has the topic statistic 'topic-org-stat:MANET-ARA' as topic statistic.
@@ -1553,6 +1595,9 @@ the topic 'controlled natural language'
 
 the topic 'POLICY'
   has the topic statistic 'topic-org-stat:POLICY-RPI' as topic statistic.
+
+the topic 'sensor mission matching'
+  has the topic statistic 'topic-person-stat:sensor mission matching-wamberto_vasconcelos' as topic statistic.
 
 the topic 'POLICY'
   has the topic statistic 'topic-person-stat:POLICY-jiefei_ma' as topic statistic.
@@ -1980,6 +2025,9 @@ the topic 'MANET'
 the topic 'coalition'
   has the topic statistic 'topic-org-stat:coalition-CMU' as topic statistic.
 
+the topic 'sensor mission matching'
+  has the topic statistic 'topic-person-stat:sensor mission matching-andy_stanford-clark' as topic statistic.
+
 the topic 'sensor network'
   has the topic statistic 'topic-org-stat:sensor network-UniAberdeen' as topic statistic.
 
@@ -2001,6 +2049,9 @@ the topic 'coalition'
 the topic 'coalition'
   has the topic statistic 'topic-person-stat:coalition-timothy_norman' as topic statistic.
 
+the topic 'sensor mission matching'
+  has the topic statistic 'topic-person-stat:sensor mission matching-eskindir_asmare' as topic statistic.
+
 the topic 'POLICY'
   has the topic statistic 'topic-person-stat:POLICY-charles_morisset' as topic statistic.
 
@@ -2018,6 +2069,9 @@ the topic 'POLICY'
 
 the topic 'POLICY'
   has the topic statistic 'topic-org-stat:POLICY-Imperial' as topic statistic.
+
+the topic 'sensor mission matching'
+  has the topic statistic 'topic-person-stat:sensor mission matching-tien_pham' as topic statistic.
 
 the topic 'argumentation'
   has the topic statistic 'topic-person-stat:argumentation-munindar_singh' as topic statistic.
@@ -2196,6 +2250,9 @@ the topic 'planning'
 the topic 'argumentation'
   has the topic statistic 'topic-org-stat:argumentation-Honeywell' as topic statistic.
 
+the topic 'sensor mission matching'
+  has the topic statistic 'topic-org-stat:sensor mission matching-PennState' as topic statistic.
+
 the topic 'wireless sensor network'
   has the topic statistic 'topic-person-stat:wireless sensor network-erol_gelenbe' as topic statistic.
 
@@ -2211,6 +2268,9 @@ the topic 'planning'
 the topic 'shared understanding'
   has the topic statistic 'topic-person-stat:shared understanding-john_allen' as topic statistic.
 
+the topic 'sensor mission matching'
+  has the topic statistic 'topic-org-stat:sensor mission matching-IBM-UK' as topic statistic.
+
 the topic 'MANET'
   has the topic statistic 'topic-person-stat:MANET-alessandra_russo' as topic statistic.
 
@@ -2225,6 +2285,9 @@ the topic 'MANET'
 
 the topic 'argumentation'
   has the topic statistic 'topic-person-stat:argumentation-emil_lupu' as topic statistic.
+
+the topic 'sensor mission matching'
+  has the topic statistic 'topic-org-stat:sensor mission matching-IBM-US' as topic statistic.
 
 the topic 'sensor network'
   has the topic statistic 'topic-person-stat:sensor network-prithwish_basu' as topic statistic.
@@ -2271,6 +2334,9 @@ the topic 'planning'
 the topic 'wireless sensor network'
   has the topic statistic 'topic-person-stat:wireless sensor network-lance_kaplan' as topic statistic.
 
+the topic 'sensor mission matching'
+  has the topic statistic 'topic-person-stat:sensor mission matching-matthew_johnson' as topic statistic.
+
 the topic 'decision making'
   has the topic statistic 'topic-person-stat:decision making-clare-marie_karat' as topic statistic.
 
@@ -2279,6 +2345,9 @@ the topic 'planning'
 
 the topic 'sensor network'
   has the topic statistic 'topic-person-stat:sensor network-asser_tantawi' as topic statistic.
+
+the topic 'sensor mission matching'
+  has the topic statistic 'topic-person-stat:sensor mission matching-ted_brown' as topic statistic.
 
 the topic 'multihop'
   has the topic statistic 'topic-person-stat:multihop-patrick_thiran' as topic statistic.
@@ -2439,6 +2508,9 @@ the topic 'POLICY'
 the topic 'semantic web'
   has the topic statistic 'topic-org-stat:semantic web-UniSoton' as topic statistic.
 
+the topic 'sensor mission matching'
+  has the topic statistic 'topic-person-stat:sensor mission matching-ting_wang' as topic statistic.
+
 the topic 'shared understanding'
   has the topic statistic 'topic-org-stat:shared understanding-IBM-US' as topic statistic.
 
@@ -2471,6 +2543,9 @@ the topic 'planning'
 
 the topic 'argumentation'
   has the topic statistic 'topic-person-stat:argumentation-mudhakar_srivatsa' as topic statistic.
+
+the topic 'sensor mission matching'
+  has the topic statistic 'topic-person-stat:sensor mission matching-emil_lupu' as topic statistic.
 
 the topic 'decision making'
   has the topic statistic 'topic-person-stat:decision making-cheryl_giammanco' as topic statistic.
@@ -2514,6 +2589,9 @@ the topic 'multihop'
 the topic 'controlled english'
   has the topic statistic 'topic-person-stat:controlled english-colin_roberts' as topic statistic.
 
+the topic 'sensor mission matching'
+  has the topic statistic 'topic-org-stat:sensor mission matching-SEA' as topic statistic.
+
 the topic 'coalition'
   has the topic statistic 'topic-person-stat:coalition-mike_strub' as topic statistic.
 
@@ -2534,6 +2612,9 @@ the topic 'decision making'
 
 the topic 'POLICY'
   has the topic statistic 'topic-person-stat:POLICY-patrick_dantressangle' as topic statistic.
+
+the topic 'sensor mission matching'
+  has the topic statistic 'topic-person-stat:sensor mission matching-howard_tripp' as topic statistic.
 
 the topic 'POLICY'
   has the topic statistic 'topic-org-stat:POLICY-CWI, Amsterdam' as topic statistic.
@@ -2688,6 +2769,9 @@ the topic 'coalition'
 the topic 'POLICY'
   has the topic statistic 'topic-person-stat:POLICY-tom_berman' as topic statistic.
 
+the topic 'sensor mission matching'
+  has the topic statistic 'topic-org-stat:sensor mission matching-CardiffUni' as topic statistic.
+
 the topic 'controlled natural language'
   has the topic statistic 'topic-org-stat:controlled natural language-UniSoton' as topic statistic.
 
@@ -2823,11 +2907,17 @@ the topic 'gaian'
 the topic 'controlled natural language'
   has the topic statistic 'topic-person-stat:controlled natural language-diego_pizzocaro' as topic statistic.
 
+the topic 'sensor mission matching'
+  has the topic statistic 'topic-person-stat:sensor mission matching-geeth_de_mel' as topic statistic.
+
 the topic 'planning'
   has the topic statistic 'topic-org-stat:planning-IBM-US' as topic statistic.
 
 the topic 'edgware fabric'
   has the topic statistic 'topic-person-stat:edgware fabric-joel_wright' as topic statistic.
+
+the topic 'sensor mission matching'
+  has the topic statistic 'topic-org-stat:sensor mission matching-Georgia Institute of Technology' as topic statistic.
 
 the topic 'ontologies'
   has the topic statistic 'topic-person-stat:ontologies-joel_wright' as topic statistic.
@@ -2846,6 +2936,9 @@ the topic 'POLICY'
 
 the topic 'coalition'
   has the topic statistic 'topic-person-stat:coalition-konrad_borowiecki' as topic statistic.
+
+the topic 'sensor mission matching'
+  has the topic statistic 'topic-org-stat:sensor mission matching-BBN' as topic statistic.
 
 the topic 'sensor network'
   has the topic statistic 'topic-org-stat:sensor network-Honeywell' as topic statistic.
@@ -3048,6 +3141,9 @@ the topic 'tactical networks'
 the topic 'controlled natural language'
   has the topic statistic 'topic-org-stat:controlled natural language-CardiffUni' as topic statistic.
 
+the topic 'sensor mission matching'
+  has the topic statistic 'topic-person-stat:sensor mission matching-ling_liu' as topic statistic.
+
 the topic 'semantic web'
   has the topic statistic 'topic-person-stat:semantic web-mudhakar_srivatsa' as topic statistic.
 
@@ -3056,6 +3152,9 @@ the topic 'POLICY'
 
 the topic 'wireless sensor network'
   has the topic statistic 'topic-org-stat:wireless sensor network-ARL' as topic statistic.
+
+the topic 'sensor mission matching'
+  has the topic statistic 'topic-person-stat:sensor mission matching-mike_jackson' as topic statistic.
 
 the topic 'MANET'
   has the topic statistic 'topic-person-stat:MANET-sevil_sen' as topic statistic.
@@ -3678,6 +3777,9 @@ the topic 'sensor network'
 the topic 'cryptography'
   has the topic statistic 'topic-person-stat:cryptography-aishwarya_thiruvengadam' as topic statistic.
 
+the topic 'sensor mission matching'
+  has the topic statistic 'topic-person-stat:sensor mission matching-david_mott' as topic statistic.
+
 the topic 'POLICY'
   has the topic statistic 'topic-person-stat:POLICY-nishanth_alapati' as topic statistic.
 
@@ -3945,6 +4047,9 @@ the topic 'planning'
 the topic 'sensor network'
   has the topic statistic 'topic-person-stat:sensor network-kin_leung' as topic statistic.
 
+the topic 'sensor mission matching'
+  has the topic statistic 'topic-org-stat:sensor mission matching-CUNY' as topic statistic.
+
 the topic 'POLICY'
   has the topic statistic 'topic-person-stat:POLICY-ian_molly' as topic statistic.
 
@@ -4044,6 +4149,9 @@ the topic 'sensor network'
 the topic 'FUSION'
   has the topic statistic 'topic-person-stat:FUSION-nigel_shadbolt' as topic statistic.
 
+the topic 'sensor mission matching'
+  has the topic statistic 'topic-person-stat:sensor mission matching-thao_le' as topic statistic.
+
 the topic 'tactical networks'
   has the topic statistic 'topic-person-stat:tactical networks-ting_he' as topic statistic.
 
@@ -4127,6 +4235,9 @@ the topic 'MANET'
 
 the topic 'tactical networks'
   has the topic statistic 'topic-org-stat:tactical networks-IBM-UK' as topic statistic.
+
+the topic 'sensor mission matching'
+  has the topic statistic 'topic-person-stat:sensor mission matching-mario_gomez' as topic statistic.
 
 the topic 'ontologies'
   has the topic statistic 'topic-person-stat:ontologies-stuart_chalmers' as topic statistic.
@@ -4563,6 +4674,9 @@ the topic 'wireless sensor network'
 the topic 'POLICY'
   has the topic statistic 'topic-person-stat:POLICY-achille_fokoue' as topic statistic.
 
+the topic 'sensor mission matching'
+  has the topic statistic 'topic-org-stat:sensor mission matching-DSTL' as topic statistic.
+
 the topic 'POLICY'
   has the topic statistic 'topic-person-stat:POLICY-katia_sycara' as topic statistic.
 
@@ -4695,6 +4809,9 @@ the topic 'sensor network'
 the topic 'controlled english'
   has the topic statistic 'topic-person-stat:controlled english-christos_parizas' as topic statistic.
 
+the topic 'sensor mission matching'
+  has the topic statistic 'topic-person-stat:sensor mission matching-gonca_gursun' as topic statistic.
+
 the topic 'coalition'
   has the topic statistic 'topic-person-stat:coalition-jim_kurose' as topic statistic.
 
@@ -4805,6 +4922,9 @@ the topic 'gaian'
 
 the topic 'sensor network'
   has the topic statistic 'topic-person-stat:sensor network-mandis_beigi' as topic statistic.
+
+the topic 'sensor mission matching'
+  has the topic statistic 'topic-org-stat:sensor mission matching-Boston University' as topic statistic.
 
 the topic 'argumentation'
   has the topic statistic 'topic-person-stat:argumentation-wentao_ouyang' as topic statistic.
@@ -5085,6 +5205,9 @@ the topic 'semantic web'
 the topic 'disruption-tolerant network'
   has the topic statistic 'topic-person-stat:disruption-tolerant network-ting_he' as topic statistic.
 
+the topic 'sensor mission matching'
+  has the topic statistic 'topic-org-stat:sensor mission matching-ARL' as topic statistic.
+
 the topic 'sensor network'
   has the topic statistic 'topic-person-stat:sensor network-kamil_wasilewski' as topic statistic.
 
@@ -5132,6 +5255,9 @@ the topic 'sensor network'
 
 the topic 'subjective logic'
   has the topic statistic 'topic-person-stat:subjective logic-chatschik_bisdikian' as topic statistic.
+
+the topic 'sensor mission matching'
+  has the topic statistic 'topic-person-stat:sensor mission matching-morris_sloman' as topic statistic.
 
 the topic 'controlled english'
   has the topic statistic 'topic-org-stat:controlled english-ARL' as topic statistic.
@@ -5562,6 +5688,9 @@ the topic 'FUSION'
 the topic 'decision making'
   has the topic statistic 'topic-person-stat:decision making-jon_bakdash' as topic statistic.
 
+the topic 'sensor mission matching'
+  has the topic statistic 'topic-person-stat:sensor mission matching-ibrahim_matta' as topic statistic.
+
 the topic 'sensor network'
   has the topic statistic 'topic-person-stat:sensor network-xiping_wang' as topic statistic.
 
@@ -5598,6 +5727,9 @@ the topic 'ontologies'
 the topic 'POLICY'
   has the topic statistic 'topic-person-stat:POLICY-saikat_guha' as topic statistic.
 
+the topic 'sensor mission matching'
+  has the topic statistic 'topic-person-stat:sensor mission matching-stuart_colley' as topic statistic.
+
 the topic 'tactical networks'
   has the topic statistic 'topic-org-stat:tactical networks-PennState' as topic statistic.
 
@@ -5609,6 +5741,9 @@ the topic 'argumentation'
 
 the topic 'culture'
   has the topic statistic 'topic-org-stat:culture-SEA' as topic statistic.
+
+the topic 'sensor mission matching'
+  has the topic statistic 'topic-person-stat:sensor mission matching-prithwish_basu' as topic statistic.
 
 the topic 'in-network aggregation'
   has the topic statistic 'topic-org-stat:in-network aggregation-IBM-US' as topic statistic.
@@ -5648,6 +5783,9 @@ the topic 'POLICY'
 
 the topic 'sensemaking'
   has the topic statistic 'topic-person-stat:sensemaking-alice_toniolo' as topic statistic.
+
+the topic 'sensor mission matching'
+  has the topic statistic 'topic-org-stat:sensor mission matching-UniAberdeen' as topic statistic.
 
 the topic 'POLICY'
   has the topic statistic 'topic-person-stat:POLICY-jorge_lobo' as topic statistic.
@@ -5961,6 +6099,9 @@ the topic 'sensor network'
 the topic 'shared understanding'
   has the topic statistic 'topic-person-stat:shared understanding-giovanni_pau' as topic statistic.
 
+the topic 'sensor mission matching'
+  has the topic statistic 'topic-person-stat:sensor mission matching-gavin_pearson' as topic statistic.
+
 the topic 'sensor network'
   has the topic statistic 'topic-org-stat:sensor network-SEA' as topic statistic.
 
@@ -5969,6 +6110,9 @@ the topic 'wireless sensor network'
 
 the topic 'POLICY'
   has the topic statistic 'topic-person-stat:POLICY-thomas_markham' as topic statistic.
+
+the topic 'sensor mission matching'
+  has the topic statistic 'topic-person-stat:sensor mission matching-flavio_bergamaschi' as topic statistic.
 
 the topic 'cryptography'
   has the topic statistic 'topic-org-stat:cryptography-University of Toronto' as topic statistic.
@@ -6045,11 +6189,17 @@ the topic 'in-network aggregation'
 the topic 'decision making'
   has the topic statistic 'topic-person-stat:decision making-don_morrison' as topic statistic.
 
+the topic 'sensor mission matching'
+  has the topic statistic 'topic-person-stat:sensor mission matching-seraphin_calo' as topic statistic.
+
 the topic 'NUM'
   has the topic statistic 'topic-person-stat:NUM-scott_rager' as topic statistic.
 
 the topic 'POLICY'
   has the topic statistic 'topic-person-stat:POLICY-alexander_wolf' as topic statistic.
+
+the topic 'sensor mission matching'
+  has the topic statistic 'topic-person-stat:sensor mission matching-mudhakar_srivatsa' as topic statistic.
 
 the topic 'sensor network'
   has the topic statistic 'topic-person-stat:sensor network-chai_wah_wu' as topic statistic.
@@ -6059,6 +6209,9 @@ the topic 'verifiable computation'
 
 the topic 'miscommunication'
   has the topic statistic 'topic-org-stat:miscommunication-UniSoton' as topic statistic.
+
+the topic 'sensor mission matching'
+  has the topic statistic 'topic-person-stat:sensor mission matching-naranker_dulay' as topic statistic.
 
 the topic 'multihop'
   has the topic statistic 'topic-org-stat:multihop-UniCambridge' as topic statistic.
@@ -6663,6 +6816,9 @@ the topic 'culture'
 the topic 'POLICY'
   has the topic statistic 'topic-person-stat:POLICY-carolyn_brodie' as topic statistic.
 
+the topic 'sensor mission matching'
+  has the topic statistic 'topic-person-stat:sensor mission matching-dave_conway_jones' as topic statistic.
+
 the topic 'tactical networks'
   has the topic statistic 'topic-person-stat:tactical networks-ryan_irwin' as topic statistic.
 
@@ -6776,6 +6932,9 @@ the topic 'FHE'
 
 the topic 'disruption-tolerant network'
   has the topic statistic 'topic-org-stat:disruption-tolerant network-RPI' as topic statistic.
+
+the topic 'sensor mission matching'
+  has the topic statistic 'topic-person-stat:sensor mission matching-konrad_borowiecki' as topic statistic.
 
 the topic 'shared understanding'
   has the topic statistic 'topic-person-stat:shared understanding-trung_dong_huynh' as topic statistic.
@@ -7062,6 +7221,9 @@ the person 'seung_choi'
 the person 'sisi_liu'
   has the topic-person statistic 'topic-person-stat:MANET-sisi_liu' as topic-person statistic.
 
+the person 'dave_conway_jones'
+  has the topic-person statistic 'topic-person-stat:sensor mission matching-dave_conway_jones' as topic-person statistic.
+
 the person 'shai_halevi'
   has the topic-person statistic 'topic-person-stat:sensor network-shai_halevi' as topic-person statistic.
 
@@ -7070,6 +7232,9 @@ the person 'ian_molloy'
 
 the person 'keith_grueneberg'
   has the topic-person statistic 'topic-person-stat:edgware fabric-keith_grueneberg' as topic-person statistic.
+
+the person 'naranker_dulay'
+  has the topic-person statistic 'topic-person-stat:sensor mission matching-naranker_dulay' as topic-person statistic.
 
 the person 'paul_karger'
   has the topic-person statistic 'topic-person-stat:MANET-paul_karger' as topic-person statistic.
@@ -7188,6 +7353,9 @@ the person 'tien_pham'
 the person 'anand_seetharam'
   has the topic-person statistic 'topic-person-stat:MANET-anand_seetharam' as topic-person statistic.
 
+the person 'thomas_laporta'
+  has the topic-person statistic 'topic-person-stat:sensor mission matching-thomas_laporta' as topic-person statistic.
+
 the person 'wamberto_vasconcelos'
   has the topic-person statistic 'topic-person-stat:knowledge base-wamberto_vasconcelos' as topic-person statistic.
 
@@ -7223,6 +7391,9 @@ the person 'pau-chen_cheng'
 
 the person 'siddharth_mehrotra'
   has the topic-person statistic 'topic-person-stat:planning-siddharth_mehrotra' as topic-person statistic.
+
+the person 'wamberto_vasconcelos'
+  has the topic-person statistic 'topic-person-stat:sensor mission matching-wamberto_vasconcelos' as topic-person statistic.
 
 the person 'srikar_tati'
   has the topic-person statistic 'topic-person-stat:tactical networks-srikar_tati' as topic-person statistic.
@@ -7523,6 +7694,9 @@ the person 'ting_he'
 
 the person 'luiz_filipe_vieira'
   has the topic-person statistic 'topic-person-stat:rate diversity-luiz_filipe_vieira' as topic-person statistic.
+
+the person 'ting_wang'
+  has the topic-person statistic 'topic-person-stat:sensor mission matching-ting_wang' as topic-person statistic.
 
 the person 'jie_bao'
   has the topic-person statistic 'topic-person-stat:ontologies-jie_bao' as topic-person statistic.
@@ -8013,6 +8187,9 @@ the person 'ting_he'
 the person 'elaine_shi'
   has the topic-person statistic 'topic-person-stat:verifiable computation-elaine_shi' as topic-person statistic.
 
+the person 'dave_braines'
+  has the topic-person statistic 'topic-person-stat:sensor mission matching-dave_braines' as topic-person statistic.
+
 the person 'zev_klagsbrun'
   has the topic-person statistic 'topic-person-stat:MANET-zev_klagsbrun' as topic-person statistic.
 
@@ -8369,6 +8546,9 @@ the person 'katia_sycara'
 
 the person 'zijian_wang'
   has the topic-person statistic 'topic-person-stat:disruption-tolerant network-zijian_wang' as topic-person statistic.
+
+the person 'seraphin_calo'
+  has the topic-person statistic 'topic-person-stat:sensor mission matching-seraphin_calo' as topic-person statistic.
 
 the person 'tharmalingam_ratnarajah'
   has the topic-person statistic 'topic-person-stat:network coding-tharmalingam_ratnarajah' as topic-person statistic.
@@ -8730,6 +8910,9 @@ the person 'gita_sukthankar'
 the person 'irena_spasic'
   has the topic-person statistic 'topic-person-stat:sensemaking-irena_spasic' as topic-person statistic.
 
+the person 'mike_jackson'
+  has the topic-person statistic 'topic-person-stat:sensor mission matching-mike_jackson' as topic-person statistic.
+
 the person 'mandis_beigi'
   has the topic-person statistic 'topic-person-stat:coalition-mandis_beigi' as topic-person statistic.
 
@@ -8964,8 +9147,14 @@ the person 'morris_sloman'
 the person 'walt_heimerdinger'
   has the topic-person statistic 'topic-person-stat:coalition-walt_heimerdinger' as topic-person statistic.
 
+the person 'mudhakar_srivatsa'
+  has the topic-person statistic 'topic-person-stat:sensor mission matching-mudhakar_srivatsa' as topic-person statistic.
+
 the person 'giovanni_pau'
   has the topic-person statistic 'topic-person-stat:network coding-giovanni_pau' as topic-person statistic.
+
+the person 'ibrahim_matta'
+  has the topic-person statistic 'topic-person-stat:sensor mission matching-ibrahim_matta' as topic-person statistic.
 
 the person 'iris_fermin'
   has the topic-person statistic 'topic-person-stat:decision making-iris_fermin' as topic-person statistic.
@@ -8987,6 +9176,9 @@ the person 'mudhakar_srivatsa'
 
 the person 'andrew_mcdonald'
   has the topic-person statistic 'topic-person-stat:MANET-andrew_mcdonald' as topic-person statistic.
+
+the person 'prithwish_basu'
+  has the topic-person statistic 'topic-person-stat:sensor mission matching-prithwish_basu' as topic-person statistic.
 
 the person 'christopher_gibson'
   has the topic-person statistic 'topic-person-stat:ontologies-christopher_gibson' as topic-person statistic.
@@ -9107,6 +9299,12 @@ the person 'tim_dropps'
 
 the person 'stuart_colley'
   has the topic-person statistic 'topic-person-stat:planning-stuart_colley' as topic-person statistic.
+
+the person 'stuart_colley'
+  has the topic-person statistic 'topic-person-stat:sensor mission matching-stuart_colley' as topic-person statistic.
+
+the person 'alun_preece'
+  has the topic-person statistic 'topic-person-stat:sensor mission matching-alun_preece' as topic-person statistic.
 
 the person 'felipe_meneguzzi'
   has the topic-person statistic 'topic-person-stat:coalition-felipe_meneguzzi' as topic-person statistic.
@@ -9240,6 +9438,9 @@ the person 'ping_xue'
 the person 'seraphin_calo'
   has the topic-person statistic 'topic-person-stat:POLICY-seraphin_calo' as topic-person statistic.
 
+the person 'robert_hancock'
+  has the topic-person statistic 'topic-person-stat:sensor mission matching-robert_hancock' as topic-person statistic.
+
 the person 'bong_jun_ko'
   has the topic-person statistic 'topic-person-stat:wireless sensor network-bong_jun_ko' as topic-person statistic.
 
@@ -9252,8 +9453,14 @@ the person 'alun_preece'
 the person 'diego_pizzocaro'
   has the topic-person statistic 'topic-person-stat:knowledge base-diego_pizzocaro' as topic-person statistic.
 
+the person 'mario_gomez'
+  has the topic-person statistic 'topic-person-stat:sensor mission matching-mario_gomez' as topic-person statistic.
+
 the person 'chatschik_bisdikian'
   has the topic-person statistic 'topic-person-stat:subjective logic-chatschik_bisdikian' as topic-person statistic.
+
+the person 'alberto_medina'
+  has the topic-person statistic 'topic-person-stat:sensor mission matching-alberto_medina' as topic-person statistic.
 
 the person 'nan_hu'
   has the topic-person statistic 'topic-person-stat:sensor network-nan_hu' as topic-person statistic.
@@ -9266,6 +9473,9 @@ the person 'dinesh_verma'
 
 the person 'mario_gomez'
   has the topic-person statistic 'topic-person-stat:coalition-mario_gomez' as topic-person statistic.
+
+the person 'morris_sloman'
+  has the topic-person statistic 'topic-person-stat:sensor mission matching-morris_sloman' as topic-person statistic.
 
 the person 'felipe_meneguzzi'
   has the topic-person statistic 'topic-person-stat:subjective logic-felipe_meneguzzi' as topic-person statistic.
@@ -9420,6 +9630,9 @@ the person 'saritha_arunkumar'
 the person 'flavio_bergamaschi'
   has the topic-person statistic 'topic-person-stat:wireless sensor network-flavio_bergamaschi' as topic-person statistic.
 
+the person 'jorge_lobo'
+  has the topic-person statistic 'topic-person-stat:sensor mission matching-jorge_lobo' as topic-person statistic.
+
 the person 'hosam_rowaihy'
   has the topic-person statistic 'topic-person-stat:wireless sensor network-hosam_rowaihy' as topic-person statistic.
 
@@ -9519,6 +9732,9 @@ the person 'timothy_norman'
 the person 'sharanya_eswaran'
   has the topic-person statistic 'topic-person-stat:tactical networks-sharanya_eswaran' as topic-person statistic.
 
+the person 'geeth_de_mel'
+  has the topic-person statistic 'topic-person-stat:sensor mission matching-geeth_de_mel' as topic-person statistic.
+
 the person 'daniele_masato'
   has the topic-person statistic 'topic-person-stat:shared understanding-daniele_masato' as topic-person statistic.
 
@@ -9554,6 +9770,9 @@ the person 'mingyi_zhao'
 
 the person 'peng_liu'
   has the topic-person statistic 'topic-person-stat:gaian-peng_liu' as topic-person statistic.
+
+the person 'gonca_gursun'
+  has the topic-person statistic 'topic-person-stat:sensor mission matching-gonca_gursun' as topic-person statistic.
 
 the person 'alessandra_russo'
   has the topic-person statistic 'topic-person-stat:planning-alessandra_russo' as topic-person statistic.
@@ -9701,6 +9920,9 @@ the person 'felipe_meneguzzi'
 
 the person 'peng_liu'
   has the topic-person statistic 'topic-person-stat:wireless sensor network-peng_liu' as topic-person statistic.
+
+the person 'ted_brown'
+  has the topic-person statistic 'topic-person-stat:sensor mission matching-ted_brown' as topic-person statistic.
 
 the person 'jun_yuan'
   has the topic-person statistic 'topic-person-stat:culture-jun_yuan' as topic-person statistic.
@@ -9897,6 +10119,9 @@ the person 'george_tychogiorgos'
 the person 'timothy_norman'
   has the topic-person statistic 'topic-person-stat:sensemaking-timothy_norman' as topic-person statistic.
 
+the person 'hosam_rowaihy'
+  has the topic-person statistic 'topic-person-stat:sensor mission matching-hosam_rowaihy' as topic-person statistic.
+
 the person 'thomas_laporta'
   has the topic-person statistic 'topic-person-stat:NUM-thomas_laporta' as topic-person statistic.
 
@@ -9948,6 +10173,9 @@ the person 'ryan_pressley'
 the person 'joon-sang_park'
   has the topic-person statistic 'topic-person-stat:VANET-joon-sang_park' as topic-person statistic.
 
+the person 'eskindir_asmare'
+  has the topic-person statistic 'topic-person-stat:sensor mission matching-eskindir_asmare' as topic-person statistic.
+
 the person 'emma_jones'
   has the topic-person statistic 'topic-person-stat:MANET-emma_jones' as topic-person statistic.
 
@@ -9971,6 +10199,9 @@ the person 'jon_katz'
 
 the person 'timothy_norman'
   has the topic-person statistic 'topic-person-stat:subjective logic-timothy_norman' as topic-person statistic.
+
+the person 'timothy_norman'
+  has the topic-person statistic 'topic-person-stat:sensor mission matching-timothy_norman' as topic-person statistic.
 
 the person 'christopher_morrell'
   has the topic-person statistic 'topic-person-stat:FHE-christopher_morrell' as topic-person statistic.
@@ -10022,6 +10253,9 @@ the person 'james_alderman'
 
 the person 'dave_braines'
   has the topic-person statistic 'topic-person-stat:semantic wiki-dave_braines' as topic-person statistic.
+
+the person 'david_mott'
+  has the topic-person statistic 'topic-person-stat:sensor mission matching-david_mott' as topic-person statistic.
 
 the person 'murtaza_zafer'
   has the topic-person statistic 'topic-person-stat:sensor network-murtaza_zafer' as topic-person statistic.
@@ -10109,6 +10343,9 @@ the person 'mike_hicks'
 
 the person 'mark_nixon'
   has the topic-person statistic 'topic-person-stat:planning-mark_nixon' as topic-person statistic.
+
+the person 'amotz_bar_noy'
+  has the topic-person statistic 'topic-person-stat:sensor mission matching-amotz_bar_noy' as topic-person statistic.
 
 the person 'diego_pizzocaro'
   has the topic-person statistic 'topic-person-stat:controlled natural language-diego_pizzocaro' as topic-person statistic.
@@ -10428,6 +10665,9 @@ the person 'eyuphan_bulut'
 the person 'john_mcdermid'
   has the topic-person statistic 'topic-person-stat:coalition-john_mcdermid' as topic-person statistic.
 
+the person 'flavio_bergamaschi'
+  has the topic-person statistic 'topic-person-stat:sensor mission matching-flavio_bergamaschi' as topic-person statistic.
+
 the person 'ping_xue'
   has the topic-person statistic 'topic-person-stat:ontologies-ping_xue' as topic-person statistic.
 
@@ -10493,6 +10733,9 @@ the person 'biao_zhou'
 
 the person 'carolyn_brodie'
   has the topic-person statistic 'topic-person-stat:POLICY-carolyn_brodie' as topic-person statistic.
+
+the person 'matthew_johnson'
+  has the topic-person statistic 'topic-person-stat:sensor mission matching-matthew_johnson' as topic-person statistic.
 
 the person 'mark_nixon'
   has the topic-person statistic 'topic-person-stat:sensor network-mark_nixon' as topic-person statistic.
@@ -10917,6 +11160,9 @@ the person 'xuefeng_gao'
 the person 'roman_koch'
   has the topic-person statistic 'topic-person-stat:sensor network-roman_koch' as topic-person statistic.
 
+the person 'thao_le'
+  has the topic-person statistic 'topic-person-stat:sensor mission matching-thao_le' as topic-person statistic.
+
 the person 'don_towsley'
   has the topic-person statistic 'topic-person-stat:cryptography-don_towsley' as topic-person statistic.
 
@@ -10937,6 +11183,9 @@ the person 'murat_sensoy'
 
 the person 'nikoletta_sofra'
   has the topic-person statistic 'topic-person-stat:disruption-tolerant network-nikoletta_sofra' as topic-person statistic.
+
+the person 'howard_tripp'
+  has the topic-person statistic 'topic-person-stat:sensor mission matching-howard_tripp' as topic-person statistic.
 
 the person 'nikoletta_sofra'
   has the topic-person statistic 'topic-person-stat:MANET-nikoletta_sofra' as topic-person statistic.
@@ -10989,6 +11238,9 @@ the person 'geeth_de_mel'
 the person 'junning_liu'
   has the topic-person statistic 'topic-person-stat:network coding-junning_liu' as topic-person statistic.
 
+the person 'ling_liu'
+  has the topic-person statistic 'topic-person-stat:sensor mission matching-ling_liu' as topic-person statistic.
+
 the person 'saritha_arunkumar'
   has the topic-person statistic 'topic-person-stat:controlled natural language-saritha_arunkumar' as topic-person statistic.
 
@@ -11004,8 +11256,14 @@ the person 'carlos_cid'
 the person 'david_mott'
   has the topic-person statistic 'topic-person-stat:POLICY-david_mott' as topic-person statistic.
 
+the person 'konrad_borowiecki'
+  has the topic-person statistic 'topic-person-stat:sensor mission matching-konrad_borowiecki' as topic-person statistic.
+
 the person 'jim_hendler'
   has the topic-person statistic 'topic-person-stat:semantic web-jim_hendler' as topic-person statistic.
+
+the person 'tien_pham'
+  has the topic-person statistic 'topic-person-stat:sensor mission matching-tien_pham' as topic-person statistic.
 
 the person 'dave_braines'
   has the topic-person statistic 'topic-person-stat:web 2.0-dave_braines' as topic-person statistic.
@@ -11295,6 +11553,9 @@ the person 'chris_gwilliams'
 the person 'stuart_chalmers'
   has the topic-person statistic 'topic-person-stat:sensor network-stuart_chalmers' as topic-person statistic.
 
+the person 'gavin_pearson'
+  has the topic-person statistic 'topic-person-stat:sensor mission matching-gavin_pearson' as topic-person statistic.
+
 the person 'alun_preece'
   has the topic-person statistic 'topic-person-stat:FUSION-alun_preece' as topic-person statistic.
 
@@ -11573,6 +11834,9 @@ the person 'tom_klapiscak'
 
 the person 'clare-marie_karat'
   has the topic-person statistic 'topic-person-stat:decision making-clare-marie_karat' as topic-person statistic.
+
+the person 'derek_sleeman'
+  has the topic-person statistic 'topic-person-stat:sensor mission matching-derek_sleeman' as topic-person statistic.
 
 the person 'elizabeth_quaglia'
   has the topic-person statistic 'topic-person-stat:cryptography-elizabeth_quaglia' as topic-person statistic.
@@ -12090,6 +12354,9 @@ the person 'diego_pizzocaro'
 the person 'alun_preece'
   has the topic-person statistic 'topic-person-stat:planning-alun_preece' as topic-person statistic.
 
+the person 'diego_pizzocaro'
+  has the topic-person statistic 'topic-person-stat:sensor mission matching-diego_pizzocaro' as topic-person statistic.
+
 the person 'lu_su'
   has the topic-person statistic 'topic-person-stat:POLICY-lu_su' as topic-person statistic.
 
@@ -12219,6 +12486,9 @@ the person 'fangfei_chen'
 the person 'iris_fermin'
   has the topic-person statistic 'topic-person-stat:FUSION-iris_fermin' as topic-person statistic.
 
+the person 'christopher_gibson'
+  has the topic-person statistic 'topic-person-stat:sensor mission matching-christopher_gibson' as topic-person statistic.
+
 the person 'ryan_irwin'
   has the topic-person statistic 'topic-person-stat:coalition-ryan_irwin' as topic-person statistic.
 
@@ -12237,6 +12507,9 @@ the person 'ian_molly'
 the person 'wentao_huang'
   has the topic-person statistic 'topic-person-stat:cryptography-wentao_huang' as topic-person statistic.
 
+the person 'emil_lupu'
+  has the topic-person statistic 'topic-person-stat:sensor mission matching-emil_lupu' as topic-person statistic.
+
 the person 'jon_bakdash'
   has the topic-person statistic 'topic-person-stat:controlled english-jon_bakdash' as topic-person statistic.
 
@@ -12248,6 +12521,9 @@ the person 'balajee_kannan'
 
 the person 'piotr_mardziel'
   has the topic-person statistic 'topic-person-stat:coalition-piotr_mardziel' as topic-person statistic.
+
+the person 'andy_stanford-clark'
+  has the topic-person statistic 'topic-person-stat:sensor mission matching-andy_stanford-clark' as topic-person statistic.
 
 the person 'tien_pham'
   has the topic-person statistic 'topic-person-stat:ontologies-tien_pham' as topic-person statistic.
@@ -12269,6 +12545,9 @@ the organisation 'RPI'
 
 the organisation 'UCLA'
   has the topic-organisation statistic 'topic-org-stat:rate diversity-UCLA' as topic-organisation statistic.
+
+the organisation 'Roke'
+  has the topic-organisation statistic 'topic-org-stat:sensor mission matching-Roke' as topic-organisation statistic.
 
 the organisation 'UniAberdeen'
   has the topic-organisation statistic 'topic-org-stat:ontologies-UniAberdeen' as topic-organisation statistic.
@@ -12420,6 +12699,9 @@ the organisation 'UniSoton'
 the organisation 'IBM-UK'
   has the topic-organisation statistic 'topic-org-stat:decision making-IBM-UK' as topic-organisation statistic.
 
+the organisation 'DSTL'
+  has the topic-organisation statistic 'topic-org-stat:sensor mission matching-DSTL' as topic-organisation statistic.
+
 the organisation 'University of Bologna'
   has the topic-organisation statistic 'topic-org-stat:sensor network-University of Bologna' as topic-organisation statistic.
 
@@ -12461,6 +12743,9 @@ the organisation 'IowaStateUni'
 
 the organisation 'DSTL'
   has the topic-organisation statistic 'topic-org-stat:decision making-DSTL' as topic-organisation statistic.
+
+the organisation 'CardiffUni'
+  has the topic-organisation statistic 'topic-org-stat:sensor mission matching-CardiffUni' as topic-organisation statistic.
 
 the organisation 'University of Alabama'
   has the topic-organisation statistic 'topic-org-stat:POLICY-University of Alabama' as topic-organisation statistic.
@@ -12624,6 +12909,9 @@ the organisation 'Imperial'
 the organisation 'SEA'
   has the topic-organisation statistic 'topic-org-stat:culture-SEA' as topic-organisation statistic.
 
+the organisation 'CUNY'
+  has the topic-organisation statistic 'topic-org-stat:sensor mission matching-CUNY' as topic-organisation statistic.
+
 the organisation 'CardiffUni'
   has the topic-organisation statistic 'topic-org-stat:semantic web-CardiffUni' as topic-organisation statistic.
 
@@ -12777,6 +13065,9 @@ the organisation 'RPI'
 the organisation 'UniAberdeen'
   has the topic-organisation statistic 'topic-org-stat:gaian-UniAberdeen' as topic-organisation statistic.
 
+the organisation 'SEA'
+  has the topic-organisation statistic 'topic-org-stat:sensor mission matching-SEA' as topic-organisation statistic.
+
 the organisation 'IBM-UK'
   has the topic-organisation statistic 'topic-org-stat:tactical networks-IBM-UK' as topic-organisation statistic.
 
@@ -12797,6 +13088,9 @@ the organisation 'Deutsche Telekom Laboratories/TU-Berlin'
 
 the organisation 'EADS'
   has the topic-organisation statistic 'topic-org-stat:coalition-EADS' as topic-organisation statistic.
+
+the organisation 'ARL'
+  has the topic-organisation statistic 'topic-org-stat:sensor mission matching-ARL' as topic-organisation statistic.
 
 the organisation 'Princeton'
   has the topic-organisation statistic 'topic-org-stat:POLICY-Princeton' as topic-organisation statistic.
@@ -12909,6 +13203,9 @@ the organisation 'PennState'
 the organisation 'IowaStateUni'
   has the topic-organisation statistic 'topic-org-stat:coalition-IowaStateUni' as topic-organisation statistic.
 
+the organisation 'Imperial'
+  has the topic-organisation statistic 'topic-org-stat:sensor mission matching-Imperial' as topic-organisation statistic.
+
 the organisation 'IBM-UK'
   has the topic-organisation statistic 'topic-org-stat:ACT-R-IBM-UK' as topic-organisation statistic.
 
@@ -12947,6 +13244,9 @@ the organisation 'IBM-US'
 
 the organisation 'PennState'
   has the topic-organisation statistic 'topic-org-stat:controlled english-PennState' as topic-organisation statistic.
+
+the organisation 'BBN'
+  has the topic-organisation statistic 'topic-org-stat:sensor mission matching-BBN' as topic-organisation statistic.
 
 the organisation 'University of Texas'
   has the topic-organisation statistic 'topic-org-stat:planning-University of Texas' as topic-organisation statistic.
@@ -13080,6 +13380,9 @@ the organisation 'Edinburgh University'
 the organisation 'IowaStateUni'
   has the topic-organisation statistic 'topic-org-stat:controlled natural language-IowaStateUni' as topic-organisation statistic.
 
+the organisation 'Georgia Institute of Technology'
+  has the topic-organisation statistic 'topic-org-stat:sensor mission matching-Georgia Institute of Technology' as topic-organisation statistic.
+
 the organisation 'SRI International'
   has the topic-organisation statistic 'topic-org-stat:network coding-SRI International' as topic-organisation statistic.
 
@@ -13209,6 +13512,9 @@ the organisation 'PennState'
 the organisation 'Columbia'
   has the topic-organisation statistic 'topic-org-stat:verifiable computation-Columbia' as topic-organisation statistic.
 
+the organisation 'PennState'
+  has the topic-organisation statistic 'topic-org-stat:sensor mission matching-PennState' as topic-organisation statistic.
+
 the organisation 'UniSoton'
   has the topic-organisation statistic 'topic-org-stat:web 2.0-UniSoton' as topic-organisation statistic.
 
@@ -13311,6 +13617,9 @@ the organisation 'ARL'
 the organisation 'Hongik University, Korea'
   has the topic-organisation statistic 'topic-org-stat:network coding-Hongik University, Korea' as topic-organisation statistic.
 
+the organisation 'Boston University'
+  has the topic-organisation statistic 'topic-org-stat:sensor mission matching-Boston University' as topic-organisation statistic.
+
 the organisation 'Institut Eurecom, France'
   has the topic-organisation statistic 'topic-org-stat:sensor network-Institut Eurecom, France' as topic-organisation statistic.
 
@@ -13346,6 +13655,9 @@ the organisation 'CMU'
 
 the organisation 'IBM-UK'
   has the topic-organisation statistic 'topic-org-stat:culture-IBM-UK' as topic-organisation statistic.
+
+the organisation 'IBM-US'
+  has the topic-organisation statistic 'topic-org-stat:sensor mission matching-IBM-US' as topic-organisation statistic.
 
 the organisation 'IBM Research, Zurich'
   has the topic-organisation statistic 'topic-org-stat:cryptography-IBM Research, Zurich' as topic-organisation statistic.
@@ -13428,6 +13740,9 @@ the organisation 'ARL'
 the organisation 'CMU'
   has the topic-organisation statistic 'topic-org-stat:miscommunication-CMU' as topic-organisation statistic.
 
+the organisation 'UniAberdeen'
+  has the topic-organisation statistic 'topic-org-stat:sensor mission matching-UniAberdeen' as topic-organisation statistic.
+
 the organisation 'Honeywell'
   has the topic-organisation statistic 'topic-org-stat:planning-Honeywell' as topic-organisation statistic.
 
@@ -13475,6 +13790,9 @@ the organisation 'PennState'
 
 the organisation 'ARA'
   has the topic-organisation statistic 'topic-org-stat:sensemaking-ARA' as topic-organisation statistic.
+
+the organisation 'IBM-UK'
+  has the topic-organisation statistic 'topic-org-stat:sensor mission matching-IBM-UK' as topic-organisation statistic.
 
 the organisation 'INRIA, Paris-Rocquencourt Center'
   has the topic-organisation statistic 'topic-org-stat:cryptography-INRIA, Paris-Rocquencourt Center' as topic-organisation statistic.

@@ -134,3 +134,9 @@ there is a topic named 'wireless sensor network' that
   has 'wireless sensor network' as marker and
   has 'WSN' as marker.
 
+there is a topic named 'sensor mission matching' that
+  has 'MMF' as marker and
+  has 'mission and means framework' as marker and
+  has 'mission match' as marker and
+  has 'mission assign' as marker.
+
