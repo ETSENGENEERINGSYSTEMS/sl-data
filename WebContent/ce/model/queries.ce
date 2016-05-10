@@ -80,6 +80,12 @@ for which V1 is it true that
 .
 -- This query is used by the visualisation demo
 
+[ topics ]
+for which V1 is it true that
+    ( there is a topic named V1 )
+.
+-- This query is used by the visualisation demo
+
 [ totals ]
 for which V1 is it true that
     ( there is a total named V1 )
