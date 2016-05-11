@@ -1,0 +1,71 @@
+-- --------------------------------------------------------------------------
+-- (C) Copyright IBM Corporation 2016
+-- All Rights Reserved
+-- --------------------------------------------------------------------------
+
+-- Load the models
+perform load sentences from url '/SL_data/ce/model/agent.ce'.
+perform load sentences from url '/SL_data/ce/model/organisation.ce'.
+perform load sentences from url '/SL_data/ce/model/person.ce'.
+perform load sentences from url '/SL_data/ce/model/document.ce'.
+perform load sentences from url '/SL_data/ce/model/project.ce'.
+perform load sentences from url '/SL_data/ce/model/location.ce'.
+perform load sentences from url '/SL_data/ce/model/event.ce'.
+perform load sentences from url '/SL_data/ce/model/date.ce'.
+perform load sentences from url '/SL_data/ce/model/citation.ce'.
+perform load sentences from url '/SL_data/ce/model/topic.ce'.
+perform load sentences from url '/SL_data/ce/model/misc.ce'.
+perform load sentences from url '/SL_data/ce/model/queries.ce'.
+perform load sentences from url '/SL_data/ce/model/linguistic_metamodel.ce'.
+
+perform load sentences from url '/SL_data/ce/model/rules/date.ce'.
+perform load sentences from url '/SL_data/ce/model/rules/document.ce'.
+perform load sentences from url '/SL_data/ce/model/rules/event.ce'.
+perform load sentences from url '/SL_data/ce/model/rules/organisation.ce'.
+perform load sentences from url '/SL_data/ce/model/rules/person.ce'.
+perform load sentences from url '/SL_data/ce/model/rules/project.ce'.
+perform load sentences from url '/SL_data/ce/model/rules/topic.ce'.
+
+-- Load the agent definitions
+perform load sentences from url '/SL_data/ce/agents/agents.ce'.
+
+-- Load the facts
+perform load sentences from url '/SL_data/ce/cmd/facts_generated.ce'.
+
+-- (Run the rules) - Load the cached data
+
+--perform run the rule executor agent named 'rules_for_orgs_1'.
+perform load sentences from url '/SL_data/ce/facts/cached/Rules_Orgs_1_flush_1.ce'.
+
+--perform run the rule executor agent named 'rules_for_people'.
+perform load sentences from url '/SL_data/ce/facts/cached/Rules_People_flush_1.ce'.
+
+--perform run the rule executor agent named 'rules_for_projects'.
+perform load sentences from url '/SL_data/ce/facts/cached/Rules_Projects_flush_1.ce'.
+
+--perform run the rule executor agent named 'rules_for_authors'.
+perform load sentences from url '/SL_data/ce/facts/cached/Rules_Authors_flush_1.ce'.
+perform load sentences from url '/SL_data/ce/facts/cached/Rules_Authors_flush_2.ce'.
+perform load sentences from url '/SL_data/ce/facts/cached/Rules_Authors_flush_3.ce'.
+perform load sentences from url '/SL_data/ce/facts/cached/Rules_Authors_flush_4.ce'.
+
+--perform run the rule executor agent named 'rules_for_dates'.
+perform load sentences from url '/SL_data/ce/facts/cached/Rules_Dates_flush_1.ce'.
+
+--perform run the rule executor agent named 'rules_for_documents'.
+perform load sentences from url '/SL_data/ce/facts/cached/Rules_Documents_flush_1.ce'.
+
+--perform run the rule executor agent named 'rules_for_events'.
+perform load sentences from url '/SL_data/ce/facts/cached/Rules_Events_flush_1.ce'.
+
+--perform run the rule executor agent named 'rules_for_topics'.
+perform load sentences from url '/SL_data/ce/facts/cached/Rules_Topics_flush_1.ce'.
+perform load sentences from url '/SL_data/ce/facts/cached/Rules_Topics_flush_2.ce'.
+
+
+--perform run the rule executor agent named 'rules_for_orgs_2'.
+perform load sentences from url '/SL_data/ce/facts/cached/Rules_Orgs_2_flush_1.ce'.
+perform load sentences from url '/SL_data/ce/facts/cached/Rules_Orgs_2_flush_2.ce'.
+
+-- Finally load the computed facts
+perform load sentences from url '/SL_data/ce/facts/cached/computed_all.ce'.
