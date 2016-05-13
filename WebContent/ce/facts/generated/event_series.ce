@@ -1,4 +1,10 @@
--- ---------------------------------------------------------------------------- (C) Copyright IBM Corporation 2016-- All Rights Reserved-- ---------------------------------------------------------------------------- This CE has been generated from SL_generator v1.15.xlsm
+-- --------------------------------------------------------------------------
+-- (C) Copyright IBM Corporation 2016
+-- All Rights Reserved
+-- --------------------------------------------------------------------------
+
+-- This CE has been generated from SL_generator v1.16.xlsm
+
 there is an event series named 'AAMAS' that
   has 'International Conference on Autonomous Agents and Multiagent Systems (AAMAS)' as full name and
   has 'http://www.aamas-conference.org/' as url.
@@ -122,4 +128,3 @@ there is an event series named 'SPIE ESD' that
 there is an event series named 'WCNC' that
   has 'IEEE Wireless Communications and Networking Conference (WCNC)' as full name and
   has 'http://ieeexplore.ieee.org/xpl/conhome.jsp?punumber=1000817' as url.
-

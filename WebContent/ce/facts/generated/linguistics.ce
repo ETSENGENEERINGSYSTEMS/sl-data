@@ -1,4 +1,10 @@
--- ---------------------------------------------------------------------------- (C) Copyright IBM Corporation 2016-- All Rights Reserved-- ---------------------------------------------------------------------------- This CE has been generated from SL_generator v1.15.xlsm
+-- --------------------------------------------------------------------------
+-- (C) Copyright IBM Corporation 2016
+-- All Rights Reserved
+-- --------------------------------------------------------------------------
+
+-- This CE has been generated from SL_generator v1.16.xlsm
+
 there is a linguistic thing named 'ARL' that
   is expressed by 'A R L'.
 
@@ -147,4 +153,3 @@ there is a linguistic thing named 'person:total publication count:value' that
 there is a linguistic thing named 'person:wrote:document' that
   is expressed by 'write' and
   is expressed by 'written'.
-

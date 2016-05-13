@@ -1,4 +1,10 @@
--- ---------------------------------------------------------------------------- (C) Copyright IBM Corporation 2016-- All Rights Reserved-- ---------------------------------------------------------------------------- This CE has been generated from SL_generator v1.15.xlsm
+-- --------------------------------------------------------------------------
+-- (C) Copyright IBM Corporation 2016
+-- All Rights Reserved
+-- --------------------------------------------------------------------------
+
+-- This CE has been generated from SL_generator v1.16.xlsm
+
 there is a project named 'IPP06P1' that
   has 'IPP06P1' as code name and
   has 'P1: Theoretical Foundations for Analysis and Design of Wireless and Sensor Networks' as name and
@@ -310,4 +316,3 @@ there is a project named 'FPP15P6' that
   has 'P6: Collective Sensemaking Under Uncertainty' as name and
   has the project plan 'FPP15' as project plan and
   has the technical area 'TA5' as technical area.
-

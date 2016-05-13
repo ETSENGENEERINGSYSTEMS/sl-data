@@ -1,4 +1,9 @@
--- ---------------------------------------------------------------------------- (C) Copyright IBM Corporation 2016-- All Rights Reserved-- ---------------------------------------------------------------------------- This CE has been generated from SL_generator v1.15.xlsm
-there is a UI message named 'msg date' that
-  has 'The data shown is accurate as of 13:03 GMT on Wednesday 11 May 2016' as message text.
+-- --------------------------------------------------------------------------
+-- (C) Copyright IBM Corporation 2016
+-- All Rights Reserved
+-- --------------------------------------------------------------------------
 
+-- This CE has been generated from SL_generator v1.16.xlsm
+
+there is a UI message named 'msg date' that
+  has 'The data shown is accurate as of 12:48 GMT on Friday 13 May 2016' as message text.

@@ -1,4 +1,10 @@
--- ---------------------------------------------------------------------------- (C) Copyright IBM Corporation 2016-- All Rights Reserved-- ---------------------------------------------------------------------------- This CE has been generated from SL_generator v1.15.xlsm
+-- --------------------------------------------------------------------------
+-- (C) Copyright IBM Corporation 2016
+-- All Rights Reserved
+-- --------------------------------------------------------------------------
+
+-- This CE has been generated from SL_generator v1.16.xlsm
+
 there is a document named 'doc-1007' that
   has the paper citation count 'citation:doc-1007-01' as citation count.
 
@@ -12818,4 +12824,3 @@ there is a document named 'doc-2835' that
 there is a paper citation count named 'citation:doc-2835-01' that
   has '0' as citation count and
   has '25/09/2015' as date checked.
-

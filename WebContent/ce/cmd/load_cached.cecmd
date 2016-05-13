@@ -3,7 +3,7 @@
 -- All Rights Reserved
 -- --------------------------------------------------------------------------
 
---perform reset store with starting uid '1'.
+perform reset store with starting uid '1'.
 
 -- Load the models
 perform load sentences from url '/SL_data/ce/model/agent.ce'.

@@ -1,4 +1,10 @@
--- ---------------------------------------------------------------------------- (C) Copyright IBM Corporation 2016-- All Rights Reserved-- ---------------------------------------------------------------------------- This CE has been generated from SL_generator v1.15.xlsm
+-- --------------------------------------------------------------------------
+-- (C) Copyright IBM Corporation 2016
+-- All Rights Reserved
+-- --------------------------------------------------------------------------
+
+-- This CE has been generated from SL_generator v1.16.xlsm
+
 there is a person named 'julie_skipper' that
   has 'Julie' as forename and
   has 'Skipper' as surname and
@@ -6065,4 +6071,3 @@ there is a person named 'won_ro' that
   has 'Won Ro' as full name and
   is employed by the organisation 'Yonsei University, Korea' and
   has the person citation count 'citation:won_ro-01' as citation count.
-

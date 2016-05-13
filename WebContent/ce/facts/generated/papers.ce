@@ -1,4 +1,10 @@
--- ---------------------------------------------------------------------------- (C) Copyright IBM Corporation 2016-- All Rights Reserved-- ---------------------------------------------------------------------------- This CE has been generated from SL_generator v1.15.xlsm
+-- --------------------------------------------------------------------------
+-- (C) Copyright IBM Corporation 2016
+-- All Rights Reserved
+-- --------------------------------------------------------------------------
+
+-- This CE has been generated from SL_generator v1.16.xlsm
+
 there is a document named 'doc-1007' that
   is a journal paper and
   has 'SAT: Building New Trust Architecture for Vehicular Networks' as title and
@@ -12897,4 +12903,3 @@ there is a document named 'doc-2835' that
   has the project 'BPP13P4' as project and
   has '/ITA_static/attachments/2835/AFM14BasicDemo_Running_Answer.doc' as paper file and
   has '/ITA_static/images/papers/2835_paper.jpg' as paper thumbnail.
-
