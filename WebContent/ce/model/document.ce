@@ -4,6 +4,7 @@
 -- --------------------------------------------------------------------------
 
 conceptualise a ~ document ~ D that
+  has the value ST as ~ status ~ and
   has the value TI as ~ title ~ and
   has the value AS as ~ original authors string ~ and
   has the ordered author OA as ~ author ~ and
