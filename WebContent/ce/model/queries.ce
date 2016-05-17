@@ -29,7 +29,7 @@ for which P, FN, SN, TC and CC is it true that
   ( the published person P has the value FN as forename ) and
   ( the published person P is a core person ) and
   ( the published person P has the value SN as surname ) and
-  ( the published person P has the value TC as total publication count ) and ( the value TC > '0' ) and
+  ( the published person P has the value TC as document count ) and ( the value TC > '0' ) and
   ( the published person P has the value CC as co-author count ) and ( the value CC > '0' )
 order by TC, CC descending
 .
@@ -139,7 +139,7 @@ for which V1, V2, V3, _F1 and _F2 is it true that
     ( the published person V1 has the person citation count V2 as citation count ) and
     ( the published person V1 is employed by the organisation V3 ) and
     ( the published person V1 has the value _F1 as full name ) and
-    ( the published person V1 has the value _F2 as total publication count )
+    ( the published person V1 has the value _F2 as document count )
 .
 
 [ event series ]

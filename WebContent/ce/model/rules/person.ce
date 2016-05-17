@@ -53,25 +53,25 @@ then
    ( the published person V1 wrote the document V4 )
 .
 
-[ 1c-person total publication count ]
+[ 1c-person document count ]
 if
   ( the person P wrote the document #D )
 then
-  ( the person P has #D as total publication count )
+  ( the person P has #D as document count )
 .
 
-[ 1c-person external paper count ]
+[ 1c-person external document count ]
 if
   ( the person P wrote the external conference paper #EC )
 then
-  ( the person P has #EC as external paper count )
+  ( the person P has #EC as external document count )
 .
 
-[ 1c-person internal paper count ]
+[ 1c-person internal document count ]
 if
   ( the person P wrote the internal conference paper #IC )
 then
-  ( the person P has #IC as internal paper count )
+  ( the person P has #IC as internal document count )
 .
 
 [ 1c-person journal paper count ]
@@ -81,6 +81,13 @@ then
   ( the person P has #J as journal paper count )
 .
 
+[ 1c-person patent count ]
+if
+  ( the person P wrote the patent #P )
+then
+  ( the person P has #P as patent count )
+.
+
 [ 1c-person conference paper count ]
 if
   ( the person P wrote the conference paper #CP )
@@ -88,11 +95,18 @@ then
   ( the person P has #CP as conference paper count )
 .
 
-[ 1c-person patent count ]
+[ 1c-person external conference paper count ]
 if
-  ( the person P wrote the patent #P )
+  ( the person P wrote the external conference paper #CP )
 then
-  ( the person P has #P as patent count )
+  ( the person P has #CP as external conference paper count )
+.
+
+[ 1c-person internal conference paper count ]
+if
+  ( the person P wrote the internal conference paper #CP )
+then
+  ( the person P has #CP as internal conference paper count )
 .
 
 [ 1c-person technical report count ]

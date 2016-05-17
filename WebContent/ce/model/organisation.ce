@@ -11,15 +11,16 @@ conceptualise an ~ organisation ~ O that
   ~ wrote ~ the document AD and
   has the value T as ~ type ~ and
   ~ is affiliated to ~ the country C and
-  has the value PC as ~ paper count ~ and
-  has the value PC as ~ journal paper count ~ and
-  has the value PC as ~ external document count ~ and
-  has the value PC as ~ patent count ~ and
-  has the value PC as ~ external conference paper count ~ and
-  has the value PC as ~ internal conference paper count ~ and
-  has the value PC as ~ internal document count ~ and
-  has the value PC as ~ technical report count ~ and
-  has the value PC as ~ other document count ~ and
+  has the value C1 as ~ document count ~ and
+  has the value C2 as ~ external document count ~ and
+  has the value C3 as ~ internal document count ~ and
+  has the value C4 as ~ journal paper count ~ and
+  has the value C5 as ~ patent count ~ and
+  has the value C6 as ~ conference paper count ~ and
+  has the value C7 as ~ external conference paper count ~ and
+  has the value C8 as ~ internal conference paper count ~ and
+  has the value C9 as ~ technical report count ~ and
+  has the value C10 as ~ other document count ~ and
   has the topic-organisation statistic TOS as ~ topic-organisation statistic ~.
 
 conceptualise a ~ core organisation ~ I that is an organisation.
