@@ -1002,9 +1002,6 @@ the topic 'verifiable computation'
 the topic 'ontologies'
   has the topic statistic 'topic-person-stat:ontologies-jim_hendler' as topic statistic.
 
-the topic 'planning'
-  has the topic statistic 'topic-person-stat:planning-jeff_pan' as topic statistic.
-
 the topic 'sensemaking'
   has the topic statistic 'topic-org-stat:sensemaking-Honeywell' as topic statistic.
 
@@ -7640,9 +7637,6 @@ the person 'jason_crampton'
 
 the person 'jitu_patel'
   has the topic-person statistic 'topic-person-stat:ontologies-jitu_patel' as topic-person statistic.
-
-the person 'jeff_pan'
-  has the topic-person statistic 'topic-person-stat:planning-jeff_pan' as topic-person statistic.
 
 the person 'yunlong_gao'
   has the topic-person statistic 'topic-person-stat:POLICY-yunlong_gao' as topic-person statistic.

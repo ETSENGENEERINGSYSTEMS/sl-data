@@ -26,10 +26,12 @@ there is a rule executor agent named 'rules_for_orgs_2' that
   has 'false' as generate rationale and
   has '2a-organisation wrote document' as rule name and
   has '2b-organisation paper count' as rule name and
-  has '2b-organisation external paper count' as rule name and
-  has '2b-organisation internal paper count' as rule name and
+  has '2b-organisation external document count' as rule name and
+  has '2b-organisation internal document count' as rule name and
   has '2b-organisation journal paper count' as rule name and
   has '2b-organisation patent count' as rule name and
+  has '2b-organisation external conference paper count' as rule name and
+  has '2b-organisation internal conference paper count' as rule name and
   has '2b-organisation technical report count' as rule name and
   has '2b-organisation other document count' as rule name.
 

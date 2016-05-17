@@ -26,17 +26,6 @@ conceptualise an ~ identification property concept ~ I that
 
 conceptualise a ~ user ~ U.
 
---conceptualise a ~ noted thing ~ N that
---  has the value T as ~ text ~ and
---  ~ was raised by ~ the user U.
-
---conceptualise a ~ comment ~ C that
---  is a noted thing and
---  has the value U as ~ url ~ and
---  ~ applies to ~ the thing T.
-
---conceptualise an ~ issue ~ I that is a noted thing.
-
 conceptualise a ~ temporal thing ~ T.
 
 conceptualise a ~ total ~ T that

@@ -160,3 +160,8 @@ for which D1 and D2 is it true that
   ( the document D1 has the document D2 as variant )
 order by D1
 .
+
+[ unemployed person ]
+for which P is it true that
+  ( the person P is employed by no organisation O )
+order by P.
