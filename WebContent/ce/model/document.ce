@@ -6,7 +6,7 @@
 conceptualise a ~ document ~ D that
   has the value ST as ~ status ~ and
   has the value TI as ~ title ~ and
-  has the value AS as ~ original authors string ~ and
+  has the value AS as ~ full author list ~ and
   has the ordered author OA as ~ author ~ and
   has the date DA as ~ publish date ~ and
   has the value W as ~ weight ~ and
@@ -15,7 +15,7 @@ conceptualise a ~ document ~ D that
   has the year PY as ~ publication year ~ and
   has the value AB as ~ abstract ~ and
   has the event E as ~ venue ~ and
-  has the value VE as ~ old venue ~ and
+  has the value VD as ~ venue details ~ and
   has the project PR as ~ project ~ and
   has the document D2 as ~ variant ~ and
   has the value NA as ~ number of authors ~ and
