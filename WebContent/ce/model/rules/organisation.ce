@@ -122,3 +122,12 @@ if
 then
   ( the organisation O has #OD as other document count )
 .
+
+[ 2b-organisation citation count ]
+if
+  ( the organisation O wrote the document AD ) and
+  ( the document AD has the paper citation count PC as citation count ) and
+  ( the paper citation count PC has the value @CC as citation count )
+then
+  ( the organisation O has the value @CC as citation count )
+.

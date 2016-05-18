@@ -132,6 +132,14 @@ then
   ( the person P1 has the person P2 as co-author )
 .
 
+[ 1d-person writes about topic ]
+if
+   ( the person P wrote the document AD ) and
+   ( the document AD is on the topic T )
+then
+   ( the person P writes about the topic T )
+.
+
 [ 1d-inv co-author ]
 if
   ( the person P1 has the person P2 as co-author )

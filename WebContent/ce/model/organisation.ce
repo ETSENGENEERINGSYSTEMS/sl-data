@@ -21,7 +21,8 @@ conceptualise an ~ organisation ~ O that
   has the value C8 as ~ internal conference paper count ~ and
   has the value C9 as ~ technical report count ~ and
   has the value C10 as ~ other document count ~ and
-  has the topic-organisation statistic TOS as ~ topic-organisation statistic ~.
+  has the topic-organisation statistic TOS as ~ topic-organisation statistic ~ and
+  has the value CC as ~ citation count ~.
 
 conceptualise a ~ core organisation ~ I that is an organisation.
 

@@ -46,3 +46,26 @@ if
 then
   ( the organisation O has the topic-organisation statistic TOS as topic-organisation statistic )
 .
+
+[ topic number of documents]
+if
+  ( the document #AD is on the topic T )
+then
+  ( the topic T has the value #AD as number of documents )
+.
+
+[ topic number of authors ]
+if
+  ( the person #P writes about the topic T )
+then
+  ( the topic T has the value #P as number of authors )
+.
+
+[ topic citation count ]
+if
+  ( the document AD is on the topic T ) and
+  ( the document AD has the paper citation count PC as citation count ) and
+  ( the paper citation count PC has the value @CC as citation count )
+then
+  ( the topic T has the value @CC as citation count )
+.
