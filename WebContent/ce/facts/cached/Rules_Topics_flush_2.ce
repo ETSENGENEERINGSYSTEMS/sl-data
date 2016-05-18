@@ -4404,6 +4404,9 @@ the topic 'edgware fabric'
 the topic 'coalition'
   has the topic statistic 'topic-person-stat:coalition-stephen_pipes' as topic statistic.
 
+the topic 'argumentation'
+  has the topic statistic 'topic-org-stat:argumentation-ARL' as topic statistic.
+
 the topic 'controlled natural language'
   has the topic statistic 'topic-person-stat:controlled natural language-jon_bakdash' as topic statistic.
 
@@ -12572,6 +12575,9 @@ the organisation 'UMD'
 
 the organisation 'RHUL'
   has the topic-organisation statistic 'topic-org-stat:wireless sensor network-RHUL' as topic-organisation statistic.
+
+the organisation 'ARL'
+  has the topic-organisation statistic 'topic-org-stat:argumentation-ARL' as topic-organisation statistic.
 
 the organisation 'UniSoton'
   has the topic-organisation statistic 'topic-org-stat:ontologies-UniSoton' as topic-organisation statistic.

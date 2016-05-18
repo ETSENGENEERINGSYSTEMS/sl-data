@@ -38,6 +38,10 @@ there is a date named '2015' that
 there is a date named '2016' that
   has '2016' as year.
 
+there is a date named 'May-2006' that
+  has '5' as month and
+  has '2006' as year.
+
 there is a date named 'Oct-2006' that
   has '10' as month and
   has '2006' as year.

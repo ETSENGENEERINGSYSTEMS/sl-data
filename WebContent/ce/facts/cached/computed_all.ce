@@ -47935,7 +47935,7 @@ the topic-organisation statistic 'topic-org-stat:FUSION-UMD'
   has '2' as paper count.
 
 the topic-organisation statistic 'topic-org-stat:FUSION-UniAberdeen'
-  has '5' as paper count.
+  has '6' as paper count.
 
 the topic-organisation statistic 'topic-org-stat:FUSION-UniSoton'
   has '3' as paper count.
@@ -48046,7 +48046,7 @@ the topic-organisation statistic 'topic-org-stat:POLICY-ARA'
   has '17' as paper count.
 
 the topic-organisation statistic 'topic-org-stat:POLICY-ARL'
-  has '34' as paper count.
+  has '37' as paper count.
 
 the topic-organisation statistic 'topic-org-stat:POLICY-Arizona State University'
   has '21' as paper count.
@@ -48133,7 +48133,7 @@ the topic-organisation statistic 'topic-org-stat:POLICY-USArmy'
   has '1' as paper count.
 
 the topic-organisation statistic 'topic-org-stat:POLICY-UniAberdeen'
-  has '42' as paper count.
+  has '44' as paper count.
 
 the topic-organisation statistic 'topic-org-stat:POLICY-UniCambridge'
   has '16' as paper count.
@@ -48186,6 +48186,9 @@ the topic-organisation statistic 'topic-org-stat:VANET-UniCambridge'
 the topic-organisation statistic 'topic-org-stat:VANET-University of Karlsruhe'
   has '1' as paper count.
 
+the topic-organisation statistic 'topic-org-stat:argumentation-ARL'
+  has '4' as paper count.
+
 the topic-organisation statistic 'topic-org-stat:argumentation-CMU'
   has '11' as paper count.
 
@@ -48229,7 +48232,7 @@ the topic-organisation statistic 'topic-org-stat:coalition-ARA'
   has '55' as paper count.
 
 the topic-organisation statistic 'topic-org-stat:coalition-ARL'
-  has '77' as paper count.
+  has '78' as paper count.
 
 the topic-organisation statistic 'topic-org-stat:coalition-BBN'
   has '29' as paper count.
@@ -48298,7 +48301,7 @@ the topic-organisation statistic 'topic-org-stat:coalition-UMass'
   has '25' as paper count.
 
 the topic-organisation statistic 'topic-org-stat:coalition-UniAberdeen'
-  has '77' as paper count.
+  has '80' as paper count.
 
 the topic-organisation statistic 'topic-org-stat:coalition-UniCambridge'
   has '30' as paper count.
@@ -48349,7 +48352,7 @@ the topic-organisation statistic 'topic-org-stat:controlled english-UCLA'
   has '1' as paper count.
 
 the topic-organisation statistic 'topic-org-stat:controlled english-UniAberdeen'
-  has '17' as paper count.
+  has '19' as paper count.
 
 the topic-organisation statistic 'topic-org-stat:controlled english-UniCambridge'
   has '14' as paper count.
@@ -48358,7 +48361,7 @@ the topic-organisation statistic 'topic-org-stat:controlled english-UniSoton'
   has '2' as paper count.
 
 the topic-organisation statistic 'topic-org-stat:controlled natural language-ARL'
-  has '8' as paper count.
+  has '14' as paper count.
 
 the topic-organisation statistic 'topic-org-stat:controlled natural language-Boeing'
   has '6' as paper count.
@@ -48385,7 +48388,7 @@ the topic-organisation statistic 'topic-org-stat:controlled natural language-RPI
   has '24' as paper count.
 
 the topic-organisation statistic 'topic-org-stat:controlled natural language-UniAberdeen'
-  has '1' as paper count.
+  has '10' as paper count.
 
 the topic-organisation statistic 'topic-org-stat:controlled natural language-UniCambridge'
   has '2' as paper count.
@@ -48673,7 +48676,7 @@ the topic-organisation statistic 'topic-org-stat:in-network aggregation-UMass'
   has '2' as paper count.
 
 the topic-organisation statistic 'topic-org-stat:knowledge base-ARL'
-  has '11' as paper count.
+  has '12' as paper count.
 
 the topic-organisation statistic 'topic-org-stat:knowledge base-CMU'
   has '5' as paper count.
@@ -48805,7 +48808,7 @@ the topic-organisation statistic 'topic-org-stat:ontologies-ARA'
   has '1' as paper count.
 
 the topic-organisation statistic 'topic-org-stat:ontologies-ARL'
-  has '31' as paper count.
+  has '36' as paper count.
 
 the topic-organisation statistic 'topic-org-stat:ontologies-Boeing'
   has '25' as paper count.
@@ -48946,7 +48949,7 @@ the topic-organisation statistic 'topic-org-stat:rate diversity-UCLA'
   has '3' as paper count.
 
 the topic-organisation statistic 'topic-org-stat:semantic web-ARL'
-  has '4' as paper count.
+  has '6' as paper count.
 
 the topic-organisation statistic 'topic-org-stat:semantic web-Boeing'
   has '1' as paper count.
@@ -49042,7 +49045,7 @@ the topic-organisation statistic 'topic-org-stat:sensemaking-UniSoton'
   has '16' as paper count.
 
 the topic-organisation statistic 'topic-org-stat:sensor mission matching-ARL'
-  has '12' as paper count.
+  has '13' as paper count.
 
 the topic-organisation statistic 'topic-org-stat:sensor mission matching-BBN'
   has '3' as paper count.
@@ -49192,7 +49195,7 @@ the topic-organisation statistic 'topic-org-stat:shared understanding-ARA'
   has '1' as paper count.
 
 the topic-organisation statistic 'topic-org-stat:shared understanding-ARL'
-  has '8' as paper count.
+  has '9' as paper count.
 
 the topic-organisation statistic 'topic-org-stat:shared understanding-Boeing'
   has '10' as paper count.
@@ -49453,7 +49456,7 @@ the total 'total_2009'
   has '0' as single institute paper count and
   has '0' as collaborative paper count and
   has '0' as international paper count and
-  has '21' as government paper count and
+  has '23' as government paper count and
   has '37' as journal paper count and
   has '104' as external conference paper count and
   has '0' as patent count and
@@ -49467,7 +49470,7 @@ the total 'total_2010'
   has '0' as single institute paper count and
   has '0' as collaborative paper count and
   has '0' as international paper count and
-  has '17' as government paper count and
+  has '19' as government paper count and
   has '22' as journal paper count and
   has '127' as external conference paper count and
   has '2' as patent count and
@@ -49481,7 +49484,7 @@ the total 'total_2011'
   has '0' as single institute paper count and
   has '0' as collaborative paper count and
   has '0' as international paper count and
-  has '9' as government paper count and
+  has '10' as government paper count and
   has '21' as journal paper count and
   has '67' as external conference paper count and
   has '3' as patent count and
@@ -49495,7 +49498,7 @@ the total 'total_2012'
   has '0' as single institute paper count and
   has '0' as collaborative paper count and
   has '0' as international paper count and
-  has '22' as government paper count and
+  has '23' as government paper count and
   has '31' as journal paper count and
   has '75' as external conference paper count and
   has '11' as patent count and
@@ -49523,7 +49526,7 @@ the total 'total_2014'
   has '0' as single institute paper count and
   has '0' as collaborative paper count and
   has '0' as international paper count and
-  has '21' as government paper count and
+  has '23' as government paper count and
   has '23' as journal paper count and
   has '69' as external conference paper count and
   has '12' as patent count and
@@ -49551,7 +49554,7 @@ the total 'total_2016'
   has '0' as single institute paper count and
   has '0' as collaborative paper count and
   has '0' as international paper count and
-  has '6' as government paper count and
+  has '7' as government paper count and
   has '5' as journal paper count and
   has '9' as external conference paper count and
   has '0' as patent count and
@@ -49565,7 +49568,7 @@ the total 'total_all'
   has '0' as single institute paper count and
   has '0' as collaborative paper count and
   has '0' as international paper count and
-  has '163' as government paper count and
+  has '172' as government paper count and
   has '207' as journal paper count and
   has '799' as external conference paper count and
   has '55' as patent count and

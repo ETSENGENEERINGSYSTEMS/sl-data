@@ -969,9 +969,6 @@ the person 'carolyn_brodie'
 the person 'daniele_masato'
   writes documents for the organisation 'UniAberdeen'.
 
-the person 'geeth_de_mel'
-  writes documents for the organisation 'IBM-US'.
-
 the person 'craig_gentry'
   writes documents for the organisation 'IBM-US'.
 
@@ -2660,4 +2657,16 @@ the person 'falko_dressler'
 
 the person 'syd_chapman'
   writes documents for the organisation 'IBM-UK'.
+
+the person 'geeth_de_mel' is a UK person.
+
+the person 'geeth_de_mel' is a core person.
+
+the person 'geeth_de_mel' is a academic person.
+
+the person 'geeth_de_mel' is a government person.
+
+the person 'geeth_de_mel' is a US person.
+
+the person 'geeth_de_mel' is a industry person.
 

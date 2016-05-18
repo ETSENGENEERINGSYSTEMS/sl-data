@@ -36,9 +36,6 @@ there is a linguistic thing named 'thomas_laporta' that
 there is a linguistic thing named 'timothy_norman' that
   is expressed by 'Tim Norman'.
 
-there is a linguistic thing named '=' that
-  is expressed by 'equals'.
-
 there is a linguistic thing named 'document:abstract:value' that
   is expressed by 'summary' and
   is expressed by 'outline'.
@@ -118,20 +115,27 @@ there is a linguistic thing named 'person:co-author:person' that
   is expressed by 'coauthored' and
   is expressed by 'collaborated'.
 
-there is a linguistic thing named 'person:external paper count:value' that
+there is a linguistic thing named 'person:external document count:value' that
   is expressed by 'external paper' and
-  is expressed by 'external papers'.
+  is expressed by 'external papers' and
+  is expressed by 'external document' and
+  is expressed by 'external documents'.
 
 there is a linguistic thing named 'person:full name:value' that
   is expressed by 'name'.
 
-there is a linguistic thing named 'person:internal paper count:value' that
+there is a linguistic thing named 'person:internal document count:value' that
   is expressed by 'internal paper' and
-  is expressed by 'internal papers'.
+  is expressed by 'internal papers' and
+  is expressed by 'internal document' and
+  is expressed by 'internal documents'.
 
-there is a linguistic thing named 'person:is employed by:organisation' that
+there is a linguistic thing named 'person:writes documents for:organisation' that
   is expressed by 'employed by' and
-  is expressed by 'employs'.
+  is expressed by 'employs' and
+  is expressed by 'writes for' and
+  is expressed by 'write papers for' and
+  is expressed by 'write documents for'.
 
 there is a linguistic thing named 'person:journal paper count:value' that
   is expressed by 'journal' and
@@ -146,9 +150,10 @@ there is a linguistic thing named 'person:technical report count:value' that
   is expressed by 'technical report' and
   is expressed by 'technical reports'.
 
-there is a linguistic thing named 'person:total publication count:value' that
+there is a linguistic thing named 'person:document count:value' that
   is expressed by 'total publication' and
-  is expressed by 'total publications'.
+  is expressed by 'total publications' and
+  is expressed by 'all documents'.
 
 there is a linguistic thing named 'person:wrote:document' that
   is expressed by 'write' and

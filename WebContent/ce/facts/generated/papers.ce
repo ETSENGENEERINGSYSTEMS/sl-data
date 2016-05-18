@@ -15973,7 +15973,8 @@ there is a document named 'doc-x0625' that
   has 'accepted' as status and
   has 'Intelligent Resource Selection for Sensor-task Assignment: A Knowledge-based Approach' as title and
   has the date '2014' as publish date and
-  has 'Doctoral dissertation, Aberdeen University' as venue details.
+  has 'Doctoral dissertation, Aberdeen University' as venue details and
+  has the document 'doc-822' as variant.
 
 there is a document named 'doc-1041' that
   applies to the programme 'NIS-ITA' and
