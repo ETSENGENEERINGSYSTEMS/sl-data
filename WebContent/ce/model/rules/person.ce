@@ -62,16 +62,16 @@ then
 
 [ 1c-person external document count ]
 if
-  ( the person P wrote the external conference paper #EC )
+  ( the person P wrote the external document #ED )
 then
-  ( the person P has #EC as external document count )
+  ( the person P has #ED as external document count )
 .
 
 [ 1c-person internal document count ]
 if
-  ( the person P wrote the internal conference paper #IC )
+  ( the person P wrote the internal document #ID )
 then
-  ( the person P has #IC as internal document count )
+  ( the person P has #ID as internal document count )
 .
 
 [ 1c-person journal paper count ]
