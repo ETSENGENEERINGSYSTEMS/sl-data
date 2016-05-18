@@ -13,7 +13,8 @@ conceptualise a ~ person ~ P that
   has the value FON as ~ forename ~ and
   has the value FUN as ~ full name ~ and
   has the person CA as ~ co-author ~ and
-  ~ is employed by ~ the organisation OR and
+  has the organisation O1 as ~ default organisation ~ and
+  ~ writes documents for ~ the organisation O2 and
   has the value C1 as ~ document count ~ and
   has the value C2 as ~ external document count ~ and
   has the value C3 as ~ internal document count ~ and
@@ -48,7 +49,8 @@ conceptualise a ~ published person ~ P that
 
 conceptualise an ~ ordered author ~ A that
   has the value AI as ~ author index ~ and
-  has the person AP as ~ author person ~.
+  has the person AP as ~ author person ~ and
+  has the organisation AO as ~ author organisation ~.
 
 conceptualise a ~ student ~ S that is a person.
 

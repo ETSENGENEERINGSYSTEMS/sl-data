@@ -38,9 +38,9 @@ then
   ( the organisation O is a UK organisation )
 .
 
-[ 1a-organisation employs ]
+[ 2a-organisation employs ]
 if
-  ( the person P is employed by the organisation O )
+  ( the person P writes documents for the organisation O )
 then
   ( the organisation O employs the person P )
 .

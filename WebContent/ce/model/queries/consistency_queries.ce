@@ -38,8 +38,3 @@ for which AD is it true that
   ( the document AD has the value PT as paper thumbnail ) and
   ( the value PT = '/ITA_static/images/papers/not_available.jpg' )
 order by AD.
-
-[ TEST-unemployed person ]
-for which P is it true that
-  ( the person P is employed by no organisation O )
-order by P.

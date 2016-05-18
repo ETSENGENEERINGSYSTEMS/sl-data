@@ -14,8 +14,7 @@ there is a rule executor agent named 'rules_for_orgs_1' that
   has '1a-org type - industry' as rule name and
   has '1a-org type - government' as rule name and
   has '1a-US organisation' as rule name and
-  has '1a-UK organisation' as rule name and
-  has '1a-organisation employs' as rule name.
+  has '1a-UK organisation' as rule name.
 
 there is a rule executor agent named 'rules_for_orgs_2' that
   has 'com.ibm.ets.ita.ce.agent.general.RuleExecutor' as class name and
@@ -24,6 +23,7 @@ there is a rule executor agent named 'rules_for_orgs_2' that
   has 'true' as iterate and
   has '10' as maximum iterations and
   has 'false' as generate rationale and
+  has '2a-organisation employs' as rule name and
   has '2a-organisation wrote document' as rule name and
   has '2b-organisation document count' as rule name and
   has '2b-organisation external document count' as rule name and
@@ -44,12 +44,14 @@ there is a rule executor agent named 'rules_for_people' that
   has 'true' as iterate and
   has '10' as maximum iterations and
   has 'false' as generate rationale and
-  has '1a-core person' as rule name and
-  has '1a-academic person' as rule name and
-  has '1a-government person' as rule name and
-  has '1a-industry person' as rule name and
-  has '1b-US person' as rule name and
-  has '1b-UK person' as rule name.
+  has '1a-ordered author author organisation' as rule name and
+  has '1b-person writes documents for' as rule name and
+  has '1c-core person' as rule name and
+  has '1c-academic person' as rule name and
+  has '1c-government person' as rule name and
+  has '1c-industry person' as rule name and
+  has '1c-US person' as rule name and
+  has '1c-UK person' as rule name.
 
 there is a rule executor agent named 'rules_for_projects' that
   has 'com.ibm.ets.ita.ce.agent.general.RuleExecutor' as class name and

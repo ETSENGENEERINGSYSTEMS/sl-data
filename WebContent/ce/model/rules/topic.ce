@@ -18,7 +18,7 @@ then
 if
   ( the document D is on the topic T ) and
   ( the person P wrote the document D ) and
-  ( the person P is employed by the organisation O )
+  ( the person P writes documents for the organisation O )
 then
   ( there is an topic-organisation statistic named TOS_#topic-org-stat:_$T_#-_$O ) and
   ( the topic-organisation statistic TOS has the topic T as topic ) and

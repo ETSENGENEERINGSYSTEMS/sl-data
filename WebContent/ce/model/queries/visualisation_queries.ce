@@ -19,7 +19,7 @@ for which V1, and V2 is it true that
 [ published person citations ]
 for which V1, V2, V3, _F1 and _F2 is it true that
   ( the published person V1 has the person citation count V2 as citation count ) and
-  ( the published person V1 is employed by the organisation V3 ) and
+  ( the published person V1 writes documents for the organisation V3 ) and
   ( the published person V1 has the value _F1 as full name ) and
   ( the published person V1 has the value _F2 as document count )
 .
@@ -63,7 +63,7 @@ for which V1, V2, V3, V4, V5, V6, V7, V8  is it true that
   ( the document V1 has the event V3 as venue ) and
   ( the document V1 has the paper citation count V8 as citation count ) and
   ( the published person V2 wrote the document V1 ) and
-  ( the published person V2 is employed by the organisation V5 ) and
+  ( the published person V2 writes documents for the organisation V5 ) and
   ( the event V3 is part of the event series V4 ) and
   ( the event V3 occurs at the place V7 ) and
   ( the organisation V5 is located at the place V6 ) and
@@ -93,7 +93,7 @@ order by TC, CC descending
 -- Used by co-authors wheel page (3 of 5)
 [ published person -> organisation ]
 for which P and O is it true that
-  ( the published person P is employed by the organisation O ) and
+  ( the published person P writes documents for the organisation O ) and
   ( the published person P is a core person ) and
   ( the published person P has the value C as co-author count ) and ( the value C > '0' )
 .

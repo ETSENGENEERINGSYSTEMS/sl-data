@@ -43,6 +43,8 @@ perform load sentences from url '/SL_data/ce/facts/cached/Rules_Orgs_1_flush_1.c
 
 --perform run the rule executor agent named 'rules_for_people'.
 perform load sentences from url '/SL_data/ce/facts/cached/Rules_People_flush_1.ce'.
+perform load sentences from url '/SL_data/ce/facts/cached/Rules_People_flush_2.ce'.
+perform load sentences from url '/SL_data/ce/facts/cached/Rules_People_flush_3.ce'.
 
 --perform run the rule executor agent named 'rules_for_projects'.
 perform load sentences from url '/SL_data/ce/facts/cached/Rules_Projects_flush_1.ce'.
@@ -73,6 +75,7 @@ perform load sentences from url '/SL_data/ce/facts/cached/Rules_Topics_flush_2.c
 --perform run the rule executor agent named 'rules_for_orgs_2'.
 perform load sentences from url '/SL_data/ce/facts/cached/Rules_Orgs_2_flush_1.ce'.
 perform load sentences from url '/SL_data/ce/facts/cached/Rules_Orgs_2_flush_2.ce'.
+perform load sentences from url '/SL_data/ce/facts/cached/Rules_Orgs_2_flush_3.ce'.
 
 -- Finally load the computed facts
 perform load sentences from url '/SL_data/ce/facts/cached/computed_all.ce'.
