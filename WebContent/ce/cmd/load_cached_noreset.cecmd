@@ -8,6 +8,7 @@ perform load sentences from url '/SL_data/ce/model/agent.ce'.
 perform load sentences from url '/SL_data/ce/model/organisation.ce'.
 perform load sentences from url '/SL_data/ce/model/person.ce'.
 perform load sentences from url '/SL_data/ce/model/document.ce'.
+perform load sentences from url '/SL_data/ce/model/programme.ce'.
 perform load sentences from url '/SL_data/ce/model/project.ce'.
 perform load sentences from url '/SL_data/ce/model/location.ce'.
 perform load sentences from url '/SL_data/ce/model/event.ce'.

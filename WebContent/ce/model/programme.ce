@@ -3,7 +3,9 @@
 -- All Rights Reserved
 -- --------------------------------------------------------------------------
 
--- This CE has been generated from SL_generator v1.18.xlsm
+conceptualise a ~ programme ~ P that
+  has the value FN as ~ full name ~ and
+  has the date SD as ~ start date ~ and
+  has the date ED as ~ end date ~.
 
-there is a UI message named 'msg date' that
-  has 'The data shown is accurate as of 21:37 GMT on Wednesday 18 May 2016' as message text.
+conceptualise a ~ default programme ~ P that is a programme.
