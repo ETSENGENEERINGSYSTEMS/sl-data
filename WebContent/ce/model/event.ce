@@ -7,7 +7,8 @@ conceptualise an ~ event series ~ S that
   has the value FN as ~ full name ~ and
   has the value U as ~ url ~ and
   has the value YR as ~ years ran ~ and
-  has the value PC as ~ paper count ~.
+  has the value PC as ~ paper count ~ and
+  has the value CC as ~ citation count ~.
 
 conceptualise an ~ event ~ E that
   has the value FN as ~ full name ~ and
@@ -17,7 +18,8 @@ conceptualise an ~ event ~ E that
   has the value U as ~ url ~ and
   ~ is part of ~ the event series S and
   ~ corresponds to ~ the date D and
-  has the value PC as ~ paper count ~.
+  has the value PC as ~ paper count ~ and
+  has the value CC as ~ citation count ~.
 
 conceptualise a ~ published event series ~ ES that
   is an event series.

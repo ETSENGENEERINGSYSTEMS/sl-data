@@ -40,3 +40,22 @@ if
 then
   ( the event series ES has #AD as paper count )
 .
+
+[ 1a-sum citations by event ]
+if
+  ( the document AD has the event E as venue ) and
+  ( the document AD has the paper citation count PC as citation count ) and
+  ( the paper citation count PC has the value @CC as citation count )
+then
+  ( the event E has the value @CC as citation count )
+.
+
+[ 1a-sum citations by event series ]
+if
+  ( the document AD has the event E as venue ) and
+  ( the event E is part of the event series ES ) and
+  ( the document AD has the paper citation count PC as citation count ) and
+  ( the paper citation count PC has the value @CC as citation count )
+then
+  ( the event series ES has the value @CC as citation count )
+.

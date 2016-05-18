@@ -70,7 +70,9 @@ there is a rule executor agent named 'rules_for_events' that
   has '1a-published event series' as rule name and
   has '1a-published event' as rule name and
   has '1a-count publications by event' as rule name and
-  has '1a-count publications by event series' as rule name.
+  has '1a-count publications by event series' as rule name and
+  has '1a-sum citations by event' as rule name and
+  has '1a-sum citations by event series' as rule name.
 
 there is a rule executor agent named 'rules_for_authors' that
   has 'com.ibm.ets.ita.ce.agent.general.RuleExecutor' as class name and

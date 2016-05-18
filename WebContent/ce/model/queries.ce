@@ -3,27 +3,6 @@
 -- All Rights Reserved
 -- --------------------------------------------------------------------------
 
-[ organisation publications ]
-for which V1, V2, V3, V4 and V5 is it true that
-    ( the person V2 is employed by the organisation V1 ) and
-    ( the person V2 wrote the document V3 ) and
-    ( the document V3 has the paper citation count V4 as citation count ) and
-    ( the document V3 has the date V5 as final date )
-.
--- This query is used by the visualisation demo
-
-[ event series details ]
-for which V1, V2, V3, V4, V5, V6, V7, V8  is it true that
-    ( the document V1 has the event V3 as venue ) and
-    ( the document V1 has the paper citation count V8 as citation count ) and
-    ( the published person V2 wrote the document V1 ) and
-    ( the published person V2 is employed by the organisation V5 ) and
-    ( the event V3 is part of the event series V4 ) and
-    ( the event V3 occurs at the place V7 ) and
-    ( the organisation V5 is located at the place V6 ) and
-.
--- This query is used by the visualisation demo
-
 [ person details ]
 for which P, FN, SN, TC and CC is it true that
   ( the published person P has the value FN as forename ) and
@@ -32,16 +11,6 @@ for which P, FN, SN, TC and CC is it true that
   ( the published person P has the value TC as document count ) and ( the value TC > '0' ) and
   ( the published person P has the value CC as co-author count ) and ( the value CC > '0' )
 order by TC, CC descending
-.
--- This query is used by the visualisation demo
-
-[ organisation details ]
-for which O, ON, SN, OT and C is it true that
-  ( the published organisation O has the value ON as name ) and
-  ( the published organisation O is a core organisation ) and
-  ( the published organisation O has the value SN as short name ) and
-  ( the published organisation O has the value OT as type ) and
-  ( the published organisation O is affiliated to the country C )
 .
 -- This query is used by the visualisation demo
 
@@ -136,17 +105,10 @@ for which V1, and V2 is it true that
 
 [ published person citations ]
 for which V1, V2, V3, _F1 and _F2 is it true that
-    ( the published person V1 has the person citation count V2 as citation count ) and
-    ( the published person V1 is employed by the organisation V3 ) and
-    ( the published person V1 has the value _F1 as full name ) and
-    ( the published person V1 has the value _F2 as document count )
-.
-
-[ event series ]
-for which V1 and _F1 is it true that
-    ( the published event series V1 has the value _F1 as full name ) and
-    ( the published event series V1 has the value _F2 as paper count )
-order by _F2 descending
+  ( the published person V1 has the person citation count V2 as citation count ) and
+  ( the published person V1 is employed by the organisation V3 ) and
+  ( the published person V1 has the value _F1 as full name ) and
+  ( the published person V1 has the value _F2 as document count )
 .
 
 [ unavailable thumbnail ]
@@ -165,3 +127,41 @@ order by D1
 for which P is it true that
   ( the person P is employed by no organisation O )
 order by P.
+
+
+
+
+--[ organisation publications ]
+--for which V1, V2, V3, V4 and V5 is it true that
+--    ( the person V2 is employed by the organisation V1 ) and
+--    ( the person V2 wrote the document V3 ) and
+--    ( the document V3 has the paper citation count V4 as citation count ) and
+--    ( the document V3 has the date V5 as final date )
+--.
+
+--[ event series details ]
+--for which V1, V2, V3, V4, V5, V6, V7, V8  is it true that
+--    ( the document V1 has the event V3 as venue ) and
+--    ( the document V1 has the paper citation count V8 as citation count ) and
+--    ( the published person V2 wrote the document V1 ) and
+--    ( the published person V2 is employed by the organisation V5 ) and
+--    ( the event V3 is part of the event series V4 ) and
+--    ( the event V3 occurs at the place V7 ) and
+--    ( the organisation V5 is located at the place V6 ) and
+--.
+
+[ event series ]
+for which V1 and _F1 is it true that
+  ( the published event series V1 has the value _F1 as full name ) and
+  ( the published event series V1 has the value _F2 as paper count )
+order by _F2 descending
+.
+
+[ organisation details ]
+for which O, ON, SN, OT and C is it true that
+  ( the published organisation O has the value ON as name ) and
+  ( the published organisation O is a core organisation ) and
+  ( the published organisation O has the value SN as short name ) and
+  ( the published organisation O has the value OT as type ) and
+  ( the published organisation O is affiliated to the country C )
+.
