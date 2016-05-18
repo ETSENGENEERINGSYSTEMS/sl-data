@@ -1,0 +1,45 @@
+-- --------------------------------------------------------------------------
+-- (C) Copyright IBM Corporation 2016
+-- All Rights Reserved
+-- --------------------------------------------------------------------------
+
+[ TEST-broken authors ]
+for which P is it true that
+    ( the published person P wrote no document V2)
+order by P.
+
+[ TEST-broken events ]
+for which E is it true that
+    ( the event E occurs at no place P )
+order by E.
+
+[ TEST-broken people - surname ]
+for which P is it true that
+  ( the person P has no value _SN as surname )
+order by P.
+
+[ TEST-broken people - full name ]
+for which P is it true that
+  ( the person P has no value _FN as full name )
+order by P.
+
+[ TEST-broken organisations ]
+for which O is it true that
+  ( the core organisation O has no value _SN as short name )
+order by O.
+
+[ TEST-broken organisations - no authors ]
+for which O is it true that
+  ( the core organisation O employs no person P )
+order by O.
+
+[ TEST-unavailable thumbnail ]
+for which AD is it true that
+  ( the document AD has the value PT as paper thumbnail ) and
+  ( the value PT = '/ITA_static/images/papers/not_available.jpg' )
+order by AD.
+
+[ TEST-unemployed person ]
+for which P is it true that
+  ( the person P is employed by no organisation O )
+order by P.
