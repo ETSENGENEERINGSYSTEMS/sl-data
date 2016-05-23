@@ -9,16 +9,3 @@ conceptualise a ~ topic ~ T that
   has the value ND as ~ number of documents ~ and
   has the value NA as ~ number of authors ~ and
   has the value CC as ~ citation count ~.
-
-conceptualise a ~ topic statistic ~ T that
-  has the topic T as ~ topic ~ and
-  has the document D as ~ document ~ and
-  has the value C as ~ paper count ~.
-
-conceptualise a ~ topic-person statistic ~ T that
-  is a topic statistic and
-  has the person P as ~ person ~.
-
-conceptualise a ~ topic-organisation statistic ~ T that
-  is a topic statistic and
-  has the organisation P as ~ organisation ~.

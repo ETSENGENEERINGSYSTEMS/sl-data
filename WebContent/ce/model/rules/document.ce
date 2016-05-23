@@ -3,6 +3,14 @@
 -- All Rights Reserved
 -- --------------------------------------------------------------------------
 
+[ 1a-document number of citations ]
+if
+  ( the document AD has the paper citation count PC as citation count ) and
+  ( the paper citation count PC has the value CC as citation count )
+then
+  ( the document AD has the value CC as number of citations )
+.
+
 [ 1a-document topics ]
 if
   ( the topic T has the value M as marker ) and

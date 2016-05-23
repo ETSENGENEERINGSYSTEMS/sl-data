@@ -25,6 +25,7 @@ conceptualise an ~ organisation ~ O that
   has the value CC as ~ citation count ~.
 
 conceptualise a ~ core organisation ~ I that is an organisation.
+conceptualise a ~ published organisation ~ O that is an organisation.
 
 conceptualise an ~ academic organisation ~ A that is an organisation.
 conceptualise an ~ industrial organisation ~ I that is an organisation.
@@ -32,5 +33,3 @@ conceptualise a ~ government organisation ~ G that is an organisation.
 
 conceptualise a ~ US organisation ~ A that is an organisation.
 conceptualise a ~ UK organisation ~ A that is an organisation.
-
-conceptualise a ~ published organisation ~ O that is an organisation.

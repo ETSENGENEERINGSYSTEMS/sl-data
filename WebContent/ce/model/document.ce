@@ -28,7 +28,8 @@ conceptualise a ~ document ~ D that
   has the value PRF as ~ presentation file ~ and
   has the value PRT as ~ presentation thumbnail ~ and
   has the value EF as ~ extra file ~ and
-  has the paper citation count C as ~ citation count ~.
+  has the paper citation count C as ~ citation count ~ and
+  has the value NC as ~ number of citations ~.
 
 conceptualise an ~ internal document ~ I that is a document.
 conceptualise an ~ external document ~ E that is a document.

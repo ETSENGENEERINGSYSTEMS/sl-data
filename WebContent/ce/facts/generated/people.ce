@@ -3,7 +3,7 @@
 -- All Rights Reserved
 -- --------------------------------------------------------------------------
 
--- This CE has been generated from SL_generator v1.18.xlsm
+-- This CE has been generated from SL_generator v1.19.xlsm
 
 there is a person named 'julie_skipper' that
   has 'Julie' as forename and
@@ -488,7 +488,7 @@ there is a person named 'alun_preece' that
   has 'Preece' as surname and
   has 'Alun Preece' as full name and
   has the organisation 'CardiffUni' as default organisation and
-  has 'ITA_static/images/people/alun_preece.jpg' as profile picture and
+  has '/ITA_static/images/people/alun_preece.jpg' as profile picture and
   has the person citation count 'citation:alun_preece-01' as citation count.
 
 there is a person named 'chris_gwilliams' that
@@ -955,7 +955,7 @@ there is a person named 'abbe_mowshowitz' that
   has 'Mowshowitz' as surname and
   has 'Abbe Mowshowitz' as full name and
   has the organisation 'CUNY' as default organisation and
-  has 'ITA_static/images/people/abbe_mowshowitz.jpg' as profile picture and
+  has '/ITA_static/images/people/abbe_mowshowitz.jpg' as profile picture and
   has the person citation count 'citation:abbe_mowshowitz-01' as citation count.
 
 there is a person named 'akira_kawaguchi' that
@@ -1722,7 +1722,7 @@ there is a person named 'christopher_gibson' that
   has 'Gibson' as surname and
   has 'Christopher Gibson' as full name and
   has the organisation 'IBM-UK' as default organisation and
-  has 'ITA_static/images/people/christopher_gibson.jpg' as profile picture and
+  has '/ITA_static/images/people/christopher_gibson.jpg' as profile picture and
   has the person citation count 'citation:christopher_gibson-01' as citation count.
 
 there is a person named 'darren_shaw' that
@@ -1737,7 +1737,7 @@ there is a person named 'dave_braines' that
   has 'Braines' as surname and
   has 'Dave Braines' as full name and
   has the organisation 'IBM-UK' as default organisation and
-  has 'ITA_static/images/people/dave_braines.jpg' as profile picture and
+  has '/ITA_static/images/people/dave_braines.jpg' as profile picture and
   has the person citation count 'citation:dave_braines-01' as citation count.
 
 there is a person named 'dave_conway_jones' that
@@ -1745,7 +1745,7 @@ there is a person named 'dave_conway_jones' that
   has 'Conway-Jones' as surname and
   has 'Dave Conway-Jones' as full name and
   has the organisation 'IBM-UK' as default organisation and
-  has 'ITA_static/images/people/dave_conway_jones.jpg' as profile picture and
+  has '/ITA_static/images/people/dave_conway_jones.jpg' as profile picture and
   has the person citation count 'citation:dave_conway_jones-01' as citation count.
 
 there is a person named 'dave_roberts' that
@@ -1760,7 +1760,7 @@ there is a person named 'david_mott' that
   has 'Mott' as surname and
   has 'David Mott' as full name and
   has the organisation 'IBM-UK' as default organisation and
-  has 'ITA_static/images/people/david_mott.jpg' as profile picture and
+  has '/ITA_static/images/people/david_mott.jpg' as profile picture and
   has the person citation count 'citation:david_mott-01' as citation count.
 
 there is a person named 'david_vyvyan' that
@@ -1768,7 +1768,7 @@ there is a person named 'david_vyvyan' that
   has 'Vyvyan' as surname and
   has 'David Vyvyan' as full name and
   has the organisation 'IBM-UK' as default organisation and
-  has 'ITA_static/images/people/david_vyvyan.jpg' as profile picture and
+  has '/ITA_static/images/people/david_vyvyan.jpg' as profile picture and
   has the person citation count 'citation:david_vyvyan-01' as citation count.
 
 there is a person named 'dominic_harries' that
@@ -1776,7 +1776,7 @@ there is a person named 'dominic_harries' that
   has 'Harries' as surname and
   has 'Dominic Harries' as full name and
   has the organisation 'IBM-UK' as default organisation and
-  has 'ITA_static/images/people/dominic_harries.jpg' as profile picture and
+  has '/ITA_static/images/people/dominic_harries.jpg' as profile picture and
   has the person citation count 'citation:dominic_harries-01' as citation count.
 
 there is a person named 'flavio_bergamaschi' that
@@ -1784,7 +1784,7 @@ there is a person named 'flavio_bergamaschi' that
   has 'Bergamaschi' as surname and
   has 'Flavio Bergamaschi' as full name and
   has the organisation 'IBM-UK' as default organisation and
-  has 'ITA_static/images/people/flavio_bergamaschi.jpg' as profile picture and
+  has '/ITA_static/images/people/flavio_bergamaschi.jpg' as profile picture and
   has the person citation count 'citation:flavio_bergamaschi-01' as citation count.
 
 there is a person named 'gareth_jones' that
@@ -1799,7 +1799,7 @@ there is a person named 'graham_bent' that
   has 'Bent' as surname and
   has 'Graham Bent' as full name and
   has the organisation 'IBM-UK' as default organisation and
-  has 'ITA_static/images/people/graham_bent.jpg' as profile picture and
+  has '/ITA_static/images/people/graham_bent.jpg' as profile picture and
   has the person citation count 'citation:graham_bent-01' as citation count.
 
 there is a person named 'graham_white' that
@@ -1820,7 +1820,7 @@ there is a person named 'helen_bowyer' that
   has 'Bowyer' as surname and
   has 'Helen Bowyer' as full name and
   has the organisation 'IBM-UK' as default organisation and
-  has 'ITA_static/images/people/helen_bowyer.jpg' as profile picture and
+  has '/ITA_static/images/people/helen_bowyer.jpg' as profile picture and
   has the person citation count 'citation:helen_bowyer-01' as citation count.
 
 there is a person named 'james_thomas' that
@@ -1842,7 +1842,7 @@ there is a person named 'john_ibbotson' that
   has 'Ibbotson' as surname and
   has 'John Ibbotson' as full name and
   has the organisation 'IBM-UK' as default organisation and
-  has 'ITA_static/images/people/john_ibbotson.jpg' as profile picture and
+  has '/ITA_static/images/people/john_ibbotson.jpg' as profile picture and
   has the person citation count 'citation:john_ibbotson-01' as citation count.
 
 there is a person named 'kristian_stewart' that
@@ -1870,7 +1870,7 @@ there is a person named 'patrick_dantressangle' that
   has 'Dantressangle' as surname and
   has 'Patrick Dantressangle' as full name and
   has the organisation 'IBM-UK' as default organisation and
-  has 'ITA_static/images/people/patrick_dantressangle.jpg' as profile picture and
+  has '/ITA_static/images/people/patrick_dantressangle.jpg' as profile picture and
   has the person citation count 'citation:patrick_dantressangle-01' as citation count.
 
 there is a person named 'paul_stone' that
@@ -1878,7 +1878,7 @@ there is a person named 'paul_stone' that
   has 'Stone' as surname and
   has 'Paul Stone' as full name and
   has the organisation 'IBM-UK' as default organisation and
-  has 'ITA_static/images/people/paul_stone.jpg' as profile picture and
+  has '/ITA_static/images/people/paul_stone.jpg' as profile picture and
   has the person citation count 'citation:paul_stone-01' as citation count.
 
 there is a person named 'peter_waggett' that
@@ -1886,7 +1886,7 @@ there is a person named 'peter_waggett' that
   has 'Waggett' as surname and
   has 'Peter Waggett' as full name and
   has the organisation 'IBM-UK' as default organisation and
-  has 'ITA_static/images/people/peter_waggett.jpg' as profile picture and
+  has '/ITA_static/images/people/peter_waggett.jpg' as profile picture and
   has the person citation count 'citation:peter_waggett-01' as citation count.
 
 there is a person named 'saritha_arunkumar' that
@@ -1894,7 +1894,7 @@ there is a person named 'saritha_arunkumar' that
   has 'Arunkumar' as surname and
   has 'Saritha Arunkumar' as full name and
   has the organisation 'IBM-UK' as default organisation and
-  has 'ITA_static/images/people/saritha_arunkumar.jpg' as profile picture and
+  has '/ITA_static/images/people/saritha_arunkumar.jpg' as profile picture and
   has the person citation count 'citation:saritha_arunkumar-01' as citation count.
 
 there is a person named 'simon_laws' that
@@ -1902,7 +1902,7 @@ there is a person named 'simon_laws' that
   has 'Laws' as surname and
   has 'Simon Laws' as full name and
   has the organisation 'IBM-UK' as default organisation and
-  has 'ITA_static/images/people/simon_laws.jpg' as profile picture and
+  has '/ITA_static/images/people/simon_laws.jpg' as profile picture and
   has the person citation count 'citation:simon_laws-01' as citation count.
 
 there is a person named 'stephen_pipes' that
@@ -1910,7 +1910,7 @@ there is a person named 'stephen_pipes' that
   has 'Pipes' as surname and
   has 'Stephen Pipes' as full name and
   has the organisation 'IBM-UK' as default organisation and
-  has 'ITA_static/images/people/stephen_pipes.jpg' as profile picture and
+  has '/ITA_static/images/people/stephen_pipes.jpg' as profile picture and
   has the person citation count 'citation:stephen_pipes-01' as citation count.
 
 there is a person named 'syd_chapman' that
@@ -1925,7 +1925,7 @@ there is a person named 'tom_berman' that
   has 'Berman' as surname and
   has 'Tom Berman' as full name and
   has the organisation 'IBM-UK' as default organisation and
-  has 'ITA_static/images/people/tom_berman.jpg' as profile picture and
+  has '/ITA_static/images/people/tom_berman.jpg' as profile picture and
   has the person citation count 'citation:tom_berman-01' as citation count.
 
 there is a person named 'tom_klapiscak' that
@@ -1933,7 +1933,7 @@ there is a person named 'tom_klapiscak' that
   has 'Klapiscak' as surname and
   has 'Tom Klapiscak' as full name and
   has the organisation 'IBM-UK' as default organisation and
-  has 'ITA_static/images/people/tom_klapiscak.jpg' as profile picture and
+  has '/ITA_static/images/people/tom_klapiscak.jpg' as profile picture and
   has the person citation count 'citation:tom_klapiscak-01' as citation count.
 
 there is a person named 'aaron_kershenbaum' that
@@ -2174,7 +2174,7 @@ there is a person named 'geeth_de_mel' that
   has 'de Mel' as surname and
   has 'Geeth de Mel' as full name and
   has the organisation 'IBM-US' as default organisation and
-  has 'ITA_static/images/people/geeth_de_mel.jpg' as profile picture and
+  has '/ITA_static/images/people/geeth_de_mel.jpg' as profile picture and
   has the person citation count 'citation:geeth_de_mel-01' as citation count.
 
 there is a person named 'ho-yin_wong' that
@@ -2782,7 +2782,7 @@ there is a person named 'kin_leung' that
   has 'Leung' as surname and
   has 'Kin Leung' as full name and
   has the organisation 'Imperial' as default organisation and
-  has 'ITA_static/images/people/kin_leung.jpg' as profile picture and
+  has '/ITA_static/images/people/kin_leung.jpg' as profile picture and
   has the person citation count 'citation:kin_leung-01' as citation count.
 
 there is a person named 'krysia_broda' that
@@ -3388,7 +3388,7 @@ there is a person named 'thomas_laporta' that
   has 'La Porta' as surname and
   has 'Thomas La Porta' as full name and
   has the organisation 'PennState' as default organisation and
-  has 'ITA_static/images/people/thomas_laporta.jpg' as profile picture and
+  has '/ITA_static/images/people/thomas_laporta.jpg' as profile picture and
   has the person citation count 'citation:thomas_laporta-01' as citation count.
 
 there is a person named 'william_enck' that
@@ -4660,7 +4660,7 @@ there is a person named 'don_towsley' that
   has 'Towsley' as surname and
   has 'Don Towsley' as full name and
   has the organisation 'UMass' as default organisation and
-  has 'ITA_static/images/people/don_towsley.jpg' as profile picture and
+  has '/ITA_static/images/people/don_towsley.jpg' as profile picture and
   has the person citation count 'citation:don_towsley-01' as citation count.
 
 there is a person named 'elisha_rosensweig' that

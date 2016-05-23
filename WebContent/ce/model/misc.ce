@@ -28,20 +28,5 @@ conceptualise a ~ user ~ U.
 
 conceptualise a ~ temporal thing ~ T.
 
-conceptualise a ~ total ~ T that
-  has the value S as ~ scope ~ and
-  ~ applies to ~ the year Y and
-  has the value TC as ~ total paper count ~ and
-  has the value SC as ~ single institute paper count ~ and
-  has the value CC as ~ collaborative paper count ~ and
-  has the value IC as ~ international paper count ~ and
-  has the value GC as ~ government paper count ~ and
-  has the value JC as ~ journal paper count ~ and
-  has the value ECC as ~ external conference paper count ~ and
-  has the value PC as ~ patent count ~ and
-  has the value AIA as ~ active ITA authors ~ and
-  has the value ANA as ~ active non-ITA authors ~ and
-  has the value TC as ~ total citations ~.
-
 conceptualise a ~ UI message ~ M that
   has the value T as ~ message text ~.  

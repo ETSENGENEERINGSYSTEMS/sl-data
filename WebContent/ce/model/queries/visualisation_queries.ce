@@ -10,12 +10,25 @@ for which V1 and _F1 is it true that
 .
 
 -- Used by list papers page
+[ list papers ]
+for which D is it true that
+  ( there is a document named D )
+.
+
+-- Used by the OLD list papers page
 [ document citations ]
 for which V1, and V2 is it true that
   ( the document V1 has the paper citation count V2 as citation count )
 .
 
 -- Used by list authors page
+[ list authors ]
+for which P, PC and O is it true that
+  ( the published person P has the person citation count PC as citation count ) and
+  ( the published person P writes documents for the organisation O ) and
+.
+
+-- Used by the OLD list authors page
 [ published person citations ]
 for which V1, V2, V3, _F1 and _F2 is it true that
   ( the published person V1 has the person citation count V2 as citation count ) and

@@ -129,6 +129,7 @@ there is a rule executor agent named 'rules_for_documents' that
   has 'true' as iterate and
   has '10' as maximum iterations and
   has 'false' as generate rationale and
+  has '1a-document number of citations' as rule name and
   has '1a-document topics' as rule name and
   has '1b-document publication year' as rule name and
   has '1c-document author count' as rule name.

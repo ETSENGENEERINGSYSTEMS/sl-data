@@ -8,7 +8,8 @@ conceptualise a ~ citation count ~ C that
   has the value DC as ~ date checked ~ and
   has the value CC as ~ citation count ~.
 
-conceptualise a ~ paper citation count ~ C that is a citation count.
+conceptualise a ~ paper citation count ~ C that
+  is a citation count.
 
 conceptualise a ~ person citation count ~ C that
   is a citation count and

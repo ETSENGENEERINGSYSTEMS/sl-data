@@ -3,11 +3,6 @@
 -- All Rights Reserved
 -- --------------------------------------------------------------------------
 
-conceptualise a ~ co-author statistic ~ C that
-  has the published person MA as ~ main-author ~ and
-  has the published person CA as ~ co-author ~ and
-  has the value CC as ~ co-author count ~.
-
 conceptualise a ~ person ~ P that
   has the value SN as ~ surname ~ and
   has the value FON as ~ forename ~ and
@@ -36,21 +31,13 @@ conceptualise a ~ person ~ P that
   ~ writes about ~ the topic T and
   has the topic-person statistic TPS as ~ topic-person statistic ~.
 
+conceptualise a ~ core person ~ P that is a person.
+conceptualise a ~ published person ~ P that is a person.
 conceptualise a ~ government person ~ P that is a person.
 conceptualise a ~ industry person ~ P that is a person.
 conceptualise a ~ academic person ~ P that is a person.
 conceptualise a ~ US person ~ P that is a person.
 conceptualise a ~ UK person ~ P that is a person.
-
-conceptualise a ~ core person ~ P that is a person.
-
-conceptualise a ~ published person ~ P that
-  is a person.
-
-conceptualise an ~ ordered author ~ A that
-  has the value AI as ~ author index ~ and
-  has the person AP as ~ author person ~ and
-  has the organisation AO as ~ author organisation ~.
 
 conceptualise a ~ student ~ S that is a person.
 
