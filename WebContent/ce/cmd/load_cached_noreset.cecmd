@@ -4,10 +4,10 @@
 -- --------------------------------------------------------------------------
 
 -- Load the models
-perform load sentences from url '/SL_data/ce/cmd/all_models.cecmd'.
+perform load sentences from url '/sl-data/ce/cmd/all_models.cecmd'.
 
 -- Load the generated facts
-perform load sentences from url '/SL_data/ce/cmd/all_facts_generated.cecmd'.
+perform load sentences from url '/sl-data/ce/cmd/all_facts_generated.cecmd'.
 
 -- (Run the rules) - Load the cached data
-perform load sentences from url '/SL_data/ce/cmd/all_cached_rules.cecmd'.
+perform load sentences from url '/sl-data/ce/cmd/all_cached_rules.cecmd'.

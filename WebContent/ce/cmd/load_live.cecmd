@@ -6,10 +6,10 @@
 perform reset store with starting uid '1'.
 
 -- Load the models
-perform load sentences from url '/SL_data/ce/cmd/all_models.cecmd'.
+perform load sentences from url '/sl-data/ce/cmd/all_models.cecmd'.
 
 -- Load the generated facts
-perform load sentences from url '/SL_data/ce/cmd/all_facts_generated.cecmd'.
+perform load sentences from url '/sl-data/ce/cmd/all_facts_generated.cecmd'.
 
 -- Run the live rules
-perform load sentences from url '/SL_data/ce/cmd/all_live_rules.cecmd'.
+perform load sentences from url '/sl-data/ce/cmd/all_live_rules.cecmd'.
