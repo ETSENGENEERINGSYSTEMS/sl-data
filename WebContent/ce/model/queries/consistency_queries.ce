@@ -23,14 +23,9 @@ for which P is it true that
   ( the person P has no value _FN as full name )
 order by P.
 
-[ TEST-broken organisations ]
-for which O is it true that
-  ( the core organisation O has no value _SN as short name )
-order by O.
-
 [ TEST-broken organisations - no authors ]
 for which O is it true that
-  ( the core organisation O employs no person P )
+  ( the organisation O employs no person P )
 order by O.
 
 [ TEST-unavailable thumbnail ]

@@ -8,13 +8,8 @@
 there is a linguistic thing named 'ARL' that
   is expressed by 'A R L'.
 
-there is a linguistic thing named 'PennState' that
-  is expressed by 'Penn State' and
-  is expressed by 'PSU'.
-
-there is a linguistic thing named 'UniCambridge' that
-  is expressed by 'Cambridge University' and
-  is expressed by 'Cambridge'.
+there is a linguistic thing named 'PSU' that
+  is expressed by 'Penn State'.
 
 there is a linguistic thing named 'alun_preece' that
   is expressed by 'Alan Preece'.
@@ -96,9 +91,6 @@ there is a linguistic thing named 'organisation:is located at:place' that
   is expressed by 'located' and
   is expressed by 'location' and
   is expressed by 'found'.
-
-there is a linguistic thing named 'organisation:type:value' that
-  is expressed by 'industry'.
 
 there is a linguistic thing named 'person:citation count:person citation count' that
   is expressed by 'citation' and

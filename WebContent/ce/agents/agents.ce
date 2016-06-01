@@ -10,9 +10,9 @@ there is a rule executor agent named 'rules_for_orgs_1' that
   has 'true' as iterate and
   has '10' as maximum iterations and
   has 'false' as generate rationale and
-  has '1a-org type - academic' as rule name and
-  has '1a-org type - industry' as rule name and
-  has '1a-org type - government' as rule name and
+--  has '1a-org type - academic' as rule name and
+--  has '1a-org type - industry' as rule name and
+--  has '1a-org type - government' as rule name and
   has '1a-US organisation' as rule name and
   has '1a-UK organisation' as rule name.
 
@@ -44,6 +44,8 @@ there is a rule executor agent named 'rules_for_people' that
   has 'true' as iterate and
   has '10' as maximum iterations and
   has 'false' as generate rationale and
+  has '1a-person overall citation count' as rule name and
+  has '1a-person overall h-index' as rule name and
   has '1a-ordered author author organisation' as rule name and
   has '1b-person writes documents for' as rule name and
   has '1c-core person' as rule name and

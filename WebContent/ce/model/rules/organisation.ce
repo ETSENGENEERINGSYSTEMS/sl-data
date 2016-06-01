@@ -3,26 +3,26 @@
 -- All Rights Reserved
 -- --------------------------------------------------------------------------
 
-[ 1a-org type - academic ]
-if
-  ( the organisation O is an academic organisation )
-then
-  ( the organisation O has 'AC' as type )
-.
+--[ 1a-org type - academic ]
+--if
+--  ( the organisation O is an academic organisation )
+--then
+--  ( the organisation O has 'AC' as type )
+--.
 
-[ 1a-org type - industry ]
-if
-  ( the organisation O is an industrial organisation )
-then
-  ( the organisation O has 'IND' as type )
-.
+--[ 1a-org type - industry ]
+--if
+--  ( the organisation O is an industrial organisation )
+--then
+--  ( the organisation O has 'IND' as type )
+--.
 
-[ 1a-org type - government ]
-if
-  ( the organisation O is a government organisation )
-then
-  ( the organisation O has 'GOV' as type )
-.
+--[ 1a-org type - government ]
+--if
+--  ( the organisation O is a government organisation )
+--then
+--  ( the organisation O has 'GOV' as type )
+--.
 
 [ 1a-US organisation ]
 if

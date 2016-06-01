@@ -9,34 +9,6 @@ for which V1 and _F1 is it true that
   ( the UI message V1 has the value _F1 as message text )
 .
 
--- Used by list papers page
-[ list papers ]
-for which D is it true that
-  ( there is a document named D )
-.
-
--- Used by the OLD list papers page
-[ document citations ]
-for which V1, and V2 is it true that
-  ( the document V1 has the paper citation count V2 as citation count )
-.
-
--- Used by list authors page
-[ list authors ]
-for which P, PC and O is it true that
-  ( the published person P has the person citation count PC as citation count ) and
-  ( the published person P writes documents for the organisation O ) and
-.
-
--- Used by the OLD list authors page
-[ published person citations ]
-for which V1, V2, V3, _F1 and _F2 is it true that
-  ( the published person V1 has the person citation count V2 as citation count ) and
-  ( the published person V1 writes documents for the organisation V3 ) and
-  ( the published person V1 has the value _F1 as full name ) and
-  ( the published person V1 has the value _F2 as document count )
-.
-
 -- Used by list venues page
 [ event series ]
 for which V1 and _F1 is it true that
@@ -82,14 +54,28 @@ for which V1, V2, V3, V4, V5, V6, V7, V8  is it true that
   ( the organisation V5 is located at the place V6 ) and
 .
 
--- Used by co-authors wheel page (1 of 5)
-[ organisation details ]
-for which O, ON, SN, OT and C is it true that
-  ( the published organisation O has the value ON as name ) and
-  ( the published organisation O is a core organisation ) and
-  ( the published organisation O has the value SN as short name ) and
-  ( the published organisation O has the value OT as type ) and
-  ( the published organisation O is affiliated to the country C )
+-- Used by co-authors wheel page (1a of 5)
+[ gov organisation details ]
+for which O, ON and C is it true that
+  ( the government organisation O has the value ON as name ) and
+  ( the government organisation O is a core organisation ) and
+  ( the government organisation O is affiliated to the country C )
+.
+
+-- Used by co-authors wheel page (1b of 5)
+[ ac organisation details ]
+for which O, ON and C is it true that
+  ( the academic organisation O has the value ON as name ) and
+  ( the academic organisation O is a core organisation ) and
+  ( the academic organisation O is affiliated to the country C )
+.
+
+-- Used by co-authors wheel page (1c of 5)
+[ ind organisation details ]
+for which O, ON and C is it true that
+  ( the industrial organisation O has the value ON as name ) and
+  ( the industrial organisation O is a core organisation ) and
+  ( the industrial organisation O is affiliated to the country C )
 .
 
 -- Used by co-authors wheel page (2 of 5)

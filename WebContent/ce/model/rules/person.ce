@@ -12,6 +12,22 @@ then
   ( the ordered author OA has the organisation O2 as author organisation )
 .
 
+[ 1a-person overall citation count ]
+if
+  ( the person P has the person citation count PC as citation count ) and
+  ( the person citation count PC has the value CC as citation count )
+then
+  ( the person P has the value CC as overall citation count )
+.
+
+[ 1a-person overall h-index ]
+if
+  ( the person P has the person citation count PC as citation count ) and
+  ( the person citation count PC has the value HI as h-index )
+then
+  ( the person P has the value HI as overall h-index )
+.
+
 [ 1b-person writes documents for ]
 if
   ( the ordered author OA has the person P as author person ) and

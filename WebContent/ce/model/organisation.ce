@@ -5,11 +5,10 @@
 
 conceptualise an ~ organisation ~ O that
   has the value NA as ~ name ~ and
-  has the value SN as ~ short name ~ and
   ~ is located at ~ the place P and
   ~ employs ~ the person P and
   ~ wrote ~ the document AD and
-  has the value T as ~ type ~ and
+--  has the value T as ~ type ~ and
   ~ is affiliated to ~ the country C and
   has the value C1 as ~ document count ~ and
   has the value C2 as ~ external document count ~ and

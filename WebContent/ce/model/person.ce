@@ -28,6 +28,8 @@ conceptualise a ~ person ~ P that
   has the person citation count C as ~ citation count ~ and
   has the value LCC as ~ local citation count ~ and
   has the value LHI as ~ local h-index ~ and
+  has the value OCC as ~ overall citation count ~ and
+  has the value OHI as ~ overall h-index ~ and
   ~ writes about ~ the topic T and
   has the topic-person statistic TPS as ~ topic-person statistic ~.
 
