@@ -3,7 +3,7 @@
 -- All Rights Reserved
 -- --------------------------------------------------------------------------
 
--- This CE has been generated from SL_generator v1.19.xlsm
+-- This CE has been generated from SL_generator v1.20.xlsm
 
 there is a document named 'doc-1007' that
   has 'Establishing trust in vehicular networks is a critical but also difficult task. In this position paper, we present a new trust architecture and model -situation-aware trust (SAT) - to address several important trust issues in vehicular networks that rely on the current Internet infrastructure. The new model addresses several important trust issues that we believe are essential to overcome the weaknesses of the current vehicular network security and trust models. Our new SAT includes three main components: (a) an attribute based policy control model for highly dynamic communication environments, (b) a proactive trust model to build trust among vehicles and prevent the breakage of the existing trust, and (c) a social network based trust system to enhance trust and to allow the set up of a decentralized trust framework when the vehicular network is under infrastructure failure or under attacks.' as abstract.
