@@ -3,6 +3,13 @@
 -- All Rights Reserved
 -- --------------------------------------------------------------------------
 
+[ 1a-event series comprises event ]
+if
+  ( the event E is part of the event series ES )
+then
+  ( the event series ES comprises the event E )
+.
+
 [ 1a-event series years ran ]
 if
   ( the event #E is part of the event series ES )
@@ -17,6 +24,13 @@ if
   ( the document AD has the event E as venue )
 then
   ( the event series ES is a published event series )
+.
+
+[ 1a-event includes document ]
+if
+  ( the document D has the event E as venue )
+then
+  ( the event E includes the document D )
 .
 
 [ 1a-published event ]

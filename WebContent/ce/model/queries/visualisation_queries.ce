@@ -9,51 +9,6 @@ for which V1 and _F1 is it true that
   ( the UI message V1 has the value _F1 as message text )
 .
 
--- Used by list venues page
-[ event series ]
-for which V1 and _F1 is it true that
-  ( the published event series V1 has the value _F1 as full name ) and
-  ( the published event series V1 has the value _F2 as paper count )
-order by _F2 descending
-.
-
--- Used by list organisations page
-[ organisations ]
-for which V1 is it true that
-  ( there is a core organisation named V1 ) and
-  ( the core organisation V1 is a published organisation )
-.
-
--- Used by list topics page
-[ topics ]
-for which V1 is it true that
-  ( there is a topic named V1 )
-.
-
----- Used by list projects page (currently inactive)
---[ projects ]
---for which V1, V2 is it true that
---  ( the project V1 has the technical area V2 as technical area )
---.
-
--- Used by statistics page
-[ totals ]
-for which V1 is it true that
-    ( there is a total named V1 )
-.
-
--- Used by event details page
-[ event series details ]
-for which V1, V2, V3, V4, V5, V6, V7, V8  is it true that
-  ( the document V1 has the event V3 as venue ) and
-  ( the document V1 has the paper citation count V8 as citation count ) and
-  ( the published person V2 wrote the document V1 ) and
-  ( the published person V2 writes documents for the organisation V5 ) and
-  ( the event V3 is part of the event series V4 ) and
-  ( the event V3 occurs at the place V7 ) and
-  ( the organisation V5 is located at the place V6 ) and
-.
-
 -- Used by co-authors wheel page (1a of 5)
 [ gov organisation details ]
 for which O, ON and C is it true that
