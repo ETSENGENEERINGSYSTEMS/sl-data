@@ -186,7 +186,6 @@ if
 then
   ( there is a co-author statistic named CS_#co-author-stat:_$P1_#-_$P2 that ) and
   ( the co-author statistic CS has the published person P1 as main-author ) and
-  ( the co-author statistic CS has the published person P1 as co-author ) and
   ( the co-author statistic CS has the published person P2 as co-author )
 .
 
